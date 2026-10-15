@@ -1,0 +1,506 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Otwarta Półka</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Figtree:wght@400;500;600;700&display=swap">
+<style>
+/* Układ: lepka belka z wyszukiwarką i filtrami → półki (poziome rzędy kafli) → arkusz szczegółów apki */
+:root {
+  --bg: #F5F7F3;
+  --surface: #FFFFFF;
+  --fg: #16201A;
+  --muted: #5B675F;
+  --line: #DFE4DC;
+  --chip: #E8EDE6;
+  --accent: #1E7552;
+  --accent-ink: #FFFFFF;
+  --accent-soft: #DCEFE4;
+  --new: #C2410C;
+  --shadow: 0 1px 2px rgb(22 32 26 / .06), 0 8px 24px rgb(22 32 26 / .08);
+  --scrim: rgb(10 16 12 / .45);
+  --display: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --body: "Figtree", "Segoe UI", system-ui, -apple-system, sans-serif;
+  --r-icon: 22%;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0F1411; --surface: #171E1A; --fg: #E7EDE8; --muted: #98A59D; --line: #29332D;
+    --chip: #212A25; --accent: #5CC495; --accent-ink: #0B1A12; --accent-soft: #1D3328;
+    --new: #FB923C; --shadow: 0 1px 2px rgb(0 0 0 / .3), 0 8px 24px rgb(0 0 0 / .35);
+    --scrim: rgb(0 0 0 / .6); color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0F1411; --surface: #171E1A; --fg: #E7EDE8; --muted: #98A59D; --line: #29332D;
+  --chip: #212A25; --accent: #5CC495; --accent-ink: #0B1A12; --accent-soft: #1D3328;
+  --new: #FB923C; --shadow: 0 1px 2px rgb(0 0 0 / .3), 0 8px 24px rgb(0 0 0 / .35);
+  --scrim: rgb(0 0 0 / .6); color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body {
+  background: var(--bg); color: var(--fg);
+  font: 15px/1.5 var(--body);
+  -webkit-font-smoothing: antialiased;
+}
+body::before {
+  content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px);
+  z-index: 30; background: var(--bg);
+}
+button { font: inherit; color: inherit; cursor: pointer; }
+a { color: var(--accent); }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 6px; }
+.wrap {
+  max-width: 1180px; margin: 0 auto;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+
+/* ---------- Belka ---------- */
+.top {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 20;
+  background: var(--bg);
+  border-bottom: 1px solid transparent;
+  transition: border-color .2s;
+}
+.top.scrolled { border-bottom-color: var(--line); }
+.top .wrap { display: grid; gap: 10px; padding-block: 12px 10px; }
+.bar { display: flex; align-items: center; gap: 12px; }
+.brand { display: flex; align-items: center; gap: 9px; flex: none; text-decoration: none; color: var(--fg); background: none; border: 0; padding: 0; }
+.brand svg { width: 30px; height: 30px; }
+.brand b { font: 800 20px/1 var(--display); letter-spacing: -.02em; }
+.search {
+  flex: 1; min-width: 0; display: flex; align-items: center; gap: 8px;
+  background: var(--surface); border: 1px solid var(--line); border-radius: 999px;
+  padding: 0 14px; height: 42px;
+}
+.search svg { flex: none; width: 18px; height: 18px; color: var(--muted); }
+.search input { flex: 1; min-width: 0; border: 0; background: none; font: inherit; color: var(--fg); outline: none; }
+.search input::placeholder { color: var(--muted); }
+.follow-btn {
+  flex: none; display: flex; align-items: center; gap: 6px; height: 42px; padding: 0 14px;
+  border-radius: 999px; border: 1px solid var(--line); background: var(--surface); font-weight: 600;
+}
+.follow-btn svg { width: 18px; height: 18px; }
+.follow-btn .n { min-width: 20px; height: 20px; border-radius: 10px; background: var(--accent); color: var(--accent-ink); font-size: 12px; display: grid; place-items: center; padding: 0 5px; }
+.follow-btn .lbl { display: inline; }
+@media (max-width: 560px) {
+  .brand b, .follow-btn .lbl { display: none; }
+}
+
+.filters { display: flex; gap: 10px; align-items: center; min-width: 0; }
+.seg { flex: none; display: flex; background: var(--chip); border-radius: 999px; padding: 3px; }
+.seg button { border: 0; background: none; padding: 6px 12px; border-radius: 999px; font-size: 13px; font-weight: 600; color: var(--muted); }
+.seg button[aria-pressed="true"] { background: var(--surface); color: var(--fg); box-shadow: 0 1px 2px rgb(0 0 0 / .08); }
+.chips { display: flex; gap: 8px; overflow-x: auto; scrollbar-width: none; min-width: 0; flex: 1; mask-image: linear-gradient(90deg, #000 92%, transparent); }
+.chips::-webkit-scrollbar { display: none; }
+.chip {
+  flex: none; border: 1px solid var(--line); background: var(--surface); border-radius: 999px;
+  padding: 6px 13px; font-size: 13px; font-weight: 500; white-space: nowrap;
+}
+.chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+@media (max-width: 560px) { .filters { flex-direction: column; align-items: stretch; } .seg { align-self: flex-start; } }
+
+/* ---------- Półki ---------- */
+main { padding-block: 8px 64px; }
+.meta { color: var(--muted); font-size: 13px; padding-block: 6px 4px; }
+.shelf { margin-top: 26px; }
+.shelf-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin-bottom: 10px; }
+.shelf-head h2 { margin: 0; font: 600 21px/1.2 var(--display); letter-spacing: -.01em; text-wrap: balance; }
+.shelf-head small { display: block; color: var(--muted); font: 400 13px/1.4 var(--body); margin-top: 2px; }
+.more { border: 0; background: none; color: var(--accent); font-weight: 600; font-size: 14px; white-space: nowrap; padding: 4px 0; }
+.row {
+  display: grid; grid-auto-flow: column; grid-auto-columns: 152px; gap: 14px;
+  overflow-x: auto; padding-bottom: 8px; scroll-snap-type: x proximity; scrollbar-width: thin;
+}
+.tile {
+  scroll-snap-align: start; text-align: left; border: 0; background: none; padding: 0;
+  display: grid; gap: 8px; align-content: start; min-width: 0;
+}
+.tile .ico { width: 100%; aspect-ratio: 1; max-width: 100%; }
+.tile .name { font-weight: 600; font-size: 14px; line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; }
+.tile .hint { color: var(--muted); font-size: 12.5px; line-height: 1.35; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; min-height: 2.7em; }
+.tile:hover .ico { transform: translateY(-2px); box-shadow: var(--shadow); }
+
+.ico {
+  position: relative; border-radius: var(--r-icon); background: var(--surface);
+  border: 1px solid var(--line); overflow: hidden; display: grid; place-items: center;
+  transition: transform .15s, box-shadow .15s;
+}
+.ico img { width: 78%; height: 78%; object-fit: contain; }
+.ico .letter { font: 800 clamp(20px, 40%, 56px)/1 var(--display); color: #fff; width: 100%; height: 100%; display: grid; place-items: center; }
+.ico .dot { position: absolute; top: 7px; right: 7px; width: 10px; height: 10px; border-radius: 50%; background: var(--new); box-shadow: 0 0 0 2px var(--surface); }
+
+/* Lista (kategoria, wyszukiwanie, obserwowane) */
+.list { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr)); gap: 6px 22px; margin-top: 14px; }
+.item {
+  display: grid; grid-template-columns: 64px 1fr; gap: 14px; align-items: center;
+  text-align: left; border: 0; background: none; padding: 10px; margin: 0 -10px; border-radius: 14px; min-width: 0;
+}
+.item:hover { background: var(--chip); }
+.item .ico { width: 64px; height: 64px; }
+.item .txt { min-width: 0; }
+.item .name { font-weight: 600; display: flex; gap: 8px; align-items: center; }
+.item .name span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.item .hint { color: var(--muted); font-size: 13.5px; line-height: 1.35; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.item .sub { display: flex; gap: 6px; margin-top: 4px; flex-wrap: wrap; }
+.view-head { display: flex; align-items: center; gap: 10px; margin-top: 18px; }
+.view-head h1 { margin: 0; font: 800 28px/1.15 var(--display); letter-spacing: -.02em; text-wrap: balance; }
+.back { border: 1px solid var(--line); background: var(--surface); width: 38px; height: 38px; border-radius: 50%; display: grid; place-items: center; flex: none; }
+.back svg { width: 18px; height: 18px; }
+.empty { color: var(--muted); padding: 40px 0; max-width: 46ch; }
+.empty b { display: block; color: var(--fg); font: 600 18px/1.3 var(--display); margin-bottom: 4px; }
+
+.badge { display: inline-flex; align-items: center; gap: 4px; font-size: 11.5px; font-weight: 600; padding: 2px 8px; border-radius: 999px; background: var(--chip); color: var(--muted); white-space: nowrap; }
+.badge.alt { background: var(--accent-soft); color: var(--accent); }
+.badge.new { background: transparent; color: var(--new); padding: 0; }
+.badge.upd { background: var(--new); color: #fff; }
+
+/* ---------- Arkusz szczegółów ---------- */
+.scrim { position: fixed; inset: 0; background: var(--scrim); z-index: 40; opacity: 0; transition: opacity .2s; }
+.scrim.on { opacity: 1; }
+.sheet {
+  position: fixed; z-index: 41; left: 50%; bottom: 0; width: min(760px, 100%);
+  max-height: calc(100% - env(safe-area-inset-top, 0px) - 24px); overflow-y: auto;
+  background: var(--surface); border-radius: 22px 22px 0 0; box-shadow: var(--shadow);
+  transform: translate(-50%, 100%); transition: transform .28s cubic-bezier(.2,.8,.2,1);
+  padding: 22px max(20px, env(safe-area-inset-right, 0px)) calc(28px + env(safe-area-inset-bottom, 0px)) max(20px, env(safe-area-inset-left, 0px));
+}
+.sheet.on { transform: translate(-50%, 0); }
+@media (min-width: 800px) {
+  .sheet { bottom: auto; top: 50%; border-radius: 22px; transform: translate(-50%, -46%) scale(.98); opacity: 0; transition: transform .22s, opacity .22s; max-height: 88%; }
+  .sheet.on { transform: translate(-50%, -50%); opacity: 1; }
+}
+.close { position: absolute; top: 14px; right: max(14px, env(safe-area-inset-right, 0px)); width: 36px; height: 36px; border-radius: 50%; border: 0; background: var(--chip); display: grid; place-items: center; }
+.close svg { width: 18px; height: 18px; }
+.d-head { display: grid; grid-template-columns: 96px 1fr; gap: 18px; align-items: center; padding-right: 40px; }
+.d-head .ico { width: 96px; height: 96px; }
+.d-head h2 { margin: 0; font: 800 26px/1.15 var(--display); letter-spacing: -.02em; text-wrap: balance; }
+.d-head .dev { color: var(--accent); font-weight: 600; font-size: 14px; margin-top: 2px; }
+.d-head .tag { color: var(--muted); font-size: 14px; margin-top: 4px; }
+.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(90px, 1fr)); margin: 20px 0 4px; border-block: 1px solid var(--line); }
+.stat { padding: 12px 8px; text-align: center; font-variant-numeric: tabular-nums; min-width: 0; }
+.stat + .stat { border-left: 1px solid var(--line); }
+.stat b { display: block; font-weight: 700; font-size: 15px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.stat span { color: var(--muted); font-size: 12px; }
+.actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 16px; }
+.btn { display: inline-flex; align-items: center; justify-content: center; gap: 7px; height: 42px; padding: 0 18px; border-radius: 999px; font-weight: 600; font-size: 14px; text-decoration: none; border: 1px solid var(--line); background: var(--surface); color: var(--fg); }
+.btn.primary { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); flex: 1 1 180px; }
+.btn svg { width: 17px; height: 17px; }
+.btn[aria-pressed="true"] { background: var(--accent-soft); color: var(--accent); border-color: transparent; }
+.shots { display: flex; gap: 10px; overflow-x: auto; margin-top: 20px; padding-bottom: 6px; }
+.shots img { height: 210px; width: auto; max-width: none; border-radius: 12px; border: 1px solid var(--line); background: var(--chip); flex: none; }
+.d-sec { margin-top: 20px; }
+.d-sec h3 { margin: 0 0 6px; font: 600 16px/1.3 var(--display); }
+.d-sec p { margin: 0; max-width: 64ch; }
+.facts { display: grid; grid-template-columns: max-content 1fr; gap: 6px 16px; font-size: 14px; margin: 0; }
+.facts dt { color: var(--muted); }
+.facts dd { margin: 0; min-width: 0; overflow-wrap: anywhere; }
+
+.skel { color: var(--muted); padding: 60px 0; }
+@media (prefers-reduced-motion: reduce) { *, *::before { transition: none !important; } }
+</style>
+</head>
+<body>
+
+<header class="top" id="top">
+  <div class="wrap">
+    <div class="bar">
+      <button class="brand" id="home" aria-label="Strona główna">
+        <svg viewBox="0 0 32 32" aria-hidden="true">
+          <rect x="3" y="24" width="26" height="3" rx="1.5" fill="var(--fg)"/>
+          <rect x="5" y="9" width="6" height="14" rx="1.5" fill="var(--accent)"/>
+          <rect x="12.5" y="5" width="6" height="18" rx="1.5" fill="var(--fg)" opacity=".85"/>
+          <rect x="20" y="12" width="6" height="11" rx="1.5" fill="var(--accent)" opacity=".55" transform="rotate(-8 23 17)"/>
+        </svg>
+        <b>Otwarta Półka</b>
+      </button>
+      <label class="search">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="q" type="search" placeholder="Szukaj: edytor zdjęć, zamiennik Photoshopa…" autocomplete="off" aria-label="Szukaj aplikacji">
+      </label>
+      <button class="follow-btn" id="followed" aria-label="Obserwowane">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 3h12v18l-6-4-6 4z"/></svg>
+        <span class="lbl">Obserwowane</span><span class="n" id="fcount">0</span>
+      </button>
+    </div>
+    <div class="filters">
+      <div class="seg" role="group" aria-label="Platforma" id="plat">
+        <button data-p="" aria-pressed="true">Wszystkie</button>
+        <button data-p="Android" aria-pressed="false">Android</button>
+        <button data-p="Linux" aria-pressed="false">Komputer</button>
+      </div>
+      <div class="chips" id="chips" role="group" aria-label="Kategorie"></div>
+    </div>
+  </div>
+</header>
+
+<main class="wrap" id="main"><p class="skel">Układam aplikacje na półkach…</p></main>
+
+<div class="scrim" id="scrim" hidden></div>
+<section class="sheet" id="sheet" role="dialog" aria-modal="true" aria-labelledby="d-name" hidden></section>
+
+<script>
+(() => {
+  const $ = (s, el = document) => el.querySelector(s);
+  const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const store = {
+    get(k, d) { try { const v = localStorage.getItem("op:" + k); return v ? JSON.parse(v) : d; } catch { return d; } },
+    set(k, v) { try { localStorage.setItem("op:" + k, JSON.stringify(v)); } catch {} }
+  };
+
+  const ICONS = {
+    back: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M15 18l-6-6 6-6"/></svg>',
+    close: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M6 6l12 12M18 6 6 18"/></svg>',
+    down: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M12 4v12m0 0-5-5m5 5 5-5M5 20h14"/></svg>',
+    web: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18"/></svg>',
+    code: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m8 7-5 5 5 5m8-10 5 5-5 5"/></svg>',
+    mark: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 3h12v18l-6-4-6 4z"/></svg>'
+  };
+
+  let DATA, APPS = [], BY_ID = {};
+  const state = { view: "home", cat: "", plat: store.get("plat", ""), q: "" };
+  let follows = store.get("follows", {});          // id -> znacznik czasu obserwowania
+  const lastVisit = store.get("lastVisit", 0);      // nowości od ostatniej wizyty
+  const nowS = Date.now() / 1000;
+
+  // ---------- pomocnicze ----------
+  const hue = s => { let h = 0; for (const c of s) h = (h * 31 + c.charCodeAt(0)) % 360; return h; };
+  const isNew = a => lastVisit && a.added > lastVisit;
+  const hasUpdate = a => follows[a.id] && a.updated > follows[a.id];
+  const fmtN = n => n >= 1e6 ? (n / 1e6).toFixed(1).replace(".", ",") + " mln" : n >= 1e3 ? Math.round(n / 1e3) + " tys." : String(n);
+  const fmtD = s => s ? new Date(s * 1000).toLocaleDateString("pl-PL", { day: "numeric", month: "short", year: "numeric" }) : "—";
+  const platLabel = p => p === "Linux" ? "Komputer (Linux)" : p;
+
+  function icon(a, size) {
+    const letter = `<span class="letter" style="background:hsl(${hue(a.name)} 45% 42%)">${esc(a.name.trim()[0] || "?")}</span>`;
+    const dot = isNew(a) || hasUpdate(a) ? '<i class="dot" title="Nowość"></i>' : "";
+    if (!a.icon) return `<div class="ico">${letter}${dot}</div>`;
+    return `<div class="ico"><img src="${esc(a.icon)}" alt="" loading="lazy" width="${size}" height="${size}" data-fallback="${esc(a.name.trim()[0] || "?")}" data-h="${hue(a.name)}">${dot}</div>`;
+  }
+  // zastępuje uszkodzone ikony literą
+  document.addEventListener("error", e => {
+    const img = e.target;
+    if (img.tagName !== "IMG" || !img.dataset.fallback) return;
+    const s = document.createElement("span");
+    s.className = "letter"; s.style.background = `hsl(${img.dataset.h} 45% 42%)`; s.textContent = img.dataset.fallback;
+    img.replaceWith(s);
+  }, true);
+
+  function visible() {
+    return APPS.filter(a => !state.plat || a.platforms.includes(state.plat));
+  }
+
+  // ---------- kafle ----------
+  const tile = a => `<button class="tile" data-id="${esc(a.id)}">${icon(a, 128)}<span class="name">${esc(a.name)}</span><span class="hint">${esc(a.haslo)}</span></button>`;
+  const item = a => `
+    <button class="item" data-id="${esc(a.id)}">
+      ${icon(a, 64)}
+      <span class="txt">
+        <span class="name"><span>${esc(a.name)}</span>${hasUpdate(a) ? '<em class="badge upd">aktualizacja</em>' : isNew(a) ? '<em class="badge new">nowość</em>' : ""}</span>
+        <span class="hint">${esc(a.haslo)}</span>
+        <span class="sub">${a.platforms.map(p => `<em class="badge">${esc(p === "Linux" ? "Komputer" : p)}</em>`).join("")}${a.zamiennik ? `<em class="badge alt">zamiast ${esc(a.zamiennik)}</em>` : ""}</span>
+      </span>
+    </button>`;
+
+  function shelf(title, sub, apps, moreKey) {
+    if (!apps.length) return "";
+    return `<section class="shelf">
+      <div class="shelf-head"><h2>${esc(title)}${sub ? `<small>${esc(sub)}</small>` : ""}</h2>
+      ${moreKey ? `<button class="more" data-more="${esc(moreKey)}">Wszystkie (${apps.length}) →</button>` : ""}</div>
+      <div class="row">${apps.slice(0, 18).map(tile).join("")}</div></section>`;
+  }
+
+  const byRank = (list, key) => list.filter(a => a.ranks && a.ranks[key]).sort((x, y) => x.ranks[key] - y.ranks[key]);
+  const popScore = a => (a.installs || 0) + (a.stars || 0) * 4;
+
+  // ---------- widoki ----------
+  function renderHome() {
+    const v = visible();
+    const fresh = v.filter(isNew).sort((a, b) => b.added - a.added);
+    const updates = v.filter(hasUpdate);
+    const trending = byRank(v, "trending");
+    const added = byRank(v, "recently-added").sort((a, b) => b.added - a.added);
+    const popular = [...v].sort((a, b) => popScore(b) - popScore(a));
+
+    let html = `<p class="meta">${v.length} aplikacji open source · dane z Flathub i F-Droid · ${DATA.demo ? "podgląd na próbce danych" : "odświeżone " + esc(fmtD(Date.parse(DATA.updated) / 1000))}</p>`;
+    if (updates.length) html += shelf("Obserwowane z aktualizacją", "Wyszły nowe wersje od czasu, gdy je zapisałeś", updates);
+    if (fresh.length) html += shelf("Nowe od Twojej ostatniej wizyty", "", fresh, "@fresh");
+    html += shelf("Na topie", "Najszybciej zyskują użytkowników w ostatnich dwóch tygodniach", trending, trending.length > 18 ? "@trending" : "");
+    html += shelf("Najpopularniejsze", "", popular, "@popular");
+    html += shelf("Świeżo na półce", "Ostatnio dodane do katalogów", added, "@added");
+    for (const c of DATA.categories) {
+      const list = popular.filter(a => a.kategoria === c);
+      if (list.length >= 3) html += shelf(c, "", list, c);
+    }
+    $("#main").innerHTML = html;
+  }
+
+  function renderList(title, apps, emptyMsg) {
+    $("#main").innerHTML = `
+      <div class="view-head"><button class="back" id="back" aria-label="Wróć">${ICONS.back}</button><h1>${esc(title)}</h1></div>
+      <p class="meta">${apps.length} ${apps.length === 1 ? "aplikacja" : "aplikacji"}</p>
+      ${apps.length ? `<div class="list">${apps.map(item).join("")}</div>` : `<div class="empty">${emptyMsg}</div>`}`;
+  }
+
+  function searchApps(q) {
+    const words = q.toLowerCase().normalize("NFD").replace(/\p{M}/gu, "").split(/\s+/).filter(Boolean);
+    const fold = s => (s || "").toLowerCase().normalize("NFD").replace(/\p{M}/gu, "");
+    return visible().map(a => {
+      const name = fold(a.name), rest = fold([a.haslo, a.opis, a.zamiennik, a.kategoria, a.dev].join(" "));
+      let score = 0;
+      for (const w of words) {
+        if (name.startsWith(w)) score += 10; else if (name.includes(w)) score += 6;
+        else if (fold(a.zamiennik).includes(w)) score += 5;
+        else if (rest.includes(w)) score += 2; else return null;
+      }
+      return [score + Math.log10(1 + popScore(a)), a];
+    }).filter(Boolean).sort((x, y) => y[0] - x[0]).map(x => x[1]);
+  }
+
+  function render() {
+    renderChips();
+    const v = visible();
+    const pop = list => [...list].sort((a, b) => popScore(b) - popScore(a));
+    if (state.q) {
+      renderList(`„${state.q}”`, searchApps(state.q), `<b>Nic nie pasuje</b>Spróbuj ogólniejszego słowa, np. „zdjęcia”, „muzyka”, „hasła”, albo nazwy płatnej apki, którą chcesz zastąpić.`);
+    } else if (state.view === "follows") {
+      const list = v.filter(a => follows[a.id]).sort((a, b) => hasUpdate(b) - hasUpdate(a) || b.updated - a.updated);
+      renderList("Obserwowane", list, `<b>Jeszcze nic nie obserwujesz</b>Otwórz dowolną aplikację i kliknij „Obserwuj”. Gdy wyjdzie jej aktualizacja, zobaczysz ją tutaj i na stronie głównej.`);
+    } else if (state.view === "list") {
+      const k = state.cat;
+      const map = {
+        "@fresh": ["Nowe od ostatniej wizyty", v.filter(isNew).sort((a, b) => b.added - a.added)],
+        "@trending": ["Na topie", byRank(v, "trending")],
+        "@popular": ["Najpopularniejsze", pop(v)],
+        "@added": ["Świeżo na półce", byRank(v, "recently-added").sort((a, b) => b.added - a.added)]
+      };
+      const [t, list] = map[k] || [k, pop(v.filter(a => a.kategoria === k))];
+      renderList(t, list, `<b>Pusto</b>W tej kategorii nie ma aplikacji na wybraną platformę.`);
+    } else {
+      renderHome();
+    }
+    $("#fcount").textContent = Object.keys(follows).length;
+  }
+
+  function renderChips() {
+    const v = visible();
+    const counts = {};
+    for (const a of v) counts[a.kategoria] = (counts[a.kategoria] || 0) + 1;
+    const active = state.view === "list" ? state.cat : "";
+    $("#chips").innerHTML = `<button class="chip" data-cat="" aria-pressed="${!active && state.view === "home" && !state.q}">Dla Ciebie</button>` +
+      DATA.categories.filter(c => counts[c]).map(c => `<button class="chip" data-cat="${esc(c)}" aria-pressed="${active === c}">${esc(c)}</button>`).join("");
+  }
+
+  // ---------- szczegóły ----------
+  function openApp(id) {
+    const a = BY_ID[id]; if (!a) return;
+    const L = a.links || {};
+    const get = L.fdroid && (state.plat === "Android" || !L.flathub) ? ["Pobierz z F-Droid", L.fdroid]
+              : L.flathub ? ["Pobierz z Flathub", L.flathub] : null;
+    const second = L.fdroid && L.flathub ? (get[1] === L.flathub ? ["Android (F-Droid)", L.fdroid] : ["Komputer (Flathub)", L.flathub]) : null;
+    const stats = [
+      [a.platforms.map(p => p === "Linux" ? "Linux" : p).join(" + "), "platforma"],
+      a.installs ? [fmtN(a.installs), "pobrań / mies."] : null,
+      a.stars ? [fmtN(a.stars), "gwiazdek GitHub"] : null,
+      a.updated ? [fmtD(a.updated), "aktualizacja"] : null
+    ].filter(Boolean);
+    const followed = !!follows[a.id];
+
+    $("#sheet").innerHTML = `
+      <button class="close" id="close" aria-label="Zamknij">${ICONS.close}</button>
+      <div class="d-head">${icon(a, 128)}<div><h2 id="d-name">${esc(a.name)}</h2>
+        ${a.dev ? `<div class="dev">${esc(a.dev)}</div>` : ""}
+        <div class="tag">${esc(a.haslo)}</div></div></div>
+      <div class="stats">${stats.map(([b, s]) => `<div class="stat"><b>${esc(b)}</b><span>${esc(s)}</span></div>`).join("")}</div>
+      <div class="actions">
+        ${get ? `<a class="btn primary" href="${esc(get[1])}" target="_blank" rel="noopener">${ICONS.down}${esc(get[0])}</a>` : ""}
+        <button class="btn" id="fol" aria-pressed="${followed}">${ICONS.mark}${followed ? "Obserwujesz" : "Obserwuj"}</button>
+      </div>
+      ${a.screens && a.screens.length ? `<div class="shots">${a.screens.map(s => `<img src="${esc(s)}" alt="Zrzut ekranu ${esc(a.name)}" loading="lazy">`).join("")}</div>` : ""}
+      <div class="d-sec"><h3>O aplikacji</h3><p>${esc(a.opis)}</p></div>
+      <div class="d-sec"><h3>Szczegóły</h3><dl class="facts">
+        <dt>Kategoria</dt><dd>${esc(a.kategoria)}</dd>
+        ${a.zamiennik ? `<dt>Zamiast</dt><dd>${esc(a.zamiennik)}</dd>` : ""}
+        <dt>Licencja</dt><dd>${esc(a.license || "—")}</dd>
+        ${a.added ? `<dt>Na półce od</dt><dd>${esc(fmtD(a.added))}</dd>` : ""}
+        ${second ? `<dt>Też na</dt><dd><a href="${esc(second[1])}" target="_blank" rel="noopener">${esc(second[0])}</a></dd>` : ""}
+      </dl></div>
+      <div class="actions">
+        ${L.strona ? `<a class="btn" href="${esc(L.strona)}" target="_blank" rel="noopener">${ICONS.web}Strona projektu</a>` : ""}
+        ${L.kod ? `<a class="btn" href="${esc(L.kod)}" target="_blank" rel="noopener">${ICONS.code}Kod źródłowy</a>` : ""}
+      </div>`;
+    const sh = $("#sheet"), sc = $("#scrim");
+    sh.hidden = sc.hidden = false;
+    sh.scrollTop = 0;
+    requestAnimationFrame(() => { sh.classList.add("on"); sc.classList.add("on"); });
+    document.body.style.overflow = "hidden";
+    $("#close").focus();
+    $("#fol").onclick = () => {
+      if (follows[a.id]) delete follows[a.id]; else follows[a.id] = Math.floor(nowS);
+      store.set("follows", follows);
+      const on = !!follows[a.id];
+      $("#fol").setAttribute("aria-pressed", on);
+      $("#fol").innerHTML = ICONS.mark + (on ? "Obserwujesz" : "Obserwuj");
+      $("#fcount").textContent = Object.keys(follows).length;
+    };
+  }
+  function closeApp() {
+    const sh = $("#sheet"), sc = $("#scrim");
+    if (sh.hidden) return;
+    sh.classList.remove("on"); sc.classList.remove("on");
+    document.body.style.overflow = "";
+    setTimeout(() => { sh.hidden = sc.hidden = true; if (state.view === "follows" || state.view === "home") render(); }, 250);
+  }
+
+  // ---------- zdarzenia ----------
+  document.addEventListener("click", e => {
+    const t = e.target.closest("[data-id],[data-more],[data-cat],#back,#home,#followed,#close,#scrim,[data-p]");
+    if (!t) return;
+    if (t.dataset.id) return openApp(t.dataset.id);
+    if (t.id === "close" || t.id === "scrim") return closeApp();
+    if (t.dataset.p !== undefined) {
+      state.plat = t.dataset.p; store.set("plat", state.plat);
+      document.querySelectorAll("#plat button").forEach(b => b.setAttribute("aria-pressed", b === t));
+      return render();
+    }
+    if (t.dataset.more !== undefined) { state.view = "list"; state.cat = t.dataset.more; }
+    else if (t.dataset.cat !== undefined) { state.view = t.dataset.cat ? "list" : "home"; state.cat = t.dataset.cat; }
+    else if (t.id === "followed") { state.view = "follows"; }
+    else { state.view = "home"; state.cat = ""; }
+    state.q = ""; $("#q").value = "";
+    render(); window.scrollTo({ top: 0 });
+  });
+  document.addEventListener("keydown", e => { if (e.key === "Escape") closeApp(); });
+  let qt;
+  $("#q").addEventListener("input", e => { clearTimeout(qt); qt = setTimeout(() => { state.q = e.target.value.trim(); render(); }, 150); });
+  addEventListener("scroll", () => $("#top").classList.toggle("scrolled", scrollY > 4), { passive: true });
+
+  // ---------- start ----------
+  async function load() {
+    if (window.__DATA__) return window.__DATA__;
+    const r = await fetch("data.json", { cache: "no-cache" });
+    if (!r.ok) throw new Error(r.status);
+    return r.json();
+  }
+  load().then(d => {
+    DATA = d; APPS = d.apps; BY_ID = Object.fromEntries(APPS.map(a => [a.id, a]));
+    document.querySelectorAll("#plat button").forEach(b => b.setAttribute("aria-pressed", b.dataset.p === state.plat));
+    render();
+    // zapisz wizytę dopiero po chwili, żeby kropki „nowość” zostały do następnego razu
+    setTimeout(() => store.set("lastVisit", Math.floor(nowS)), 4000);
+    if (!lastVisit) store.set("lastVisit", Math.floor(nowS));
+  }).catch(() => {
+    $("#main").innerHTML = `<div class="empty"><b>Brak danych</b>Nie znalazłem pliku data.json. Uruchom <code>python fetch.py</code> albo poczekaj na pierwsze uruchomienie automatu na GitHubie.</div>`;
+  });
+})();
+</script>
+</body>
+</html>
