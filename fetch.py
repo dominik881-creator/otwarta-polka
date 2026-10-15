@@ -133,20 +133,26 @@ def flathub_collection(name, limit):
 
 
 def pick_screens(screenshots, n=4):
+    """Wybiera z każdego zrzutu rozmiar najbliższy 624 px szerokości.
+    Flathub podaje rozmiary jako listę {src, width, height} albo (starszy format) słownik {"624x351": url}."""
+    def as_int(v):
+        try:
+            return int(str(v).split("x")[0])
+        except ValueError:
+            return 0
+
     out = []
     for s in screenshots or []:
-        sizes = s.get("sizes") or {}
+        if not isinstance(s, dict):
+            continue
+        sizes = s.get("sizes") or []
+        if isinstance(sizes, dict):
+            sizes = [{"src": url, "width": key} for key, url in sizes.items()]
+        sizes = [x for x in sizes if isinstance(x, dict) and x.get("src")]
         if not sizes:
             continue
-
-        def width(k):
-            try:
-                return int(k.split("x")[0])
-            except ValueError:
-                return 0
-        # najbliższy szerokości 624 px
-        key = min(sizes, key=lambda k: abs(width(k) - 624))
-        out.append(sizes[key])
+        best = min(sizes, key=lambda x: abs(as_int(x.get("width")) - 624))
+        out.append(best["src"])
         if len(out) >= n:
             break
     return out
@@ -202,13 +208,17 @@ def collect_flathub(cache):
         app_id = key.split(":", 1)[1]
         d = details.get(app_id)
         if d is None:
-            st = get_json(f"{FLATHUB_API}/appstream/{app_id}") or {}
-            urls = st.get("urls") or {}
-            d = {
-                "strona": urls.get("homepage") or "",
-                "kod": urls.get("vcs_browser") or "",
-                "screens": pick_screens(st.get("screenshots")),
-            }
+            try:
+                st = get_json(f"{FLATHUB_API}/appstream/{app_id}") or {}
+                urls = st.get("urls") or {}
+                d = {
+                    "strona": urls.get("homepage") or "",
+                    "kod": urls.get("vcs_browser") or "",
+                    "screens": pick_screens(st.get("screenshots")),
+                }
+            except Exception as e:  # jedna dziwna apka nie może wywalić całości
+                log(f"  pomijam szczegóły {app_id}: {e}")
+                d = {"strona": "", "kod": "", "screens": []}
             details[app_id] = d
             time.sleep(0.1)
         if d.get("strona"):
@@ -268,39 +278,42 @@ def collect_fdroid():
     cutoff = now_ms - FDROID_MAX_AGE_DAYS * 86400 * 1000
     candidates = []
     for pkg, p in (idx.get("packages") or {}).items():
-        m = p.get("metadata") or {}
-        if (m.get("lastUpdated") or 0) < cutoff:
-            continue
-        name = loc(m.get("name"))
-        if not name:
-            continue
-        icon = loc(m.get("icon")) or {}
-        phone = loc((m.get("screenshots") or {}).get("phoneScreenshots") or (m.get("screenshots") or {}).get("phone") or {}) or []
-        src = m.get("sourceCode") or ""
-        gh = re.match(r"https?://github\.com/([^/]+/[^/#?]+)", src)
-        candidates.append({
-            "id": "fdroid:" + pkg,
-            "name": name,
-            "icon": (FDROID_REPO + icon["name"]) if isinstance(icon, dict) and icon.get("name") else "",
-            "dev": m.get("authorName") or "",
-            "summary": loc(m.get("summary")) or "",
-            "raw": strip_markup(loc(m.get("description")))[:900],
-            "src_cats": [c.lower() for c in (m.get("categories") or [])],
-            "license": m.get("license") or "",
-            "platforms": ["Android"],
-            "installs": 0,
-            "stars": 0,
-            "added": int((m.get("added") or 0) / 1000),
-            "updated": int((m.get("lastUpdated") or 0) / 1000),
-            "links": {k: v for k, v in {
-                "fdroid": f"https://f-droid.org/packages/{pkg}/",
-                "strona": m.get("webSite") or "",
-                "kod": src,
-            }.items() if v},
-            "screens": [FDROID_REPO + s["name"] for s in phone[:4] if isinstance(s, dict) and s.get("name")],
-            "ranks": {},
-            "_gh": gh.group(1).removesuffix(".git") if gh else None,
-        })
+        try:
+            m = p.get("metadata") or {}
+            if (m.get("lastUpdated") or 0) < cutoff:
+                continue
+            name = loc(m.get("name"))
+            if not name:
+                continue
+            icon = loc(m.get("icon")) or {}
+            phone = loc((m.get("screenshots") or {}).get("phoneScreenshots") or (m.get("screenshots") or {}).get("phone") or {}) or []
+            src = m.get("sourceCode") or ""
+            gh = re.match(r"https?://github\.com/([^/]+/[^/#?]+)", src)
+            candidates.append({
+                "id": "fdroid:" + pkg,
+                "name": name,
+                "icon": (FDROID_REPO + icon["name"]) if isinstance(icon, dict) and icon.get("name") else "",
+                "dev": m.get("authorName") or "",
+                "summary": loc(m.get("summary")) or "",
+                "raw": strip_markup(loc(m.get("description")))[:900],
+                "src_cats": [c.lower() for c in (m.get("categories") or [])],
+                "license": m.get("license") or "",
+                "platforms": ["Android"],
+                "installs": 0,
+                "stars": 0,
+                "added": int((m.get("added") or 0) / 1000),
+                "updated": int((m.get("lastUpdated") or 0) / 1000),
+                "links": {k: v for k, v in {
+                    "fdroid": f"https://f-droid.org/packages/{pkg}/",
+                    "strona": m.get("webSite") or "",
+                    "kod": src,
+                }.items() if v},
+                "screens": [FDROID_REPO + s["name"] for s in phone[:4] if isinstance(s, dict) and s.get("name")],
+                "ranks": {},
+                "_gh": gh.group(1).removesuffix(".git") if gh else None,
+            })
+        except Exception as e:  # jedna dziwna apka nie może wywalić całości
+            log(f"  pomijam {pkg}: {e}")
     log(f"  {len(candidates)} aktywnych apek")
 
     stars = github_stars(sorted({c["_gh"] for c in candidates if c["_gh"]}))
