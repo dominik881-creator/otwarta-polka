@@ -31,7 +31,14 @@ CACHE = ROOT / "cache" / "opisy.json"
 GROQ_KEY = os.getenv("GROQ_API_KEY", "").strip()
 GROQ_MODEL = os.getenv("GROQ_MODEL", "openai/gpt-oss-20b")
 GH_TOKEN = os.getenv("GITHUB_TOKEN", "").strip()
-MAX_NEW = int(os.getenv("MAX_NEW", "400"))
+MAX_NEW = int(os.getenv("MAX_NEW", "150"))
+# Po tylu minutach skrypt przestaje opisywać i zapisuje wynik (reszta dojdzie przy kolejnym uruchomieniu)
+TIME_BUDGET_MIN = float(os.getenv("TIME_BUDGET_MIN", "30"))
+START = time.time()
+
+
+class GroqDailyLimit(Exception):
+    pass
 BATCH = 8  # ile apek w jednym zapytaniu do Groq
 
 # Ile apek brać z każdego źródła
@@ -90,7 +97,8 @@ session.headers["User-Agent"] = "OtwartaPolka/1.0 (+https://github.com)"
 
 
 def log(*a):
-    print(*a, file=sys.stderr, flush=True)
+    t = int(time.time() - START)
+    print(f"[{t // 60:02d}:{t % 60:02d}]", *a, file=sys.stderr, flush=True)
 
 
 def norm(name):
@@ -374,12 +382,13 @@ Aplikacje:
 def groq_call(batch):
     payload = [{
         "id": a["id"], "nazwa": a["name"], "platforma": "/".join(a["platforms"]),
-        "podsumowanie": a["summary"], "opis_zrodlowy": a["raw"][:700],
+        "podsumowanie": a["summary"], "opis_zrodlowy": a["raw"][:450],
         "kategorie_zrodlowe": a["src_cats"][:6],
     } for a in batch]
     body = {
         "model": GROQ_MODEL,
         "temperature": 0.3,
+        "reasoning_effort": "low",  # gpt-oss: mniej „myślenia” = mniej tokenów
         "response_format": {"type": "json_object"},
         "messages": [{"role": "user", "content": PROMPT.format(
             cats=" | ".join(CATEGORIES), apps=json.dumps(payload, ensure_ascii=False))}],
@@ -388,14 +397,25 @@ def groq_call(batch):
         r = session.post("https://api.groq.com/openai/v1/chat/completions",
                          headers={"Authorization": f"Bearer {GROQ_KEY}"}, json=body, timeout=120)
         if r.status_code == 429:
-            wait = float(r.headers.get("retry-after", 20))
-            log(f"  limit Groq, czekam {wait:.0f} s")
-            time.sleep(min(wait, 120))
+            try:
+                wait = float(r.headers.get("retry-after", 20))
+            except ValueError:
+                wait = 20
+            text = r.text.lower()
+            # limit dzienny (tokeny/zapytania na dzień): czekanie nic nie da, kończymy na dziś
+            if wait > 90 or "per day" in text or "(tpd)" in text or "(rpd)" in text:
+                log(f"  dzienny limit Groq wyczerpany: {r.text[:200]}")
+                raise GroqDailyLimit()
+            log(f"  limit minutowy Groq, czekam {wait:.0f} s")
+            time.sleep(wait + 1)
             continue
         if r.status_code >= 400:
             log(f"  Groq {r.status_code}: {r.text[:300]}")
             if r.status_code in (401, 403, 404):
                 raise SystemExit("Sprawdź GROQ_API_KEY i GROQ_MODEL.")
+            if r.status_code == 400 and "reasoning_effort" in body and "reasoning" in r.text.lower():
+                body.pop("reasoning_effort")  # model nie obsługuje tego parametru
+                continue
             time.sleep(5)
             continue
         try:
@@ -424,8 +444,16 @@ def describe(apps, cache):
     todo = todo[:MAX_NEW]
     log(f"Opisuję {len(todo)} nowych apek (Groq, {GROQ_MODEL})…")
     for i in range(0, len(todo), BATCH):
+        elapsed = (time.time() - START) / 60
+        if elapsed > TIME_BUDGET_MIN:
+            log(f"  minęło {elapsed:.0f} min, kończę opisywanie na dziś (reszta jutro)")
+            break
         batch = todo[i:i + BATCH]
-        result = groq_call(batch)
+        try:
+            result = groq_call(batch)
+        except GroqDailyLimit:
+            log("  reszta apek zostanie opisana przy następnym uruchomieniu")
+            break
         for a in batch:
             x = result.get(a["id"])
             if not x or not x.get("opis"):
