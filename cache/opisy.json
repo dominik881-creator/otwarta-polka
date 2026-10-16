@@ -3681,6 +3681,186 @@
     "https://dl.flathub.org/media/io/github/chnapy.pkvault/a168d7966343227ccd36a27f6a257b96/screenshots/image-3_624x432@1.png",
     "https://dl.flathub.org/media/io/github/chnapy.pkvault/a168d7966343227ccd36a27f6a257b96/screenshots/image-4_624x432@1.png"
    ]
+  },
+  "io.gitlab.liferooter.TextPieces": {
+   "strona": "https://gitlab.com/liferooter/textpieces",
+   "kod": "https://gitlab.com/liferooter/textpieces",
+   "screens": [
+    "https://dl.flathub.org/media/io/gitlab/liferooter.TextPieces/75d716fa7366f404415d471c2af565bb/screenshots/image-1_624x420@1.png",
+    "https://dl.flathub.org/media/io/gitlab/liferooter.TextPieces/75d716fa7366f404415d471c2af565bb/screenshots/image-2_624x420@1.png",
+    "https://dl.flathub.org/media/io/gitlab/liferooter.TextPieces/75d716fa7366f404415d471c2af565bb/screenshots/image-3_624x571@1.png",
+    "https://dl.flathub.org/media/io/gitlab/liferooter.TextPieces/75d716fa7366f404415d471c2af565bb/screenshots/image-4_624x571@1.png"
+   ]
+  },
+  "dev.tchx84.Portfolio": {
+   "strona": "https://github.com/tchx84/Portfolio",
+   "kod": "https://github.com/tchx84/Portfolio",
+   "screens": [
+    "https://dl.flathub.org/media/dev/tchx84/Portfolio/1ab558f4621cfd481be68951e9ac34c0/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/dev/tchx84/Portfolio/1ab558f4621cfd481be68951e9ac34c0/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/dev/tchx84/Portfolio/1ab558f4621cfd481be68951e9ac34c0/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/dev/tchx84/Portfolio/1ab558f4621cfd481be68951e9ac34c0/screenshots/image-4_orig.png"
+   ]
+  },
+  "com.infinipaint.infinipaint": {
+   "strona": "https://infinipaint.com",
+   "kod": "https://github.com/ErrorAtLine0/infinipaint",
+   "screens": [
+    "https://dl.flathub.org/media/com/infinipaint/infinipaint/2d33ce5523abf148d703047cb2c0d0b4/screenshots/image-1_624x467@1.png",
+    "https://dl.flathub.org/media/com/infinipaint/infinipaint/2d33ce5523abf148d703047cb2c0d0b4/screenshots/image-2_624x467@1.png",
+    "https://dl.flathub.org/media/com/infinipaint/infinipaint/2d33ce5523abf148d703047cb2c0d0b4/screenshots/image-3_624x467@1.png",
+    "https://dl.flathub.org/media/com/infinipaint/infinipaint/2d33ce5523abf148d703047cb2c0d0b4/screenshots/image-4_624x467@1.png"
+   ]
+  },
+  "io.github.Omniaevo.mqtt5-explorer": {
+   "strona": "https://github.com/Omniaevo/mqtt5-explorer",
+   "kod": "https://github.com/Omniaevo/mqtt5-explorer/tree/master",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/Omniaevo.mqtt5-explorer/33b41ad99d19806d944b43ad1a417e72/screenshots/image-1_624x388@1.png",
+    "https://dl.flathub.org/media/io/github/Omniaevo.mqtt5-explorer/33b41ad99d19806d944b43ad1a417e72/screenshots/image-2_624x388@1.png",
+    "https://dl.flathub.org/media/io/github/Omniaevo.mqtt5-explorer/33b41ad99d19806d944b43ad1a417e72/screenshots/image-3_624x388@1.png",
+    "https://dl.flathub.org/media/io/github/Omniaevo.mqtt5-explorer/33b41ad99d19806d944b43ad1a417e72/screenshots/image-4_624x388@1.png"
+   ]
+  },
+  "com.github.dimkr.gplaces": {
+   "strona": "https://github.com/dimkr/gplaces",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/com/github/dimkr.gplaces/90b7152dd3c23c499a25b0ef9f6aa903/screenshots/image-1_624x399@1.png"
+   ]
+  },
+  "com.blitterstudio.amiberry": {
+   "strona": "https://amiberry.com",
+   "kod": "https://github.com/BlitterStudio/amiberry",
+   "screens": [
+    "https://dl.flathub.org/media/com/blitterstudio/amiberry/dc4daf436da6333bd245cd16ae936d0f/screenshots/image-1_624x351@1.png",
+    "https://dl.flathub.org/media/com/blitterstudio/amiberry/dc4daf436da6333bd245cd16ae936d0f/screenshots/image-2_624x485@1.png",
+    "https://dl.flathub.org/media/com/blitterstudio/amiberry/dc4daf436da6333bd245cd16ae936d0f/screenshots/image-3_624x512@1.png",
+    "https://dl.flathub.org/media/com/blitterstudio/amiberry/dc4daf436da6333bd245cd16ae936d0f/screenshots/image-4_624x512@1.png"
+   ]
+  },
+  "com.binarynonsense.acbr": {
+   "strona": "https://www.binarynonsense.com/software/",
+   "kod": "https://github.com/binarynonsense/comic-book-reader",
+   "screens": [
+    "https://dl.flathub.org/media/com/binarynonsense/acbr/73e9f21278babfba0ce69bdd62b0e074/screenshots/image-1_624x436@1.png",
+    "https://dl.flathub.org/media/com/binarynonsense/acbr/73e9f21278babfba0ce69bdd62b0e074/screenshots/image-2_624x436@1.png",
+    "https://dl.flathub.org/media/com/binarynonsense/acbr/73e9f21278babfba0ce69bdd62b0e074/screenshots/image-3_624x436@1.png",
+    "https://dl.flathub.org/media/com/binarynonsense/acbr/73e9f21278babfba0ce69bdd62b0e074/screenshots/image-4_624x436@1.png"
+   ]
+  },
+  "io.vikunja.Vikunja": {
+   "strona": "https://vikunja.io",
+   "kod": "https://github.com/go-vikunja/vikunja",
+   "screens": [
+    "https://dl.flathub.org/media/io/vikunja/Vikunja/4d9d7c93390189ed8ea1208ee93241c2/screenshots/image-1_624x378@1.png",
+    "https://dl.flathub.org/media/io/vikunja/Vikunja/4d9d7c93390189ed8ea1208ee93241c2/screenshots/image-2_624x378@1.png"
+   ]
+  },
+  "io.github.AshBuk.FingerGo": {
+   "strona": "https://github.com/AshBuk/FingerGo",
+   "kod": "https://github.com/AshBuk/FingerGo",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/AshBuk.FingerGo/a4095dbbb67fab33479001e843573c5f/screenshots/image-1_624x377@1.png"
+   ]
+  },
+  "org.vim.Vim": {
+   "strona": "https://www.vim.org/",
+   "kod": "https://github.com/vim/vim",
+   "screens": [
+    "https://dl.flathub.org/media/org/vim/Vim.desktop/7d3ecbdfd05a803412a3a0e18075d7b6/screenshots/image-1_624x350@1.png"
+   ]
+  },
+  "io.github.mlm_games.yadaw": {
+   "strona": "https://github.com/mlm-games/yadaw",
+   "kod": "https://github.com/mlm-games/yadaw",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/mlm_games.yadaw/d05711fd03802ee8d9fe02b0ce07123e/screenshots/image-1_624x397@1.png",
+    "https://dl.flathub.org/media/io/github/mlm_games.yadaw/d05711fd03802ee8d9fe02b0ce07123e/screenshots/image-2_624x366@1.png",
+    "https://dl.flathub.org/media/io/github/mlm_games.yadaw/d05711fd03802ee8d9fe02b0ce07123e/screenshots/image-3_624x366@1.png"
+   ]
+  },
+  "io.github.olaproeis.Ferrite": {
+   "strona": "https://github.com/OlaProeis/Ferrite",
+   "kod": "https://github.com/OlaProeis/Ferrite",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/olaproeis.Ferrite/59ad21bc57f141035a76d0c7de5c82dc/screenshots/image-1_624x350@1.png",
+    "https://dl.flathub.org/media/io/github/olaproeis.Ferrite/59ad21bc57f141035a76d0c7de5c82dc/screenshots/image-2_624x350@1.png",
+    "https://dl.flathub.org/media/io/github/olaproeis.Ferrite/59ad21bc57f141035a76d0c7de5c82dc/screenshots/image-3_624x350@1.png"
+   ]
+  },
+  "com.github.sixpounder.GameOfLife": {
+   "strona": "https://github.com/sixpounder/game-of-life",
+   "kod": "https://github.com/sixpounder/game-of-life",
+   "screens": [
+    "https://dl.flathub.org/media/com/github/sixpounder.GameOfLife/5b958d1eff56fa6c55fffd083dc3b6d4/screenshots/image-1_624x579@1.png",
+    "https://dl.flathub.org/media/com/github/sixpounder.GameOfLife/5b958d1eff56fa6c55fffd083dc3b6d4/screenshots/image-2_624x580@1.png",
+    "https://dl.flathub.org/media/com/github/sixpounder.GameOfLife/5b958d1eff56fa6c55fffd083dc3b6d4/screenshots/image-3_624x580@1.png",
+    "https://dl.flathub.org/media/com/github/sixpounder.GameOfLife/5b958d1eff56fa6c55fffd083dc3b6d4/screenshots/image-4_624x562@1.png"
+   ]
+  },
+  "io.github.fizzyizzy05.binary": {
+   "strona": "https://apps.gnome.org/Binary/",
+   "kod": "https://github.com/fizzyizzy05/binary",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/fizzyizzy05.binary/31fb4e37c2df59cee7a93e3a0e6fb466/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/io/github/fizzyizzy05.binary/31fb4e37c2df59cee7a93e3a0e6fb466/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/io/github/fizzyizzy05.binary/31fb4e37c2df59cee7a93e3a0e6fb466/screenshots/image-3_orig.png"
+   ]
+  },
+  "net.krafting.SemantiK": {
+   "strona": "https://gitlab.com/Krafting/semantik-gtk",
+   "kod": "https://gitlab.com/Krafting/semantik-gtk",
+   "screens": [
+    "https://dl.flathub.org/media/net/krafting/SemantiK/293dde76db87704379aff13d0d5733b7/screenshots/image-1_624x527@1.png",
+    "https://dl.flathub.org/media/net/krafting/SemantiK/293dde76db87704379aff13d0d5733b7/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/net/krafting/SemantiK/293dde76db87704379aff13d0d5733b7/screenshots/image-3_624x527@1.png"
+   ]
+  },
+  "com.diffingo.fwbackups": {
+   "strona": "https://diffingo.com/oss/fwbackups/",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/com/diffingo/fwbackups.desktop/1de3f665b36ef7fe951eb5d279975345/screenshots/image-1_624x514@1.png",
+    "https://dl.flathub.org/media/com/diffingo/fwbackups.desktop/1de3f665b36ef7fe951eb5d279975345/screenshots/image-2_624x514@1.png",
+    "https://dl.flathub.org/media/com/diffingo/fwbackups.desktop/1de3f665b36ef7fe951eb5d279975345/screenshots/image-3_624x500@1.png",
+    "https://dl.flathub.org/media/com/diffingo/fwbackups.desktop/1de3f665b36ef7fe951eb5d279975345/screenshots/image-4_624x514@1.png"
+   ]
+  },
+  "org.kde.bomber": {
+   "strona": "https://apps.kde.org//bomber",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/kde/bomber/910fee34bc702c3dc64453eed5555a42/screenshots/image-1_624x489@1.png"
+   ]
+  },
+  "moe.liam.audimorf": {
+   "strona": "https://codeberg.org/tehsquidge/Audimorf",
+   "kod": "https://codeberg.org/tehsquidge/Audimorf",
+   "screens": [
+    "https://dl.flathub.org/media/moe/liam/audimorf/3ab2fe50fe7a39b6e8720094569f55c6/screenshots/image-1_624x624@1.png",
+    "https://dl.flathub.org/media/moe/liam/audimorf/3ab2fe50fe7a39b6e8720094569f55c6/screenshots/image-2_624x624@1.png",
+    "https://dl.flathub.org/media/moe/liam/audimorf/3ab2fe50fe7a39b6e8720094569f55c6/screenshots/image-3_624x624@1.png",
+    "https://dl.flathub.org/media/moe/liam/audimorf/3ab2fe50fe7a39b6e8720094569f55c6/screenshots/image-4_624x624@1.png"
+   ]
+  },
+  "io.github.qtox.qTox": {
+   "strona": "https://qtox.github.io",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/qtox.qTox/1fde11b81b6258cc4dbe973b9a320a40/screenshots/image-1_624x421@1.png",
+    "https://dl.flathub.org/media/io/github/qtox.qTox/1fde11b81b6258cc4dbe973b9a320a40/screenshots/image-2_624x374@1.png"
+   ]
+  },
+  "io.github.xaos_project.XaoS": {
+   "strona": "https://xaos-project.github.io/",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/xaos_project.XaoS/df188b03d58f0ad4616b6b411cee8233/screenshots/image-1_624x342@1.png",
+    "https://dl.flathub.org/media/io/github/xaos_project.XaoS/df188b03d58f0ad4616b6b411cee8233/screenshots/image-2_624x342@1.png",
+    "https://dl.flathub.org/media/io/github/xaos_project.XaoS/df188b03d58f0ad4616b6b411cee8233/screenshots/image-3_624x342@1.png",
+    "https://dl.flathub.org/media/io/github/xaos_project.XaoS/df188b03d58f0ad4616b6b411cee8233/screenshots/image-4_624x342@1.png"
+   ]
   }
  },
  "opisy": {
@@ -3779,6 +3959,864 @@
    "opis": "Flipbook pozwala rysować i eksportować animacje frame‑by‑frame. Aplikacja jest w fazie rozwoju, ale oferuje prosty interfejs i automatyczne zapisywanie kolorów.",
    "kategoria": "Grafika i zdjęcia",
    "zamiennik": ""
+  },
+  "flathub:io.github.noobping.listenmoe": {
+   "haslo": "Radio z japońską i koreańską muzyką",
+   "opis": "Słuchaj J‑POP i K‑POP z automatycznym odtwarzaniem oraz wyświetlaniem danych o utworze. Aplikacja nie wyświetla reklam i pozwala na dzielenie się aktywnością w Discordzie. Idealna dla fanów azjatyckiej muzyki.",
+   "kategoria": "Internet i przeglądarki",
+   "zamiennik": ""
+  },
+  "flathub:io.github.Duecki1.CalibRaw": {
+   "haslo": "Edytor zdjęć RAW z zachowaniem oryginału",
+   "opis": "Przetwarza pliki RAW przy pomocy karty graficznej, pozwalając na korekcję koloru, tonacji i szczegółów. Zmiany zapisuje w osobnych plikach, więc oryginalne zdjęcia pozostają nienaruszone. Umożliwia także łączenie zdjęć HDR i stosowanie masek.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": "Adobe Lightroom"
+  },
+  "flathub:com.heroicgameslauncher.hgl": {
+   "haslo": "Uruchamianie gier z różnych sklepów",
+   "opis": "Heroic pozwala instalować i uruchamiać gry z Epic Games Store, GOG i Amazon Games. Użytkownik ma dostęp do wszystkich gier w jednym interfejsie. Obsługuje także gry z innych źródeł i aplikacje przeglądarkowe.",
+   "kategoria": "Gry",
+   "zamiennik": "Steam"
+  },
+  "flathub:page.codeberg.petsoi.coronet": {
+   "haslo": "Logiczna gra z koronami",
+   "opis": "Coronet to łamigłówka polegająca na umieszczaniu jednej korony w każdym wierszu, kolumnie i kolorowej strefie. Korony nie mogą się dotykać ani pod kątem. Gra rozwija logiczne myślenie i planowanie.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "fdroid:com.topjohnwu.magisk": {
+   "haslo": "Narzędzie do modyfikacji Androida",
+   "opis": "Magisk umożliwia rootowanie urządzeń z Androidem 5.0+ oraz instalowanie modułów, które zmieniają system bez konieczności flashowania. Działa na poziomie boot i aplikacji, pozwalając na modyfikacje podsystemów.",
+   "kategoria": "System",
+   "zamiennik": ""
+  },
+  "fdroid:neth.iecal.curbox": {
+   "haslo": "Blokowanie aplikacji i stron",
+   "opis": "Curbox pozwala zablokować aplikacje, strony internetowe oraz krótkie filmy, monitorując czas spędzony przed ekranem. Użytkownik może ustawić reguły blokowania i obserwować zmniejszenie czasu korzystania z urządzenia.",
+   "kategoria": "System",
+   "zamiennik": ""
+  },
+  "flathub:org.telegram.desktop": {
+   "haslo": "Szybka i bezpieczna komunikacja",
+   "opis": "Telegram to aplikacja do szybkiego przesyłania wiadomości, zdjęć i plików. Dane są szyfrowane, a komunikacja synchronizuje się na wszystkich urządzeniach. Nie wymaga instalacji na serwerze użytkownika.",
+   "kategoria": "Komunikacja",
+   "zamiennik": "WhatsApp"
+  },
+  "flathub:com.jeffser.Pigment": {
+   "haslo": "Ekstrakcja kolorów z obrazów",
+   "opis": "Pigment pozwala wyodrębnić paletę kolorów z dowolnego obrazu offline. Użytkownik może wybrać liczbę i jakość kolorów, co ułatwia projektowanie i analizę kolorystyczną.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "flathub:page.codeberg.petsoi.pully": {
+   "haslo": "Łamigłówka typu Numberlink",
+   "opis": "Pully to gra logiczna, w której trzeba narysować jedną linię przechodzącą przez wszystkie pola siatki, odwiedzając kolejne liczby w kolejności. Gracz przesuwa linię i może wracać do wcześniejszych pól.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "fdroid:com.arslan.shizuwall": {
+   "haslo": "Firewall bez VPN i root",
+   "opis": "ShizuWall blokuje połączenia sieciowe wybranych aplikacji bez konieczności instalowania VPN. Działa na Androidzie 11+ i wykorzystuje Shizuku do kontroli ruchu sieciowego.",
+   "kategoria": "Prywatność i bezpieczeństwo",
+   "zamiennik": ""
+  },
+  "flathub:com.obsproject.Studio": {
+   "haslo": "Nagrywanie i transmisje wideo na żywo",
+   "opis": "OBS Studio pozwala na rejestrowanie ekranu, łączenie wielu źródeł wideo i dźwięku oraz przesyłanie strumieni na żywo. Używany przez twórców treści i streamerów. Oferuje przełączanie scen i filtry dźwiękowe.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:im.bernard.Parolu": {
+   "haslo": "Czytanie tekstu na głos offline",
+   "opis": "Parolu zamienia wpisany tekst na mowę przy pomocy różnych głosów. Działa całkowicie offline, nie wysyła danych do internetu. Obsługuje języki takie jak niemiecki, włoski, francuski, hiszpański i esperanto.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:app.drey.Haystack": {
+   "haslo": "Edytor zrzutów testowych OpenQA",
+   "opis": "Haystack umożliwia rysowanie obszarów na zrzutach ekranu, które muszą się zgadzać z wynikami testów. Pracuje z lokalnym repozytorium zrzutów. Ułatwia przygotowanie testów automatycznych.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "fdroid:com.notcvnt.rknhardering": {
+   "haslo": "Wykrywanie VPN i proxy na Androidzie",
+   "opis": "Aplikacja sprawdza, czy na urządzeniu działa VPN lub proxy, stosując metodologię RKN. Uruchamia dziewięć modułów i podaje wynik. Pomaga w monitorowaniu połączeń sieciowych.",
+   "kategoria": "Prywatność i bezpieczeństwo",
+   "zamiennik": ""
+  },
+  "flathub:org.onlyoffice.desktopeditors": {
+   "haslo": "Pakiet biurowy bez internetu",
+   "opis": "ONLYOFFICE Desktop Editors to darmowy zestaw edytorów dokumentów, arkuszy i prezentacji. Obsługuje formaty Office Open XML i PDF. Pracuje offline i jest kompatybilny z Windows, Linux i macOS.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:io.github.nacho.mundi": {
+   "haslo": "Nauka geografii z quizami",
+   "opis": "Mundi prezentuje interaktywne mapy i quizy z czasem, pozwalając sprawdzić wiedzę o regionach i krajach. Użytkownik może eksplorować mapy i testować się w trybie zliczania punktów.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:io.github.bujjuisabee.shimelinux": {
+   "haslo": "Piesek na pulpicie w wersji Linux",
+   "opis": "ShimeLinux przenosi popularnego Shimeji do środowisk Linux. Małe postaci chodzą po ekranie i reagują na okna. Działa na większości środowisk graficznych.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "fdroid:com.github.metacubex.clash.meta": {
+   "haslo": "Tunel VPN z regułami",
+   "opis": "Clash Meta For Android to graficzny interfejs do zarządzania tunelami VPN, obsługujący protokoły VMess, Shadowsocks, Trojan i Snell. Umożliwia tworzenie reguł DNS i przekierowywanie ruchu.",
+   "kategoria": "Prywatność i bezpieczeństwo",
+   "zamiennik": ""
+  },
+  "fdroid:tech.dongdongbh.mindwtr": {
+   "haslo": "Zarządzaj zadaniami według GTD",
+   "opis": "Aplikacja do zapisywania zadań i pomysłów w jednym miejscu. Pozwala szybko sortować i wyświetlać tylko te, które możesz wykonać teraz. Działa offline, bez konta i subskrypcji.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:io.github.mlm_games.pomodorot": {
+   "haslo": "Pomodoro timer z blokowaniem ekranu",
+   "opis": "Ustaw timer na 20‑minutowe przerwy. Podczas przerwy ekran zostaje zablokowany, abyś nie mógł go ignorować. Działa w tle i można uruchomić z linii poleceń.",
+   "kategoria": "System",
+   "zamiennik": ""
+  },
+  "flathub:io.github.openlf2.OpenLF2": {
+   "haslo": "Reimplementacja gry Little Fighter 2",
+   "opis": "Gra 2D z walką w stylu klasycznych beat’em up. Można grać lokalnie lub połączyć dwie kopie przez sieć. Wymaga oryginalnych plików gry, które sam dostarczasz.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "fdroid:com.viscouspot.gitsync": {
+   "haslo": "Synchronizacja repozytorium Git na Androidzie",
+   "opis": "Automatycznie synchronizuje folder lokalny z repozytorium zdalnym. Obsługuje HTTP/SSH, OAuth i ręczne aktualizacje. Działa w tle i wymaga jednorazowego ustawienia.",
+   "kategoria": "Programowanie",
+   "zamiennik": ""
+  },
+  "flathub:org.prismlauncher.PrismLauncher": {
+   "haslo": "Launcher do zarządzania instalacjami Minecraft",
+   "opis": "Umożliwia instalację i aktualizację modów oraz modpacków. Kontroluje ustawienia Javy i zarządza światami oraz paczkami zasobów. Działa na Linuxie.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:io.github.snesrev.Zelda3": {
+   "haslo": "Klona gry Zelda – A Link to the Past",
+   "opis": "Odtwarza klasyczną przygodę w stylu SNES. Wymaga oryginalnego ROMa, ale dodaje nowe funkcje i tłumaczenia. Działa na Linuxie.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:com.glitchedpolygons.l8w8jwtgui": {
+   "haslo": "GUI do obsługi tokenów JWT",
+   "opis": "Interfejs do kodowania, podpisywania i weryfikacji tokenów JSON Web Token. Umożliwia ustawienie standardowych i własnych danych w tokenie.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "fdroid:org.schabi.newpipe": {
+   "haslo": "Lekki odtwarzacz YouTube bez Google",
+   "opis": "Odtwarza filmy z YouTube bez użycia API Google. Nie wymaga konta ani usług Google. Działa na urządzeniach bez Google Services.",
+   "kategoria": "Internet i przeglądarki",
+   "zamiennik": ""
+  },
+  "fdroid:app.pwhs.universalinstaller": {
+   "haslo": "Instalator pakietów APK i XAPK z instalacją cichą",
+   "opis": "Universal Installer pozwala instalować aplikacje z plików APK, XAPK oraz pakietów z danymi OBB. Obsługuje instalację cichą przy pomocy Shizuku, Root lub Dhizuku. Użytkownik może zapisywać profile instalacji i korzystać z nowoczesnego interfejsu Material 3.",
+   "kategoria": "System",
+   "zamiennik": "N/A"
+  },
+  "flathub:org.localsend.localsend_app": {
+   "haslo": "Wysyłanie plików między urządzeniami w sieci lokalnej",
+   "opis": "LocalSend umożliwia przesyłanie plików i wiadomości bezpośrednio do sąsiednich urządzeń w tej samej sieci Wi‑Fi. Nie wymaga zewnętrznych serwerów ani konta. Działa na Androidzie i Linuksie.",
+   "kategoria": "Narzędzia",
+   "zamiennik": "N/A"
+  },
+  "flathub:net.sourceforge.TuxFootball": {
+   "haslo": "2D gra piłkarska w stylu klasycznych DOS‑owych tytułów",
+   "opis": "Tux Football to szybka, responsywna gra piłkarska z grafiką 2D. Gracz kontroluje najbliższego piłkarza i może strzelać lub podawać. Gra przypomina stare klasyki, takie jak Kick Off czy Sensible Soccer.",
+   "kategoria": "Gry",
+   "zamiennik": "N/A"
+  },
+  "flathub:eu.alyshmahell.ServeMedia": {
+   "haslo": "Samodzielny serwer multimedialny na Linuksie",
+   "opis": "ServeMedia to lekki serwer multimedialny, który automatycznie przeszukuje katalogi, wyciąga tytuły i pobiera metadane z serwisów takich jak TVMaze. Umożliwia organizację i odtwarzanie filmów i programów telewizyjnych.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": "N/A"
+  },
+  "fdroid:io.nekohasekai.sfa": {
+   "haslo": "Uniwersalna platforma proxy i VPN na Androidzie",
+   "opis": "sing-box pozwala tworzyć serwery proxy, klientów i przejrzyste proxy. Aplikacja obsługuje profile sing-box i integruje funkcję TUN, dzięki czemu ruch sieciowy może być przekierowywany przez VPN.",
+   "kategoria": "Prywatność i bezpieczeństwo",
+   "zamiennik": "N/A"
+  },
+  "fdroid:app.pwhs.blockads": {
+   "haslo": "Blokowanie reklam i śledzenia w całym systemie",
+   "opis": "BlockAds blokuje reklamy i trackery w aplikacjach oraz przeglądarkach bez potrzeby roota. Działa na bazie inteligentnego DNS, chroni prywatność i pozwala tworzyć profile blokowania dostępu do internetu dla poszczególnych aplikacji.",
+   "kategoria": "Prywatność i bezpieczeństwo",
+   "zamiennik": "AdGuard"
+  },
+  "flathub:net.davidotek.pupgui2": {
+   "haslo": "Zarządzanie narzędziami kompatybilności Wine i Proton",
+   "opis": "ProtonUp-Qt umożliwia instalację i aktualizację narzędzi kompatybilności, takich jak Proton, Wine czy GE-Proton, dla Steam, Lutris i innych launcherów. Dostępne są wersje Snap, Flatpak i natywne.",
+   "kategoria": "Narzędzia",
+   "zamiennik": "Proton Up"
+  },
+  "flathub:io.github.alescdb.mailviewer": {
+   "haslo": "Podgląd wiadomości EML i MSG bez instalacji dodatkowego oprogramowania",
+   "opis": "MailViewer pozwala otwierać i wyświetlać pliki e‑mailowe .eml i .msg w środowisku GNOME. Aplikacja renderuje załączniki, HTML i tekst prosty, nie wymaga konta ani dodatkowych pakietów.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": "N/A"
+  },
+  "flathub:net.qcde.QCDE": {
+   "haslo": "Mod Doom II z bronią Quake Champions",
+   "opis": "Dodaje do Doom II bronie i mechanikę z Quake Champions, w tym klasy postaci z unikalnymi zdolnościami. Umożliwia zmiany w rozgrywce i nowe wyzwania. Idealny dla fanów strzelanek retro.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "fdroid:io.ente.locker.fdroid": {
+   "haslo": "Bezpieczne przechowywanie dokumentów",
+   "opis": "Szyfrowany sejf na ważne dokumenty i dane. Można udostępniać wybrane pliki zaufanym osobom i ustawiać automatyczne przekazywanie w nagłych wypadkach. Zapewnia ochronę prywatności.",
+   "kategoria": "Prywatność i bezpieczeństwo",
+   "zamiennik": ""
+  },
+  "flathub:com.mattjakeman.ExtensionManager": {
+   "haslo": "Zarządzanie rozszerzeniami GNOME",
+   "opis": "Aplikacja do przeglądania i instalowania rozszerzeń dla środowiska GNOME. Pozwala na łatwe dodawanie funkcji i personalizację pulpitu. Nie wymaga ręcznego pobierania plików.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.redddfoxxyy.samaya": {
+   "haslo": "Pomodoro timer na pulpit",
+   "opis": "Minimalistyczny timer Pomodoro z trybami pracy, krótkich i długich przerw. Umożliwia ustawienie własnych czasów i otrzymywanie powiadomień. Pomaga utrzymać skupienie.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:net.tidycustoms.Publii": {
+   "haslo": "CMS do statycznych stron internetowych",
+   "opis": "Program do tworzenia statycznych witryn z prostym interfejsem. Umożliwia publikowanie treści, wybór szablonów i optymalizację SEO. Nie wymaga serwera WWW.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "fdroid:com.github.shadowsocks": {
+   "haslo": "Klient Shadowsocks na Androida",
+   "opis": "Szybki tunel proxy, który pozwala omijać blokady internetowe. Obsługuje skanowanie kodów QR i konfigurację ręczną. Nie wymaga dodatkowych zależności.",
+   "kategoria": "Internet i przeglądarki",
+   "zamiennik": ""
+  },
+  "fdroid:org.lichess.mobileV2": {
+   "haslo": "Aplikacja do gry w szachy",
+   "opis": "Otwarta platforma szachowa z milionami gier dziennie. Pozwala na grę online, trening i analizę partii. Całość jest darmowa i wolna od reklam.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:org.libretro.RetroArch": {
+   "haslo": "Front-end do emulatorów i gier retro",
+   "opis": "Centralny interfejs do uruchamiania emulatorów, gier i odtwarzania multimediów. Umożliwia ustawienia globalne, shaderów i netplay. Obsługuje wiele platform.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:io.github.dragonGR.Dropzone": {
+   "haslo": "Udostępnia pliki w sieci lokalnej",
+   "opis": "Aplikacja GNOME pozwala szybko udostępniać pliki w sieci lokalnej. Po wybraniu pliku uruchamia tymczasowy serwer HTTP i generuje link z kodem QR. Inne urządzenia mogą pobrać plik bez instalacji dodatkowego oprogramowania.",
+   "kategoria": "Internet i przeglądarki",
+   "zamiennik": ""
+  },
+  "flathub:dev.creeperkatze.full-steam-ahead": {
+   "haslo": "Importuje gry do Steam",
+   "opis": "Skanuje uruchomiciele gier i dodaje je do biblioteki Steam jako skróty. Dzięki temu wszystkie gry uruchamia się z jednego miejsca. Sortuje po kolekcjach i pokazuje zmiany przed zapisaniem.",
+   "kategoria": "Gry",
+   "zamiennik": "Steam"
+  },
+  "fdroid:com.github.shadowsocks.tv": {
+   "haslo": "Klient Shadowsocks na Android TV",
+   "opis": "Aplikacja umożliwia korzystanie z szybkiego tunelu proxy Shadowsocks na Android TV. Pomaga obejść zapory sieciowe i uzyskać dostęp do zablokowanych treści.",
+   "kategoria": "Prywatność i bezpieczeństwo",
+   "zamiennik": ""
+  },
+  "fdroid:app.smarttube.fdroid": {
+   "haslo": "Oglądaj media na Android TV według własnych reguł",
+   "opis": "Przeglądarka treści wideo na Android TV, która pozwala filtrować i wybierać filmy według własnych kryteriów. Nie wymaga konta ani dodatkowych aplikacji.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": "YouTube"
+  },
+  "flathub:it.mijorus.gearlever": {
+   "haslo": "Zarządzaj plikami AppImage",
+   "opis": "Narzędzie do organizacji i aktualizacji plików AppImage. Tworzy skróty na pulpit, aktualizuje aplikacje w miejscu i pozwala trzymać kilka wersji obok siebie.",
+   "kategoria": "Narzędzia",
+   "zamiennik": "AppImageLauncher"
+  },
+  "flathub:io.github.josephmawa.Egghead": {
+   "haslo": "Quizy w formie gry",
+   "opis": "Prosta aplikacja z quizami, którą można pobierać, zapisywać i usuwać. Obsługuje tryby ciemny, jasny i systemowy. Idealna na krótkie przerwy w pracy lub nauce.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": "Quizlet"
+  },
+  "flathub:org.kde.kjournaldbrowser": {
+   "haslo": "Przeglądarka baz danych journald",
+   "opis": "Narzędzie do przeglądania lokalnych, zdalnych i offline baz danych journald. Pozwala na analizę logów systemowych w wygodny sposób.",
+   "kategoria": "System",
+   "zamiennik": ""
+  },
+  "fdroid:sh.haven.app": {
+   "haslo": "Klient SSH, VNC, RDP i SFTP na Android",
+   "opis": "Otwiera terminal SSH z pełnym emulatorem VT100, obsługuje sesje tmux i screen oraz pozwala na zdalny dostęp do pulpitu i plików. Ma wbudowany klient VNC i RDP.",
+   "kategoria": "Narzędzia",
+   "zamiennik": "Termius"
+  },
+  "flathub:org.gimp.GIMP": {
+   "haslo": "Program do zaawansowanej obróbki obrazów",
+   "opis": "GIMP pozwala tworzyć i edytować grafiki rastrowe. Używany jest jako alternatywa dla płatnych programów do malowania, retuszu zdjęć i przygotowywania grafik. Obsługuje wiele formatów i rozszerzeń.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": "Photoshop"
+  },
+  "flathub:io.github.Predidit.Kazumi": {
+   "haslo": "Aplikacja do oglądania anime z komentarzami",
+   "opis": "Kazumi umożliwia przeglądanie anime z funkcją live danmaku – komentarzy wyświetlanych na ekranie. Użytkownik może tworzyć kolekcje i oglądać je według własnych reguł. Dostępne tylko w języku chińskim.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:org.tryton.Tryton-82": {
+   "haslo": "Oprogramowanie księgowe i zarządzające firmą",
+   "opis": "Tryton to otwarte rozwiązanie dla firm, które potrzebują księgowości, zarządzania magazynem i sprzedażą. Jest przeznaczony dla firm dowolnej wielkości i łatwy w obsłudze.",
+   "kategoria": "Finanse",
+   "zamiennik": ""
+  },
+  "fdroid:org.koreader.launcher.fdroid": {
+   "haslo": "Czytnik e-booków zoptymalizowany pod ekrany e-ink",
+   "opis": "KOReader otwiera wiele formatów e-booków i PDF, oferuje zaawansowane ustawienia tekstu oraz tryb przewijania. Działa na urządzeniach z ekranem e-ink, zapewniając wygodne czytanie.",
+   "kategoria": "Czytanie",
+   "zamiennik": ""
+  },
+  "fdroid:com.aryan.reader.oss": {
+   "haslo": "Czytnik dokumentów i e-booków z naciskiem na prywatność",
+   "opis": "Episteme Reader obsługuje PDF, EPUB, MOBI, Markdown i inne formaty. Umożliwia rysowanie i dodawanie notatek bezpośrednio na stronach oraz dostosowywanie wyglądu.",
+   "kategoria": "Czytanie",
+   "zamiennik": ""
+  },
+  "flathub:app.zen_browser.zen": {
+   "haslo": "Przeglądarka internetowa skupiająca się na prywatności",
+   "opis": "Zen pozwala przeglądać stronę w trybie prywatnym, z funkcjami takimi jak podział ekranu, panele boczne i grupy zakładek. Interfejs jest konfigurowalny i ma minimalny ślad danych użytkownika.",
+   "kategoria": "Internet i przeglądarki",
+   "zamiennik": ""
+  },
+  "flathub:page.codeberg.petsoi.words": {
+   "haslo": "Gra słowna polegająca na zgadywaniu słów",
+   "opis": "Words to gra podobna do Wordle, w której trzeba odgadnąć ukryte słowo w sześciu próbach. Gra obsługuje różne listy słów i języki, w tym angielski i niemiecki.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:io.github.word_sys.word-sys-pdf-editor": {
+   "haslo": "Edytor PDF na Linuxa",
+   "opis": "Narzędzie pozwala edytować tekst i obrazy w plikach PDF, łączyć i przestawiać strony oraz rysować kształty i podświetlenia. Wynik można zapisać jako PDF lub tekst.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "fdroid:org.jitsi.meet": {
+   "haslo": "Spotkania wideo bez konta",
+   "opis": "Pozwala na szybkie rozmowy wideo z dowolną liczbą uczestników. Nie wymaga rejestracji, a pokoje chronione są hasłem. Szyfrowane połączenia zapewniają prywatność.",
+   "kategoria": "Komunikacja",
+   "zamiennik": "Zoom"
+  },
+  "fdroid:com.samyak.repostore": {
+   "haslo": "Instalowanie aplikacji z GitHub",
+   "opis": "Aplikacja prezentuje wypuszczone wersje APK z repozytoriów GitHub w stylu Play Store. Pokazuje tylko projekty z plikami APK i pozwala zainstalować najnowszą wersję jednym kliknięciem.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:org.libreoffice.LibreOffice": {
+   "haslo": "Pakiet biurowy open source",
+   "opis": "Zawiera edytor tekstów, arkusz kalkulacyjny, prezentacje, rysunek wektorowy, bazę danych i edytor równań. Obsługuje formaty Microsoft Office i jest darmowy.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": "Microsoft Office"
+  },
+  "flathub:de.philippun1.turtle": {
+   "haslo": "Narzędzie do pracy z git",
+   "opis": "Otwiera okno dialogowe z podstawowymi poleceniami git, takimi jak commit czy log. Dostarcza wtyczkę do menedżera plików, dodając ikony i menu kontekstowe.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:com.glitchedpolygons.Argon2GUI": {
+   "haslo": "Tworzenie i weryfikacja haseł",
+   "opis": "Graficzny interfejs do haszowania haseł metodą Argon2. Pozwala ustawić parametry czasu, pamięci i równoległości oraz sprawdzić poprawność hasła.",
+   "kategoria": "Prywatność i bezpieczeństwo",
+   "zamiennik": ""
+  },
+  "fdroid:com.junkfood.seal": {
+   "haslo": "Pobieranie wideo i audio",
+   "opis": "Pozwala pobierać pliki z popularnych serwisów wideo, wstawiać metadane i miniatury oraz łączyć napisy. Obsługuje pobieranie całych playlist jednym kliknięciem.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "fdroid:in.hridayan.ashell": {
+   "haslo": "Wykonywanie poleceń ADB",
+   "opis": "Aplikacja umożliwia uruchamianie poleceń ADB na urządzeniu lub zdalnie, z obsługą logcat, top i innych. Ma nowoczesny interfejs Material Design 3.",
+   "kategoria": "System",
+   "zamiennik": ""
+  },
+  "flathub:org.DolphinEmu.dolphin-emu": {
+   "haslo": "Emulator konsoli GameCube i Wii",
+   "opis": "Pozwala grać w gry z konsoli GameCube i Wii na komputerze w pełnej rozdzielczości 1080p. Obsługuje kontrolery PC, tryb turbo i multiplayer w sieci.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:io.github.tfuxu.Halftone": {
+   "haslo": "Kompresja obrazów z ditheringiem",
+   "opis": "Halftone zmniejsza rozmiar plików zdjęć, nadając im styl pixel art. Działa na Linuksie i wykorzystuje technikę ditheringu. Idealny dla osób chcących oszczędzić miejsce przy zachowaniu wyglądu obrazu.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "flathub:app.shaz.pianocheetah": {
+   "haslo": "Proste narzędzie do nauki gry na pianinie",
+   "opis": "pianocheetah pozwala odtwarzać i ćwiczyć utwory w formacie pianoroll. Użytkownik może praktykować pojedyncze dźwięki, a ścieżki MIDI synchronizują się z tempem. Świetne dla początkujących muzyków.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "fdroid:com.deniscerri.ytdl": {
+   "haslo": "Pobieranie filmów i dźwięków z internetu",
+   "opis": "YTDLnis umożliwia pobieranie plików audio i wideo z ponad 1000 stron. Użytkownik może edytować playlisty, wybrać format i ścieżkę zapisu. Działa na Androidzie.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:org.chromium.Chromium": {
+   "haslo": "Przeglądarka internetowa oparta na Chromium",
+   "opis": "Chromium to otwarty projekt przeglądarki, zapewniający bezpieczeństwo i szybkość. Użytkownik może przeglądać strony internetowe z pełną kontrolą nad ustawieniami. Działa na Linuksie.",
+   "kategoria": "Internet i przeglądarki",
+   "zamiennik": "Google Chrome"
+  },
+  "flathub:com.cassidyjames.butler": {
+   "haslo": "Aplikacja do obsługi Home Assistant",
+   "opis": "Butler pozwala korzystać z pulpitu Home Assistant w natywnym interfejsie Linuksa. Użytkownik ma dostęp do ikon, menu i powiadomień. Ułatwia kontrolę inteligentnego domu.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:com.jovial.jrpn15": {
+   "haslo": "Kalkulator naukowy w stylu HP 15C",
+   "opis": "jrpn15 symuluje kalkulator HP 15C z wyświetlaczem siedmiosegmentowym. Użytkownik może wykonywać obliczenia RPN (postfiksowe). Działa na Linuksie.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "fdroid:io.ente.photos.fdroid": {
+   "haslo": "Bezpieczne przechowywanie zdjęć i filmów",
+   "opis": "Ente Photos to aplikacja do backupu i udostępniania multimediów z szyfrowaniem end-to-end. Dane są przechowywane tylko na urządzeniach użytkownika. Dostępna na Androidzie.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "fdroid:zed.rainxch.githubstore": {
+   "haslo": "Sklep z aplikacjami z GitHub",
+   "opis": "Komi Store umożliwia przeglądanie i instalowanie aplikacji z GitHub, Codeberg i innych forów. Użytkownik może pobierać instalatory bezpośrednio z repozytoriów. Działa na Androidzie.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:org.qbittorrent.qBittorrent": {
+   "haslo": "Klient BitTorrent z otwartym kodem",
+   "opis": "qBittorrent pozwala pobierać i udostępniać pliki w sieci BitTorrent. Działa na wszystkich głównych systemach operacyjnych i oferuje funkcje wyszukiwania oraz filtrowania. Jest przeznaczony dla osób, które potrzebują prostego, ale pełnego klienta.",
+   "kategoria": "Internet i przeglądarki",
+   "zamiennik": "µTorrent"
+  },
+  "flathub:land.arcana.TarotCanvas": {
+   "haslo": "Cyfrowy zbiór i organizator kart tarota",
+   "opis": "Tarot Canvas umożliwia przeglądanie, tworzenie i układanie kart tarota w wirtualnym płótnie. Użytkownicy mogą dodawać własne talii i zapisywać metadane. Aplikacja jest przeznaczona dla miłośników tarota i ezoteryki.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "flathub:ir.NonFree.VCMusic": {
+   "haslo": "Lekki odtwarzacz muzyki i wideo",
+   "opis": "VCMusic odtwarza pliki audio i wideo, pozwala tworzyć listy odtwarzania oraz zwiększać głośność do 1000%. Obsługuje tryb 432 Hz i prosty interfejs oparty na Adwaita. Jest przeznaczony dla użytkowników szukających minimalistycznego odtwarzacza.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "fdroid:io.ente.auth": {
+   "haslo": "Aplikacja 2FA z szyfrowanym backupem",
+   "opis": "Ente Auth generuje kody dwuskładnikowe i przechowuje je w zaszyfrowanej chmurze. Działa na Androidzie, iOS, Windows, macOS, Linux i w przeglądarce. Umożliwia kopiowanie kodów i udostępnianie ich bezpiecznie.",
+   "kategoria": "Prywatność i bezpieczeństwo",
+   "zamiennik": "Google Authenticator"
+  },
+  "fdroid:com.inspiredandroid.kai": {
+   "haslo": "ChatGPT‑alternatywa z interaktywnym UI",
+   "opis": "Kai 9000 to darmowy chatbot AI, który generuje nie tylko tekst, ale i interaktywne elementy, takie jak przyciski czy tabele. Posiada pamięć długotrwałą i uczy się z rozmów. Jest przeznaczony dla osób szukających bardziej wizualnego doświadczenia AI.",
+   "kategoria": "Programowanie",
+   "zamiennik": ""
+  },
+  "flathub:io.github.noobping.keycord": {
+   "haslo": "Klient graficzny do przechowywania haseł",
+   "opis": "Keycord pozwala przeglądać i edytować foldery haseł zgodne z formatem pass. Umożliwia wyszukiwanie, generowanie haseł i kopiowanie danych. Aplikacja jest przeznaczona dla użytkowników korzystających z narzędzi typu pass.",
+   "kategoria": "Prywatność i bezpieczeństwo",
+   "zamiennik": ""
+  },
+  "flathub:io.github.leo030303.drizzle": {
+   "haslo": "Aplikacja pogodowa z dynamiczną kolorystyką",
+   "opis": "Drizzle wyświetla prognozy pogody z Open Meteo, dostosowując kolory interfejsu do aktualnych warunków. Jest zoptymalizowana pod małe okna i urządzenia mobilne. Przeznaczona dla osób, które chcą szybko sprawdzić pogodę w przyjaznym UI.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "fdroid:io.anuke.mindustry": {
+   "haslo": "Gra strategiczna z budowaniem fabryk",
+   "opis": "Mindustry łączy elementy RTS i obrony wieży, pozwalając budować łańcuchy dostaw i produkować materiały. Gracze muszą chronić swój bazę przed falami wrogów. Aplikacja jest przeznaczona dla fanów gier strategicznych i budowlanych.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "fdroid:com.ripster.sossoldi": {
+   "haslo": "Aplikacja do zarządzania pieniędzmi",
+   "opis": "Sossoldi pozwala śledzić wartość netto, wydatki i inwestycje. Umożliwia zobaczenie, gdzie idzie pieniądze i jak rośnie majątek. Jest przydatna dla osób chcących kontrolować finanse osobiste.",
+   "kategoria": "Finanse",
+   "zamiennik": "YNAB"
+  },
+  "flathub:net.lutris.Lutris": {
+   "haslo": "Platforma do uruchamiania gier",
+   "opis": "Lutris pozwala instalować i uruchamiać gry z różnych systemów i emulatorów w jednym miejscu. Łączy istniejące narzędzia i daje centralny interfejs do gier. Działa na Linuxie.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:io.github.kovzol.geogebra-discovery": {
+   "haslo": "Eksperymentalna wersja GeoGebra",
+   "opis": "GeoGebra Discovery to wczesna wersja GeoGebra z nowymi funkcjami. Nie jest przeznaczona do codziennego użytku, ale pozwala testować najnowsze narzędzia. Używana głównie w edukacji matematycznej.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:fr.ethal.tessera": {
+   "haslo": "Tworzenie mozaik QR kodów",
+   "opis": "Tessera generuje cyfrowe mozaiki (QR kody) z dowolnego tekstu lub adresu URL. Pozwala kontrolować wygląd, kolor i poziom korekcji błędów. Eksportuje do PNG lub SVG.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "fdroid:com.superproductivity.superproductivity": {
+   "haslo": "Lista zadań i śledzenie czasu",
+   "opis": "Super Productivity łączy listę zadań z rejestrowaniem czasu pracy. Można planować zadania, tworzyć raporty i eksportować dane do systemów firmowych. Integruje się z Jira, GitHub i GitLab.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": "Todoist"
+  },
+  "fdroid:dev.octoshrimpy.quik.fdroid": {
+   "haslo": "Alternatywa do domyślnej aplikacji SMS",
+   "opis": "QUIK SMS to otwarto‑źródłowa aplikacja do wiadomości tekstowych. Obsługuje planowanie wiadomości, kopie zapasowe, nagrania głosowe i załączniki. Ma funkcje blokowania i archiwizacji wiadomości.",
+   "kategoria": "Komunikacja",
+   "zamiennik": "QKSMS"
+  },
+  "flathub:org.ppsspp.PPSSPP": {
+   "haslo": "Emulator konsoli PSP",
+   "opis": "PPSSPP emuluje PlayStation Portable i uruchamia gry w pełnej rozdzielczości HD. Może skalować tekstury, by wyglądały lepiej na większych ekranach. Działa na Linuxie.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:io.github.htkhiem.Euphonica": {
+   "haslo": "Odtwarzacz muzyki z MPD",
+   "opis": "Euphonica to odtwarzacz muzyki z dynamicznymi playlistami i wizualizacją dźwięku. Obsługuje większość formatów, w tym DSD, i współpracuje z serwerem MPD. Umożliwia edycję tagów i filtrowanie gatunków.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": "Clementine"
+  },
+  "flathub:dev.fishies.godl": {
+   "haslo": "Menadżer wersji Godota",
+   "opis": "Umożliwia przechowywanie i uruchamianie wielu projektów Godot oraz ich wersji w jednym miejscu. Przydatny dla twórców gier korzystających z Godota. Nie wymaga instalacji osobnych wersji w systemie.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "fdroid:com.jstone.livegalgame": {
+   "haslo": "Rozmowy w stylu GalGame",
+   "opis": "Aplikacja pozwala prowadzić dialogi z wirtualnymi postaciami w formie gry GalGame. Nie korzysta z AI, działa offline. Dla fanów gier typu visual novel.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:com.protonvpn.www": {
+   "haslo": "VPN chroniący prywatność",
+   "opis": "Łączy się z szybkimi serwerami, ukrywając Twój adres IP i blokując śledzenie. Nie rejestruje danych użytkownika. Dla osób dbających o prywatność w internecie.",
+   "kategoria": "Prywatność i bezpieczeństwo",
+   "zamiennik": "Proton VPN"
+  },
+  "flathub:org.quetoo.Quetoo": {
+   "haslo": "Wojna pierwszej osoby na Linux",
+   "opis": "Wolny strzelanek typu Quake, oferujący tryby deathmatch, capture the flag i inne. Dla graczy lubiących klasyczne strzelanki. Zawiera wysokiej jakości mapy i realistyczne efekty świetlne.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:com.jovial.jrpn16": {
+   "haslo": "Kalkulator programisty HP 16C",
+   "opis": "Symuluje wygląd i działanie kalkulatora HP 16C, w tym wyświetlacz siedmiosegmentowy i miganie. Umożliwia włączanie/wyłączanie funkcji okienkowych. Dla programistów i hobbystów.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "fdroid:dev.imranr.obtainium.fdroid": {
+   "haslo": "Aktualizacje aplikacji z repozytoriów",
+   "opis": "Instaluje i aktualizuje aplikacje bezpośrednio z ich stron wydawców, np. GitHub czy F-Droid. Powiadamia o nowych wersjach. Dla użytkowników szukających alternatyw do Google Play.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "fdroid:com.dd3boh.outertune": {
+   "haslo": "Odtwarzacz muzyki i YouTube Music",
+   "opis": "Odtwarza lokalne pliki audio oraz muzykę z YouTube Music, bez reklam i z możliwością pobierania offline. Obsługuje formaty MP3, OGG, FLAC. Dla osób preferujących prywatny odtwarzacz.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": "YouTube Music"
+  },
+  "flathub:eu.nokun.MirrorHall": {
+   "haslo": "Użyj urządzenia Linux jako drugiego ekranu",
+   "opis": "Mirror Hall pozwala zamienić dowolne urządzenie Linux w dodatkowy monitor. Działa na komputerach i telefonach, przesyła obraz przez sieć. Umożliwia łatwe rozszerzenie przestrzeni roboczej.",
+   "kategoria": "Internet i przeglądarki",
+   "zamiennik": ""
+  },
+  "flathub:art.darkly.Darkly": {
+   "haslo": "Alternatywa dla Photoshopa dla artystów",
+   "opis": "Darkly to program do rysowania i malowania, który skupia się na kreatywności i eksperymentach. Posiada silnik pędzli i narzędzia do pracy z warstwami. Nie wymaga skomplikowanego workflow.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": "Photoshop"
+  },
+  "fdroid:chat.simplex.app": {
+   "haslo": "Bezpieczny czat bez identyfikatorów",
+   "opis": "SimpleX Chat to komunikator z szyfrowaniem end-to-end, który nie używa numerów ani nazw użytkowników. Pozwala na prywatne rozmowy, wysyłanie zdjęć i plików. Grupy są widoczne tylko dla członków.",
+   "kategoria": "Komunikacja",
+   "zamiennik": ""
+  },
+  "fdroid:com.anxcye.anx_reader": {
+   "haslo": "Czytnik e-booków z AI",
+   "opis": "Anx Reader obsługuje formaty EPUB, MOBI, AZW3, FB2 i TXT. Dzięki AI można dostosować wygląd i synchronizować czytanie między urządzeniami. Interfejs jest nowoczesny i prosty w obsłudze.",
+   "kategoria": "Czytanie",
+   "zamiennik": ""
+  },
+  "flathub:io.github.kolunmi.Bazaar": {
+   "haslo": "Sklep z aplikacjami Flatpak",
+   "opis": "Bazaar to szybki i nowoczesny sklep dla systemów Linux, który pozwala przeglądać i instalować aplikacje Flatpak z Flathub. Umożliwia kolejkę instalacji i podgląd uprawnień aplikacji.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.neil_morrison44.pocket-sync": {
+   "haslo": "GUI do obsługi Analogue Pocket",
+   "opis": "Pocket Sync to graficzny interfejs do zarządzania konsolą Analogue Pocket. Umożliwia instalowanie rdzeni FPGA i zarządzanie plikami gier.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:fyi.soltfrfr.NightmareEditor": {
+   "haslo": "Edytor i modder dla Kingdom Hearts 3D",
+   "opis": "Nightmare Editor to zestaw narzędzi do modyfikacji gry Kingdom Hearts 3D: Dream Drop Distance. Zawiera menedżera modów i edytor tekstur dla emulatorów i sprzętu 3DS.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "fdroid:dev.dimension.flare": {
+   "haslo": "Klient społecznościowy dla wielu platform",
+   "opis": "Flare łączy w jednym miejscu konta na Mastodon, Bluesky, X, Misskey i Nostr. Pozwala na przeglądanie, publikowanie i czytanie RSS. Umożliwia publikowanie na wielu platformach jednocześnie.",
+   "kategoria": "Internet i przeglądarki",
+   "zamiennik": ""
+  },
+  "flathub:com.vysp3r.ProtonPlus": {
+   "haslo": "Zarządzaj narzędziami kompatybilności Windows na Linuxie",
+   "opis": "ProtonPlus pozwala instalować, aktualizować i usuwać Proton, Wine, DXVK i VKD3D oraz ustawiać opcje uruchamiania gier. Używa się go z Steamem, Lutrisem i innymi launcherami. Ułatwia wybór odpowiednich wersji narzędzi dla konkretnej gry.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:net.gpro.gproapp": {
+   "haslo": "Strategiczna gra wyścigowa o zarządzaniu zespołem",
+   "opis": "GPRO to symulator zarządzania zespołem wyścigowym, gdzie planujesz budżet, rozwijasz kierowcę i przygotowujesz samochód. Gra wymaga analizy danych i podejmowania decyzji taktycznych. Celem jest zdobycie mistrzostwa światowego.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:io.github.pemsley.Alexandria": {
+   "haslo": "Biblioteka do zarządzania artykułami naukowymi",
+   "opis": "Alexandria organizuje PDFy z publikacji naukowych, wyciągając metadane i umożliwiając wyszukiwanie według tytułu, autora czy DOI. Aplikacja wyświetla statystyki cytowań i pozwala łatwo dodawać powiązane artykuły. Działa offline i nie wymaga konta.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "fdroid:app.organicmaps": {
+   "haslo": "Offline mapa i nawigacja GPS bez internetu",
+   "opis": "Organic Maps oferuje szczegółowe mapy OpenStreetMap, które można pobrać i używać bez połączenia. Aplikacja obsługuje planowanie tras, nawigację w czasie rzeczywistym i zapis trasy. Nie wymaga logowania i chroni prywatność użytkownika.",
+   "kategoria": "Mapy i podróże",
+   "zamiennik": ""
+  },
+  "fdroid:com.nononsenseapps.feeder.play": {
+   "haslo": "Czytnik RSS działający offline",
+   "opis": "Feeder to aplikacja do odczytu kanałów RSS, Atom i JSONFeed. Działa lokalnie, nie synchronizuje danych z serwerami i nie wymaga konta. Umożliwia przeglądanie najnowszych wiadomości i zapisanie artykułów do późniejszego czytania.",
+   "kategoria": "Czytanie",
+   "zamiennik": ""
+  },
+  "flathub:com.stremio.Stremio": {
+   "haslo": "Platforma do strumieniowania filmów i seriali",
+   "opis": "Stremio łączy lokalne pliki i zewnętrzne źródła w jedną bibliotekę. Użytkownik może oglądać filmy, seriale i programy telewizyjne w wysokiej jakości. Aplikacja obsługuje dodatki i automatyczne pobieranie opisów.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:io.github.lainsce.Khronos": {
+   "haslo": "Rejestruj czas trwania zadań",
+   "opis": "Khronos pozwala rozpocząć i zatrzymać timer dla dowolnego zadania. Aplikacja wyświetla powiadomienia po dłuższych sesjach i umożliwia szybkie zakończenie przy pomocy skrótu klawiszowego.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:com.hylianmodding.modloader64": {
+   "haslo": "Modloader i multiplayer dla emulatora N64",
+   "opis": "ModLoader64 rozszerza Mupen64Plus o możliwość wczytywania modów i gry online. Umożliwia pisanie skryptów w JavaScript oraz synchronizację rozgrywki między graczami. Aplikacja zawiera emulator i narzędzia do tworzenia modów.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "fdroid:com.github.catfriend1.syncthingfork": {
+   "haslo": "Synchronizacja plików bez serwera",
+   "opis": "Synchronizuje foldery pomiędzy urządzeniami, nie korzystając z chmury. Działa na Androidzie i pozwala na ustawienie warunków synchronizacji dla każdego folderu i urządzenia. Umożliwia podgląd postępu i zmian w UI.",
+   "kategoria": "Internet i przeglądarki",
+   "zamiennik": "Syncthing"
+  },
+  "flathub:io.missioncenter.MissionCenter": {
+   "haslo": "Monitor zasobów systemowych",
+   "opis": "Pokazuje zużycie CPU, pamięci, dysku, sieci i GPU w czasie rzeczywistym. Dla każdego procesu i wątku podaje szczegółowe statystyki. Pomaga zidentyfikować, które aplikacje obciążają system.",
+   "kategoria": "System",
+   "zamiennik": ""
+  },
+  "flathub:net.shadps4.shadPS4": {
+   "haslo": "Emulator PlayStation 4",
+   "opis": "Uruchamia gry z konsoli PS4 na komputerze z Linuxem. Dostarcza interfejs graficzny i obsługuje najnowszą wersję emulatora. Nie wymaga instalacji dodatkowego oprogramowania.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:org.musacad.MusaCAD": {
+   "haslo": "Projektowanie 2D w stylu AutoCAD",
+   "opis": "Tworzy rysunki techniczne, architektoniczne i inżynieryjne. Obsługuje linie, łuki, krzywe, hatching i wiele innych narzędzi. Wykorzystuje GPU, dzięki czemu nawet duże pliki są płynne.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": "AutoCAD"
+  },
+  "fdroid:ru.tech.imageresizershrinker": {
+   "haslo": "Edytor i konwerter obrazów z AI",
+   "opis": "Zmienia rozmiar, konwertuje formaty i stosuje filtry na zdjęciach. Wspiera szyfrowanie plików i usuwanie tła przy pomocy sztucznej inteligencji. Działa na Androidzie i obsługuje wiele algorytmów szyfrowania.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "fdroid:org.nsh07.pomodoro": {
+   "haslo": "Prosty timer Pomodoro",
+   "opis": "Zarządza cyklami pracy i przerwy w stylu Pomodoro. Wyświetla statystyki i pozwala na śledzenie czasu spędzonego na zadaniach. Interfejs oparty jest na najnowszych wytycznych Material 3.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:com.github.Matoking.protontricks": {
+   "haslo": "Narzędzie do konfiguracji Proton",
+   "opis": "Uruchamia polecenia Winetricks dla gier Steam Play/Proton. Umożliwia instalację brakujących bibliotek i aplikacji Windows w środowisku Wine. Pomaga w uruchamianiu gier wymagających dodatkowych komponentów.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:de.gonicus.bubbles": {
+   "haslo": "Lekka wirtualna strefa pracy",
+   "opis": "Tworzy odizolowane środowiska Linux w trybie Wayland. Umożliwia szybkie uruchamianie terminala i aplikacji w osobnym kontekście. Idealne do testów i eksperymentów bez ingerencji w główny system.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "fdroid:com.streetwriters.notesnook": {
+   "haslo": "Aplikacja do prywatnych notatek z szyfrowaniem",
+   "opis": "Zapisywanie notatek z domyślnym szyfrowaniem end-to-end. Brak śledzenia i reklam. Umożliwia tworzenie list, zadań i krótkich tekstów.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": "Google Keep"
+  },
+  "fdroid:com.demizo.daily_you": {
+   "haslo": "Dziennik z pamięcią emocji i myśli",
+   "opis": "Rejestruje codzienne myśli, nastroje i ważne chwile. Nie wymaga konta ani reklam. Działa offline i jest wolny od śledzenia.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": "Day One"
+  },
+  "flathub:net.kuribo64.melonDS": {
+   "haslo": "Emulator konsoli Nintendo DS",
+   "opis": "Symuluje działanie konsoli Nintendo DS i DSi. Obsługuje grafikę OpenGL, dźwięk i kontrolery. Umożliwia zapisywanie stanu gry.",
+   "kategoria": "Gry",
+   "zamiennik": "DeSmuME"
+  },
+  "flathub:ci.not.Rune": {
+   "haslo": "Odtwarzacz muzyki z klasycznym designem",
+   "opis": "Odtwarza pliki audio w różnych formatach. Posiada prosty interfejs i obsługę playlist. Nie wymaga połączenia z internetem.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": "VLC"
+  },
+  "flathub:io.github.savantsavior.lettersfall": {
+   "haslo": "Gra edukacyjna z literami w stylu Tetris",
+   "opis": "Łączy elementy Tetrisa i Scrabble. Uczy pisowni angielskich słów. Dostępne są różne tryby i poziomy trudności.",
+   "kategoria": "Gry",
+   "zamiennik": "Wordament"
+  },
+  "fdroid:dev.davidv.translator": {
+   "haslo": "Tłumacz offline z obsługą obrazów",
+   "opis": "Tłumaczy tekst, obrazy i pliki PDF/ODT bez połączenia z internetem. Wspiera rozpoznawanie tekstu (OCR) i syntezę mowy.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": "Google Translate"
+  },
+  "flathub:app.xemu.xemu": {
+   "haslo": "Emulator oryginalnego Xboxa",
+   "opis": "Symuluje konsolę Xbox 360. Obsługuje cztery kontrolery, sieć i skalowanie rozdzielczości. Wymaga obrazu dysku twardego.",
+   "kategoria": "Gry",
+   "zamiennik": "Xenia"
+  },
+  "flathub:tw.ddnet.ddnet": {
+   "haslo": "Współpraca w 2D platformerze",
+   "opis": "Kooperacyjna gra 2D z trybem multiplayer. Umożliwia tworzenie własnych map i prowadzenie serwerów. Dostępne są międzynarodowe turnieje.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:com.markwyner.ratio": {
+   "haslo": "Sprawdza kontrast kolorów w interfejsach",
+   "opis": "Aplikacja ocenia kontrast tekstu i elementów graficznych zgodnie z wytycznymi WCAG. Pomaga projektantom i programistom tworzyć dostępne strony i aplikacje. Działa na Linuksie i macOS.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "fdroid:net.thunderbird.android.beta": {
+   "haslo": "Beta wersja przeglądarki poczty Thunderbird",
+   "opis": "Umożliwia testowanie najnowszych funkcji i napraw błędów w aplikacji pocztowej. Użytkownicy mogą zgłaszać problemy i wpływać na rozwój. Działa na Androidzie.",
+   "kategoria": "Komunikacja",
+   "zamiennik": ""
+  },
+  "fdroid:com.prajwalch.torrentsearch": {
+   "haslo": "Wyszukuje torrenty z wielu serwisów",
+   "opis": "Pozwala jednocześnie przeszukiwać kilka witryn torrentowych i wyświetlać wyniki z podziałem na rozmiar, liczbę seedów i datę. Umożliwia otwieranie linków magnet w zewnętrznym kliencie. Działa na Androidzie.",
+   "kategoria": "Internet i przeglądarki",
+   "zamiennik": ""
+  },
+  "flathub:org.kde.kdenlive": {
+   "haslo": "Edytor wideo z wieloma formatami",
+   "opis": "Program do montażu filmów z efektami, przejściami i korekcją kolorów. Obsługuje wiele formatów audio i wideo oraz pozwala na dodawanie napisów. Działa na Linuksie.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "flathub:me.broken_by.PdfMetadataEditor": {
+   "haslo": "Edytor metadanych PDF",
+   "opis": "Pozwala zmieniać podstawowe i rozszerzone (XMP) metadane dokumentów PDF. Ułatwia organizację i wyszukiwanie plików. Działa na Linuksie.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:org.fossasia.BadgeMagic": {
+   "haslo": "Tworzenie i przesyłanie treści na LEDowe odznaki",
+   "opis": "Aplikacja pozwala projektować dynamiczne teksty i grafiki, które można wysłać na odznaki LED przez Bluetooth. Oferuje animacje i rysowanie. Działa na Linuksie.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "fdroid:net.thunderbird.android": {
+   "haslo": "Poczta Thunderbird dla Androida",
+   "opis": "Aplikacja do zarządzania wieloma kontami e‑mail w jednym miejscu. Oferuje jednolitą skrzynkę odbiorczą i skupia się na prywatności. Działa na Androidzie.",
+   "kategoria": "Komunikacja",
+   "zamiennik": ""
+  },
+  "fdroid:io.github.teamclouday.AndroidMic": {
+   "haslo": "Użyj telefonu jako mikrofonu do komputera",
+   "opis": "Przesyła dźwięk z mikrofonu telefonu na PC przez Wi‑Fi lub USB. Obsługuje różne protokoły i formaty audio. Działa na Androidzie, Linux, Windows i macOS.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.freetubeapp.FreeTube": {
+   "haslo": "Otwarty odtwarzacz YouTube bez reklam",
+   "opis": "Pozwala oglądać filmy z YouTube prywatnie, bez śledzenia i reklam. Działa na Windows, Mac i Linux. Nie wymaga konta Google i nie zapisuje danych.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": "YouTube"
+  },
+  "flathub:dev.tchx84.Portfolio": {
+   "haslo": "Minimalny menedżer plików na telefon",
+   "opis": "Prosty i lekki program do przeglądania i przenoszenia plików na urządzenia z Linuksem. Nie posiada dodatkowych funkcji, tylko podstawowe operacje.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:org.lightning_matrix.Lightning": {
+   "haslo": "Klient Matrix z czatami i połączeniami",
+   "opis": "Pozwala na rozmowy tekstowe, głosowe i wideo w sieci Matrix. Obsługuje wiele kont i prywatne pokoje z szyfrowaniem końcowym.",
+   "kategoria": "Komunikacja",
+   "zamiennik": "Element"
+  },
+  "fdroid:com.fsck.k9": {
+   "haslo": "Klient poczty e‑mail bez śledzenia",
+   "opis": "Obsługuje wszystkie popularne serwery e‑mail, synchronizuje wiadomości w tle i pozwala na szyfrowanie OpenPGP. Nie gromadzi danych użytkownika.",
+   "kategoria": "Komunikacja",
+   "zamiennik": "Gmail"
+  },
+  "fdroid:org.wesnoth.Wesnoth": {
+   "haslo": "Strategia na ruchu z wysoką fantazją",
+   "opis": "Gra turowa z otwartym kodem, oferująca kampanie i tryb wieloosobowy. Działa na Androidzie i innych platformach.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:com.ktechpit.whatsie": {
+   "haslo": "Aplikacja WhatsApp Web na Linux",
+   "opis": "Pozwala korzystać z WhatsApp bez przeglądarki, z powiadomieniami systemowymi i możliwością zmiany motywu. Jest lekka i szybka.",
+   "kategoria": "Komunikacja",
+   "zamiennik": "WhatsApp"
   }
  }
 }
