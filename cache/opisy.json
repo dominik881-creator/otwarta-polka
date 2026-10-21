@@ -4225,6 +4225,154 @@
     "https://dl.flathub.org/media/io/github/dummerle.rare/ec68f8a2f7b4726020d634764150c445/screenshots/image-1_624x351@1.png",
     "https://dl.flathub.org/media/io/github/dummerle.rare/ec68f8a2f7b4726020d634764150c445/screenshots/image-2_624x351@1.png"
    ]
+  },
+  "org.gnome.Aisleriot": {
+   "strona": "https://wiki.gnome.org/Apps/Aisleriot",
+   "kod": "https://gitlab.gnome.org/GNOME/aisleriot",
+   "screens": [
+    "https://dl.flathub.org/media/org/gnome/Aisleriot/df1127e0cceaf8fe12bf84fc1c96063c/screenshots/image-1_624x351@1.png"
+   ]
+  },
+  "org.qgis.qgis": {
+   "strona": "https://qgis.org",
+   "kod": "https://github.com/qgis/QGIS/",
+   "screens": [
+    "https://dl.flathub.org/media/org/qgis/qgis.desktop/0b22c32a5d57577b03b2a659adee9b8f/screenshots/image-1_624x302@1.png",
+    "https://dl.flathub.org/media/org/qgis/qgis.desktop/0b22c32a5d57577b03b2a659adee9b8f/screenshots/image-2_624x354@1.png",
+    "https://dl.flathub.org/media/org/qgis/qgis.desktop/0b22c32a5d57577b03b2a659adee9b8f/screenshots/image-3_624x430@1.png"
+   ]
+  },
+  "net.armatik.Kitsune": {
+   "strona": "https://altlinux.space/alt-gnome/Kitsune",
+   "kod": "https://altlinux.space/alt-gnome/Kitsune",
+   "screens": [
+    "https://dl.flathub.org/media/net/armatik/Kitsune/4edd2ac57128bd94db62cb519cba570a/screenshots/image-1_624x424@1.png",
+    "https://dl.flathub.org/media/net/armatik/Kitsune/4edd2ac57128bd94db62cb519cba570a/screenshots/image-2_624x424@1.png",
+    "https://dl.flathub.org/media/net/armatik/Kitsune/4edd2ac57128bd94db62cb519cba570a/screenshots/image-3_624x424@1.png",
+    "https://dl.flathub.org/media/net/armatik/Kitsune/4edd2ac57128bd94db62cb519cba570a/screenshots/image-4_624x424@1.png"
+   ]
+  },
+  "ca.edestcroix.Recordbox": {
+   "strona": "https://codeberg.org/edestcroix/Recordbox/",
+   "kod": "https://codeberg.org/edestcroix/Recordbox/",
+   "screens": [
+    "https://dl.flathub.org/media/ca/edestcroix/Recordbox/0bbb7669ced0e0a092b35a229c32db71/screenshots/image-1_624x355@1.png",
+    "https://dl.flathub.org/media/ca/edestcroix/Recordbox/0bbb7669ced0e0a092b35a229c32db71/screenshots/image-2_624x355@1.png",
+    "https://dl.flathub.org/media/ca/edestcroix/Recordbox/0bbb7669ced0e0a092b35a229c32db71/screenshots/image-3_624x355@1.png",
+    "https://dl.flathub.org/media/ca/edestcroix/Recordbox/0bbb7669ced0e0a092b35a229c32db71/screenshots/image-4_624x355@1.png"
+   ]
+  },
+  "org.jitsi.jitsi-meet": {
+   "strona": "https://jitsi.org",
+   "kod": "https://github.com/jitsi/jitsi-meet-electron",
+   "screens": [
+    "https://dl.flathub.org/media/org/jitsi/jitsi-meet/b546ac31d3745a9592fd4647fe335861/screenshots/image-1_orig.png"
+   ]
+  },
+  "org.gnome.gitlab.wwarner.Solitaire": {
+   "strona": "https://gitlab.gnome.org/wwarner/Solitaire",
+   "kod": "https://gitlab.gnome.org/wwarner/Solitaire/",
+   "screens": [
+    "https://dl.flathub.org/media/org/gnome/gitlab.wwarner.Solitaire/a78841934cbf64b804765e3b7c26bc65/screenshots/image-1_624x540@1.png"
+   ]
+  },
+  "app.drey.Damask": {
+   "strona": "https://gitlab.gnome.org/subpop/damask",
+   "kod": "https://gitlab.gnome.org/subpop/damask/",
+   "screens": [
+    "https://dl.flathub.org/media/app/drey/Damask/bcb487f7abaecf056fd4dea104831711/screenshots/image-1_624x642@1.png"
+   ]
+  },
+  "io.github.stephanecouturier.Katalog": {
+   "strona": "https://stephanecouturier.github.io/Katalog",
+   "kod": "https://github.com/StephaneCouturier/Katalog",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/stephanecouturier.Katalog/b175b0531d1bdf0cb1bfc6db7d221e2a/screenshots/image-1_624x423@1.png",
+    "https://dl.flathub.org/media/io/github/stephanecouturier.Katalog/b175b0531d1bdf0cb1bfc6db7d221e2a/screenshots/image-2_624x423@1.png",
+    "https://dl.flathub.org/media/io/github/stephanecouturier.Katalog/b175b0531d1bdf0cb1bfc6db7d221e2a/screenshots/image-3_624x423@1.png"
+   ]
+  },
+  "ar.xjuan.Cambalache": {
+   "strona": "https://gitlab.gnome.org/jpu/cambalache",
+   "kod": "https://gitlab.gnome.org/jpu/cambalache",
+   "screens": [
+    "https://dl.flathub.org/media/ar/xjuan/Cambalache/9a9eafb597dc0c4bb67f1b47d9aa6851/screenshots/image-1_624x382@1.png",
+    "https://dl.flathub.org/media/ar/xjuan/Cambalache/9a9eafb597dc0c4bb67f1b47d9aa6851/screenshots/image-2_624x382@1.png",
+    "https://dl.flathub.org/media/ar/xjuan/Cambalache/9a9eafb597dc0c4bb67f1b47d9aa6851/screenshots/image-3_624x364@1.png",
+    "https://dl.flathub.org/media/ar/xjuan/Cambalache/9a9eafb597dc0c4bb67f1b47d9aa6851/screenshots/image-4_624x364@1.png"
+   ]
+  },
+  "com.krioltech.fnmap": {
+   "strona": "https://krioltech.com",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/com/krioltech/fnmap/7b49f651b1d0452e9caf19c55672cf87/screenshots/image-1_624x491@1.png",
+    "https://dl.flathub.org/media/com/krioltech/fnmap/7b49f651b1d0452e9caf19c55672cf87/screenshots/image-2_624x469@1.png",
+    "https://dl.flathub.org/media/com/krioltech/fnmap/7b49f651b1d0452e9caf19c55672cf87/screenshots/image-3_624x469@1.png"
+   ]
+  },
+  "io.github.bhack.mini-eq": {
+   "strona": "https://github.com/bhack/mini-eq",
+   "kod": "https://github.com/bhack/mini-eq",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/bhack.mini-eq/7dc0020ab1fcab15648b29cc40ce180a/screenshots/image-1_624x347@1.png",
+    "https://dl.flathub.org/media/io/github/bhack.mini-eq/7dc0020ab1fcab15648b29cc40ce180a/screenshots/image-2_624x347@1.png"
+   ]
+  },
+  "space.x1z53.iris": {
+   "strona": "https://iris.x1z53.space",
+   "kod": "https://altlinux.space/x1z53/iris",
+   "screens": [
+    "https://dl.flathub.org/media/s/sp/space.x1z53.iris/db09df94c87b9633091be3c028917078/screenshots/image-1_624x624@1.png",
+    "https://dl.flathub.org/media/s/sp/space.x1z53.iris/db09df94c87b9633091be3c028917078/screenshots/image-2_624x624@1.png",
+    "https://dl.flathub.org/media/s/sp/space.x1z53.iris/db09df94c87b9633091be3c028917078/screenshots/image-3_624x624@1.png",
+    "https://dl.flathub.org/media/s/sp/space.x1z53.iris/db09df94c87b9633091be3c028917078/screenshots/image-4_624x624@1.png"
+   ]
+  },
+  "org.apache.netbeans": {
+   "strona": "https://netbeans.apache.org/",
+   "kod": "https://github.com/apache/netbeans",
+   "screens": [
+    "https://dl.flathub.org/media/org/apache/netbeans.desktop/c8ad73e7eaac4afc8906e1f9049007dc/screenshots/image-1_624x443@1.png",
+    "https://dl.flathub.org/media/org/apache/netbeans.desktop/c8ad73e7eaac4afc8906e1f9049007dc/screenshots/image-2_624x443@1.png"
+   ]
+  },
+  "me.spaceinbox.actioneer": {
+   "strona": "https://github.com/makoni/actioneer-gtk",
+   "kod": "https://github.com/makoni/actioneer-gtk",
+   "screens": [
+    "https://dl.flathub.org/media/me/spaceinbox/actioneer/32208ddb3959b8689c5f257856bea181/screenshots/image-1_624x436@1.png",
+    "https://dl.flathub.org/media/me/spaceinbox/actioneer/32208ddb3959b8689c5f257856bea181/screenshots/image-2_624x436@1.png",
+    "https://dl.flathub.org/media/me/spaceinbox/actioneer/32208ddb3959b8689c5f257856bea181/screenshots/image-3_624x434@1.png",
+    "https://dl.flathub.org/media/me/spaceinbox/actioneer/32208ddb3959b8689c5f257856bea181/screenshots/image-4_624x436@1.png"
+   ]
+  },
+  "de.swsnr.turnon": {
+   "strona": "https://codeberg.org/swsnr/turnon",
+   "kod": "https://codeberg.org/swsnr/turnon",
+   "screens": [
+    "https://dl.flathub.org/media/de/swsnr/turnon/d3ed3afc82ec95c3d39e6a77f10f5980/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/de/swsnr/turnon/d3ed3afc82ec95c3d39e6a77f10f5980/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/de/swsnr/turnon/d3ed3afc82ec95c3d39e6a77f10f5980/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/de/swsnr/turnon/d3ed3afc82ec95c3d39e6a77f10f5980/screenshots/image-4_orig.png"
+   ]
+  },
+  "io.github.josephmawa.TextCompare": {
+   "strona": "https://github.com/josephmawa/TextCompare",
+   "kod": "https://github.com/josephmawa/TextCompare",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/josephmawa.TextCompare/0673492433cc35757a1529b1d7e15c1c/screenshots/image-1_624x442@1.png",
+    "https://dl.flathub.org/media/io/github/josephmawa.TextCompare/0673492433cc35757a1529b1d7e15c1c/screenshots/image-2_624x442@1.png"
+   ]
+  },
+  "dev.deimoshall.DecryptIt": {
+   "strona": "https://github.com/DeimosHall/decrypt-it",
+   "kod": "https://github.com/DeimosHall/decrypt-it",
+   "screens": [
+    "https://dl.flathub.org/media/dev/deimoshall/DecryptIt/de16f1e7d17c9d0c30f2d5f6c067be4a/screenshots/image-1_624x549@1.png",
+    "https://dl.flathub.org/media/dev/deimoshall/DecryptIt/de16f1e7d17c9d0c30f2d5f6c067be4a/screenshots/image-2_624x549@1.png",
+    "https://dl.flathub.org/media/dev/deimoshall/DecryptIt/de16f1e7d17c9d0c30f2d5f6c067be4a/screenshots/image-3_624x549@1.png"
+   ]
   }
  },
  "opisy": {
@@ -8535,6 +8683,132 @@
    "opis": "Pozwala wysyłać powiadomienia na telefon z dowolnego skryptu przy pomocy zapytań PUT/POST. Aplikacja subskrybuje tematy i wyświetla wiadomości. Używa otwartego protokołu HTTP.",
    "kategoria": "Narzędzia",
    "zamiennik": "Pushbullet"
+  },
+  "flathub:net.armatik.Kitsune": {
+   "haslo": "Oglądaj anime z AniLiberty",
+   "opis": "Kitsune to klient do oglądania anime z serwisu AniLiberty. Przeglądaj katalog, wyszukuj tytuły i odtwarzaj odcinki wbudowanym odtwarzaczem. Treści w języku rosyjskim dzięki API AniLiberty.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:ca.edestcroix.Recordbox": {
+   "haslo": "Przeglądaj i odtwarzaj muzykę lokalną",
+   "opis": "Recordbox to lekki odtwarzacz muzyki z przeglądarką biblioteki. Umożliwia filtrowanie albumów po artystach lub gatunkach, odtwarzanie bez przerw oraz obsługę ReplayGain. Zintegrowany z środowiskiem GNOME.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:org.jitsi.jitsi-meet": {
+   "haslo": "Wideo‑konferencje bez konta",
+   "opis": "Jitsi Meet pozwala na szybkie spotkania wideo z dowolną liczbą uczestników. Nie wymaga rejestracji, a pokoje można zabezpieczyć hasłem. Działa na Androidzie i Linuxie.",
+   "kategoria": "Komunikacja",
+   "zamiennik": "Zoom"
+  },
+  "flathub:org.gnome.gitlab.wwarner.Solitaire": {
+   "haslo": "Gra w klasyczne solitaire",
+   "opis": "Solitaire oferuje różne warianty karcianych gier patience. Aplikacja podpowiada, czy gra jest wygrywalna, i pozwala cofnąć ruchy. Dostępne są wskazówki prowadzące do zwycięstwa.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:app.drey.Damask": {
+   "haslo": "Automatyczne tapety z internetu",
+   "opis": "Damask pobiera tapety z serwisów takich jak wallhaven.cc, Bing, NASA czy Google Earth. Ustawia je jako tło pulpitu bez ręcznego pobierania.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.stephanecouturier.Katalog": {
+   "haslo": "Kataloguj i wyszukuj pliki na urządzeniach",
+   "opis": "Katalog pozwala tworzyć katalogi z różnych urządzeń, wyszukiwać pliki nawet offline, znajdować duplikaty i tworzyć kopie zapasowe. Obsługuje metadane i sumy kontrolne.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:ar.xjuan.Cambalache": {
+   "haslo": "Twórz interfejsy GTK 4 bez kodu",
+   "opis": "Cambalache to narzędzie typu RAD, które umożliwia projektowanie interfejsów graficznych dla aplikacji GTK 4/3 przy pomocy przeciągania i upuszczania.",
+   "kategoria": "Programowanie",
+   "zamiennik": ""
+  },
+  "flathub:com.krioltech.fnmap": {
+   "haslo": "GUI dla narzędzia nmap",
+   "opis": "fnmap to graficzny interfejs do nmap, który uruchamia skanowanie sieci i prezentuje wyniki w różnych widokach. Ułatwia analizę sieci i bezpieczeństwa.",
+   "kategoria": "Prywatność i bezpieczeństwo",
+   "zamiennik": ""
+  },
+  "flathub:io.github.bhack.mini-eq": {
+   "haslo": "Reguluje dźwięk na komputerze",
+   "opis": "Mini EQ pozwala korygować bas, średnie i wysokie tony przed wysłaniem dźwięku do głośników. Umożliwia tworzenie i zapisywanie presetów oraz porównywanie z oryginalnym dźwiękiem. Działa na systemach Linux.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:space.x1z53.iris": {
+   "haslo": "Klient do oglądania anime",
+   "opis": "Iris to aplikacja GTK4, która łączy się z platformą Yummy Anime. Umożliwia przeglądanie i odtwarzanie serii anime w przyjaznym interfejsie. Działa na Linuksie.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:org.apache.netbeans": {
+   "haslo": "Środowisko programistyczne Java",
+   "opis": "NetBeans to IDE, które wspiera tworzenie aplikacji desktopowych, mobilnych i webowych w Java, JavaScript, HTML5, PHP i C/C++. Dostarcza narzędzia do projektowania, debugowania i budowania. Działa na Linuksie.",
+   "kategoria": "Programowanie",
+   "zamiennik": ""
+  },
+  "flathub:me.spaceinbox.actioneer": {
+   "haslo": "Monitoruje działania GitHub Actions",
+   "opis": "Actioneer pozwala przeglądać repozytoria GitHub i śledzić przebieg workflowów. Pokazuje statusy, logi i umożliwia ponowne uruchamianie z poziomu pulpitu. Działa na Linuksie.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:de.swsnr.turnon": {
+   "haslo": "Włączanie urządzeń w sieci",
+   "opis": "Turn On umożliwia wysyłanie pakietów Wake On LAN, aby włączyć np. NAS czy konsolę. Pozwala na odkrywanie urządzeń, monitorowanie statusu i sterowanie z pulpitu. Działa na Linuksie.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.josephmawa.TextCompare": {
+   "haslo": "Porównuje fragmenty tekstu",
+   "opis": "Text Compare pozwala zobaczyć różnice między dwoma wersjami tekstu w czasie rzeczywistym. Obsługuje tryby ciemny, jasny i systemowy. Działa na Linuksie.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:dev.deimoshall.DecryptIt": {
+   "haslo": "Rozszyfrowuje pliki DLC",
+   "opis": "Decrypt It umożliwia odszyfrowanie plików DLC, co pozwala na ich odczytanie i wykorzystanie. Działa na Linuksie.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "fdroid:org.stypox.dicio": {
+   "haslo": "Wolny asystent głosowy",
+   "opis": "Dicio to otwarty asystent głosowy obsługujący wiele języków. Umożliwia zadawanie pytań i otrzymywanie odpowiedzi w formie tekstowej i głosowej. Działa na Androidzie.",
+   "kategoria": "Komunikacja",
+   "zamiennik": ""
+  },
+  "fdroid:com.github.gotify": {
+   "haslo": "Otrzymuj powiadomienia push",
+   "opis": "Gotify pozwala na odbieranie powiadomień z własnego serwera. Użytkownik subskrybuje kanał i otrzymuje powiadomienia na telefon. Jest to prosty klient do własnych usług push.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:org.luanti.luanti": {
+   "haslo": "Wirtualny świat z klocków",
+   "opis": "Luanti to sandboxowa gra typu Minecraft, w której można budować i niszczyć bloki w trójwymiarowym świecie. Gra działa na wielu serwerach i na starych komputerach. Umożliwia tworzenie własnych struktur i eksplorację.",
+   "kategoria": "Gry",
+   "zamiennik": "Minecraft"
+  },
+  "flathub:io.gitlab.news_flash.NewsFlash": {
+   "haslo": "Czytaj i zarządzaj kanałami RSS",
+   "opis": "Newsflash synchronizuje Twoje kanały RSS z kontem online, wyświetla powiadomienia na pulpicie i pozwala na szybkie przeszukiwanie. Użytkownik może tagować artykuły i korzystać z skrótów klawiszowych. Dostęp do wszystkich artykułów jest zawsze możliwy.",
+   "kategoria": "Czytanie",
+   "zamiennik": "Feedly"
+  },
+  "flathub:org.gnome.Aisleriot": {
+   "haslo": "Samość w kartach",
+   "opis": "Aisleriot to aplikacja z ponad 80 wariantami gry w solitaire. Gra działa na myszy, klawiaturze lub touchpadzie. Użytkownik może wybrać dowolny wariant i grać w trybie offline.",
+   "kategoria": "Gry",
+   "zamiennik": "Microsoft Solitaire"
+  },
+  "flathub:org.qgis.qgis": {
+   "haslo": "System informacji geograficznej",
+   "opis": "QGIS Desktop to otwarte oprogramowanie GIS, które pozwala na analizę i wizualizację danych przestrzennych. Obsługuje różne formaty wektorowe, rastrowe i bazy danych. Umożliwia tworzenie map i wykonywanie obliczeń geograficznych.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": "ArcGIS"
   }
  }
 }
