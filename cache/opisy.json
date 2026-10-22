@@ -4373,6 +4373,139 @@
     "https://dl.flathub.org/media/dev/deimoshall/DecryptIt/de16f1e7d17c9d0c30f2d5f6c067be4a/screenshots/image-2_624x549@1.png",
     "https://dl.flathub.org/media/dev/deimoshall/DecryptIt/de16f1e7d17c9d0c30f2d5f6c067be4a/screenshots/image-3_624x549@1.png"
    ]
+  },
+  "it.astrogods.AstroGods": {
+   "strona": "https://astrogods.it",
+   "kod": "https://github.com/arcangelo7/astrogods-app",
+   "screens": [
+    "https://dl.flathub.org/media/it/astrogods/AstroGods/95ff5e3170bdae9b3bcdbdcf24cfedb4/screenshots/image-1_624x444@1.png",
+    "https://dl.flathub.org/media/it/astrogods/AstroGods/95ff5e3170bdae9b3bcdbdcf24cfedb4/screenshots/image-2_624x444@1.png",
+    "https://dl.flathub.org/media/it/astrogods/AstroGods/95ff5e3170bdae9b3bcdbdcf24cfedb4/screenshots/image-3_624x444@1.png",
+    "https://dl.flathub.org/media/it/astrogods/AstroGods/95ff5e3170bdae9b3bcdbdcf24cfedb4/screenshots/image-4_624x444@1.png"
+   ]
+  },
+  "org.kde.kwalletmanager": {
+   "strona": "https://apps.kde.org/kwalletmanager",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/kde/kwalletmanager/c816065419e3d211d7f4487212d3a2a4/screenshots/image-1_624x561@1.png"
+   ]
+  },
+  "app.fotema.Fotema": {
+   "strona": "https://fotema.app",
+   "kod": "https://github.com/blissd/fotema",
+   "screens": [
+    "https://dl.flathub.org/media/app/fotema/Fotema/0e913ac8f14ac2d5c60b0d7e53bf8a2e/screenshots/image-1_624x400@1.png",
+    "https://dl.flathub.org/media/app/fotema/Fotema/0e913ac8f14ac2d5c60b0d7e53bf8a2e/screenshots/image-2_624x403@1.png",
+    "https://dl.flathub.org/media/app/fotema/Fotema/0e913ac8f14ac2d5c60b0d7e53bf8a2e/screenshots/image-3_624x470@1.png",
+    "https://dl.flathub.org/media/app/fotema/Fotema/0e913ac8f14ac2d5c60b0d7e53bf8a2e/screenshots/image-4_624x408@1.png"
+   ]
+  },
+  "org.kde.khangman": {
+   "strona": "https://apps.kde.org/khangman",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/kde/khangman.desktop/5c16edb7eed864e7e5d8c854bf22f6bf/screenshots/image-1_624x484@1.png"
+   ]
+  },
+  "org.gnome.design.Emblem": {
+   "strona": "https://apps.gnome.org/Emblem/",
+   "kod": "https://gitlab.gnome.org/World/design/emblem",
+   "screens": [
+    "https://dl.flathub.org/media/org/gnome/design.Emblem/19c789012a28f226c5377da199bb77ec/screenshots/image-1_624x324@1.png"
+   ]
+  },
+  "org.babelserver.spekter": {
+   "strona": "https://gitlab.com/hallyhaa/spekter",
+   "kod": "https://gitlab.com/hallyhaa/spekter",
+   "screens": [
+    "https://dl.flathub.org/media/org/babelserver/spekter/05c143c6c724cec43788f0efff29cf30/screenshots/image-1_624x464@1.png",
+    "https://dl.flathub.org/media/org/babelserver/spekter/05c143c6c724cec43788f0efff29cf30/screenshots/image-2_624x464@1.png",
+    "https://dl.flathub.org/media/org/babelserver/spekter/05c143c6c724cec43788f0efff29cf30/screenshots/image-3_624x464@1.png",
+    "https://dl.flathub.org/media/org/babelserver/spekter/05c143c6c724cec43788f0efff29cf30/screenshots/image-4_624x464@1.png"
+   ]
+  },
+  "com.identicalsoftware.anagramarama": {
+   "strona": "http://identicalsoftware.com/anagramarama/",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/com/identicalsoftware/anagramarama/f869afed5a11105bddca775748f65a31/screenshots/image-1_624x468@1.png",
+    "https://dl.flathub.org/media/com/identicalsoftware/anagramarama/f869afed5a11105bddca775748f65a31/screenshots/image-2_624x468@1.png"
+   ]
+  },
+  "org.kde.kwalletmanager5": {
+   "strona": "https://apps.kde.org/kwalletmanager5",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/kde/kwalletmanager5/21733ad22532a4634e7f6bbeea16b77d/screenshots/image-1_624x561@1.png"
+   ]
+  },
+  "io.github.strikerx3.ymir": {
+   "strona": "https://github.com/ymir-emu/Ymir",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/strikerx3.ymir/ccc725d1f29e4e963c28945007b64362/screenshots/image-1_624x462@1.png",
+    "https://dl.flathub.org/media/io/github/strikerx3.ymir/ccc725d1f29e4e963c28945007b64362/screenshots/image-2_624x335@1.png",
+    "https://dl.flathub.org/media/io/github/strikerx3.ymir/ccc725d1f29e4e963c28945007b64362/screenshots/image-3_624x420@1.png",
+    "https://dl.flathub.org/media/io/github/strikerx3.ymir/ccc725d1f29e4e963c28945007b64362/screenshots/image-4_624x420@1.png"
+   ]
+  },
+  "org.altlinux.Tuner": {
+   "strona": "https://altlinux.space/alt-gnome/Tuner",
+   "kod": "https://altlinux.space/alt-gnome/Tuner.git",
+   "screens": [
+    "https://dl.flathub.org/media/org/altlinux/Tuner/2cd2ebbeea22ee7b0167002aea8e64dc/screenshots/image-1_624x477@1.png",
+    "https://dl.flathub.org/media/org/altlinux/Tuner/2cd2ebbeea22ee7b0167002aea8e64dc/screenshots/image-2_624x477@1.png",
+    "https://dl.flathub.org/media/org/altlinux/Tuner/2cd2ebbeea22ee7b0167002aea8e64dc/screenshots/image-3_624x477@1.png"
+   ]
+  },
+  "io.github.diegopvlk.Dosage": {
+   "strona": "https://github.com/diegopvlk/Dosage",
+   "kod": "https://github.com/diegopvlk/Dosage",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/diegopvlk.Dosage.desktop/50a0abf8df5a0c935e85b211ff219967/screenshots/image-1_624x499@1.png",
+    "https://dl.flathub.org/media/io/github/diegopvlk.Dosage.desktop/50a0abf8df5a0c935e85b211ff219967/screenshots/image-2_624x499@1.png",
+    "https://dl.flathub.org/media/io/github/diegopvlk.Dosage.desktop/50a0abf8df5a0c935e85b211ff219967/screenshots/image-3_624x499@1.png",
+    "https://dl.flathub.org/media/io/github/diegopvlk.Dosage.desktop/50a0abf8df5a0c935e85b211ff219967/screenshots/image-4_624x499@1.png"
+   ]
+  },
+  "com.leinardi.gst": {
+   "strona": "https://gitlab.com/leinardi/gst",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/com/leinardi/gst.desktop/3d30ca471be1c0b30324485be3cec468/screenshots/image-1_624x514@1.png"
+   ]
+  },
+  "re.sonny.OhMySVG": {
+   "strona": "https://ohmysvg.sonny.re",
+   "kod": "https://ohmysvg.sonny.re/source",
+   "screens": [
+    "https://dl.flathub.org/media/re/sonny/OhMySVG/5cb6d5d981e6c3f0c5db9d61c9507c27/screenshots/image-1_624x480@1.png"
+   ]
+  },
+  "org.electroncash.ElectronCash": {
+   "strona": "https://www.electroncash.org/",
+   "kod": "https://github.com/Electron-Cash/Electron-Cash",
+   "screens": [
+    "https://dl.flathub.org/media/org/electroncash/ElectronCash/af4f423fade6d62c06d800f287952f89/screenshots/image-1_624x371@1.png"
+   ]
+  },
+  "io.github.eduszesz.Evangelion": {
+   "strona": "https://github.com/eduszesz/evangelion",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/eduszesz.Evangelion/5649795d85ab94a3615a66b9f7119818/screenshots/image-1_624x408@1.png"
+   ]
+  },
+  "bd.com.zihad.BengalDownloadManager": {
+   "strona": "https://github.com/tazihad/bengal-download-manager",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/bd/com/zihad.BengalDownloadManager/625262c049d77076975bee853683b0d3/screenshots/image-1_624x426@1.png",
+    "https://dl.flathub.org/media/bd/com/zihad.BengalDownloadManager/625262c049d77076975bee853683b0d3/screenshots/image-2_624x426@1.png",
+    "https://dl.flathub.org/media/bd/com/zihad.BengalDownloadManager/625262c049d77076975bee853683b0d3/screenshots/image-3_624x426@1.png",
+    "https://dl.flathub.org/media/bd/com/zihad.BengalDownloadManager/625262c049d77076975bee853683b0d3/screenshots/image-4_624x426@1.png"
+   ]
   }
  },
  "opisy": {
@@ -8809,6 +8942,114 @@
    "opis": "QGIS Desktop to otwarte oprogramowanie GIS, które pozwala na analizę i wizualizację danych przestrzennych. Obsługuje różne formaty wektorowe, rastrowe i bazy danych. Umożliwia tworzenie map i wykonywanie obliczeń geograficznych.",
    "kategoria": "Nauka i edukacja",
    "zamiennik": "ArcGIS"
+  },
+  "flathub:org.electroncash.ElectronCash": {
+   "haslo": "Lekki portfel Bitcoin Cash",
+   "opis": "Pozwala przechowywać i wysyłać Bitcoin Cash bez pobierania całej łańcucha bloków. Użytkownik kontroluje własne klucze prywatne i może łatwo tworzyć kopię zapasową. Działa na Linuxie i jest przeznaczony dla osób chcących bezpiecznie zarządzać kryptowalutą.",
+   "kategoria": "Finanse",
+   "zamiennik": ""
+  },
+  "flathub:io.github.eduszesz.Evangelion": {
+   "haslo": "Stealthowy roguelike",
+   "opis": "Gra polegająca na infiltracji generowanych losowo budynków, unikaniu strażników i hakerowaniu terminali. Każda rozgrywka jest inna dzięki losowej budowie poziomów. Idealna dla fanów taktycznych wyzwań.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:bd.com.zihad.BengalDownloadManager": {
+   "haslo": "Szybki menedżer pobierania",
+   "opis": "Pozwala pobierać pliki z wielu źródeł jednocześnie, dzieląc je na segmenty i łącząc w jeden plik. Obsługuje rozszerzenia przeglądarek, proxy i organizację po kategoriach. Działa na Linuxie.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:it.astrogods.AstroGods": {
+   "haslo": "Astrologiczne analizy",
+   "opis": "Na podstawie daty i godziny urodzenia oblicza pozycje planet i opisuje cechy osobowości oraz kompatybilność z innymi. Wykorzystuje precyzyjne obliczenia astronomiczne. Dla osób zainteresowanych astrologią.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:org.kde.kwalletmanager": {
+   "haslo": "Zarządzanie hasłami systemowymi",
+   "opis": "Przechowuje hasła w bezpiecznym sejfie i udostępnia je aplikacjom, które go obsługują. Umożliwia tworzenie, edycję i usuwanie haseł w jednym miejscu. Działa w środowisku KDE.",
+   "kategoria": "Prywatność i bezpieczeństwo",
+   "zamiennik": ""
+  },
+  "flathub:app.fotema.Fotema": {
+   "haslo": "Galeria zdjęć z mapą",
+   "opis": "Przeglądaj lokalne zdjęcia, włączając Live Photos z iOS i ruchome zdjęcia z Androida. Możesz zobaczyć zdjęcia na mapie, rozpoznawać twarze i sortować po roku lub miesiącu. Obsługuje wiele formatów obrazów.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "flathub:org.kde.khangman": {
+   "haslo": "Gra w wisielca dla dzieci",
+   "opis": "Uczy słownictwa poprzez zgadywanie słów w różnych kategoriach i poziomach trudności. Każda próba błędu rysuje część wisielca. Idealna dla dzieci od sześciu lat.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:org.gnome.design.Emblem": {
+   "haslo": "Tworzenie awatarów projektowych",
+   "opis": "Generuje ikony i awatary dla projektów na platformy takie jak Matrix czy Git. Umożliwia szybkie tworzenie spójnych wizualnie identyfikatorów.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:org.babelserver.spekter": {
+   "haslo": "Porównuje pliki i katalogi w jednym oknie",
+   "opis": "Spekter pozwala zobaczyć różnice między folderami lub plikami, wyświetlając je obok siebie lub w jednym widoku. Używa kolorów, aby podkreślić zmiany i automatycznie wykrywa pliki binarne. Działa na systemach Linux.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:com.identicalsoftware.anagramarama": {
+   "haslo": "Zabawa w tworzenie słów z liter",
+   "opis": "Anagramarama to gra słowna, w której trzeba odgadnąć wszystkie możliwe słowa z podanego zestawu liter w określonym czasie. Gra jest przeznaczona dla osób lubiących łamigłówki i rozwijających słownictwo.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:org.kde.kwalletmanager5": {
+   "haslo": "Zarządza hasłami w systemie",
+   "opis": "KWalletManager umożliwia przechowywanie i dostęp do haseł wszystkich aplikacji korzystających z systemowego portfela. Pozwala na bezpieczne przechowywanie sekretów i łatwe ich udostępnianie w systemie Linux.",
+   "kategoria": "Prywatność i bezpieczeństwo",
+   "zamiennik": ""
+  },
+  "flathub:dev.zed.Zed-Preview": {
+   "haslo": "Szybki edytor kodu z funkcjami IDE",
+   "opis": "Zed Preview to edytor, który łączy szybkość lekkiego edytora z funkcjami środowiska programistycznego. Obsługuje podświetlanie składni, automatyczne wstawianie kodu i współpracuje z serwerami językowymi (LSP).",
+   "kategoria": "Programowanie",
+   "zamiennik": ""
+  },
+  "flathub:io.github.strikerx3.ymir": {
+   "haslo": "Emulator konsoli Sega Saturn",
+   "opis": "Ymir emuluje gry z konsoli Sega Saturn, obsługując różne formaty plików gier i automatycznie wykrywając BIOS. Umożliwia podłączenie dwóch kontrolerów i zapisywanie stanu gry.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:org.altlinux.Tuner": {
+   "haslo": "Rozszerzone centrum ustawień systemowych",
+   "opis": "Tuner pozwala na dodawanie i konfigurowanie dodatkowych ustawień systemowych poprzez wtyczki. Interfejs dostosowuje się do różnych rozmiarów ekranów, a tworzenie własnych wtyczek jest proste.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.diegopvlk.Dosage": {
+   "haslo": "Śledzenie leków i dawek",
+   "opis": "Dosage pomaga zarządzać przyjmowaniem leków, wysyła przypomnienia, rejestruje historię i monitoruje zapasy. Umożliwia ustawienie różnych trybów częstotliwości i dostosowanie powiadomień.",
+   "kategoria": "Zdrowie i sport",
+   "zamiennik": ""
+  },
+  "flathub:com.leinardi.gst": {
+   "haslo": "Testuje i monitoruje sprzęt systemowy",
+   "opis": "GST to narzędzie, które obciąża procesor i pamięć RAM, jednocześnie monitorując ich wydajność. Umożliwia sprawdzenie stabilności sprzętu w systemie Linux.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:re.sonny.OhMySVG": {
+   "haslo": "Zmniejsz rozmiar plików SVG",
+   "opis": "Oh My SVG pozwala wygenerować mniejsze wersje plików SVG, podglądając i dopasowując parametry. Usuwa zbędne dane i metadane, co przyspiesza ładowanie stron. Idealne dla projektantów i twórców stron internetowych.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "flathub:org.kde.digikam": {
+   "haslo": "Zarządzaj i edytuj zdjęcia",
+   "opis": "digiKam to program do importu, organizacji, edycji i udostępniania zdjęć oraz plików RAW. Obsługuje karty SD, pamięci USB i urządzenia zewnętrzne. Umożliwia tworzenie albumów, tagów i podglądów w jednym miejscu.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": "Adobe Lightroom"
   }
  }
 }
