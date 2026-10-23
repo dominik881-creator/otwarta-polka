@@ -9050,6 +9050,12 @@
    "opis": "digiKam to program do importu, organizacji, edycji i udostępniania zdjęć oraz plików RAW. Obsługuje karty SD, pamięci USB i urządzenia zewnętrzne. Umożliwia tworzenie albumów, tagów i podglądów w jednym miejscu.",
    "kategoria": "Grafika i zdjęcia",
    "zamiennik": "Adobe Lightroom"
+  },
+  "fdroid:com.luc4n3x.levyra": {
+   "haslo": "Odtwarzacz muzyki z prywatnością",
+   "opis": "Levyra to natywny odtwarzacz muzyki na Androida. Umożliwia słuchanie, pobieranie i synchronizację tekstów piosenek. Działa offline i nie gromadzi danych użytkownika.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
   }
  }
 }
