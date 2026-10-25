@@ -4990,6 +4990,181 @@
     "https://dl.flathub.org/media/im/bernard/Memorado/556d8ff45f24bd6ef8d4c9e34330ec79/screenshots/image-2_624x523@1.png",
     "https://dl.flathub.org/media/im/bernard/Memorado/556d8ff45f24bd6ef8d4c9e34330ec79/screenshots/image-3_624x523@1.png"
    ]
+  },
+  "space.gaiasky.GaiaSky": {
+   "strona": "https://gaiasky.space",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/s/sp/space.gaiasky.gaiasky/f4e87721676998e5b529b04a681ba212/screenshots/image-1_624x436@1.png",
+    "https://dl.flathub.org/media/s/sp/space.gaiasky.gaiasky/f4e87721676998e5b529b04a681ba212/screenshots/image-2_624x436@1.png",
+    "https://dl.flathub.org/media/s/sp/space.gaiasky.gaiasky/f4e87721676998e5b529b04a681ba212/screenshots/image-4_624x408@1.png",
+    "https://dl.flathub.org/media/s/sp/space.gaiasky.gaiasky/f4e87721676998e5b529b04a681ba212/screenshots/image-5_624x436@1.png"
+   ]
+  },
+  "org.tabos.saldo": {
+   "strona": "https://www.tabos.org/projects/saldo/",
+   "kod": "https://gitlab.com/tabos/saldo/",
+   "screens": [
+    "https://dl.flathub.org/media/org/tabos/saldo.desktop/0be3f997970769919e8ca5f8f6c59616/screenshots/image-1_624x414@1.png",
+    "https://dl.flathub.org/media/org/tabos/saldo.desktop/0be3f997970769919e8ca5f8f6c59616/screenshots/image-2_624x338@1.png",
+    "https://dl.flathub.org/media/org/tabos/saldo.desktop/0be3f997970769919e8ca5f8f6c59616/screenshots/image-3_624x414@1.png",
+    "https://dl.flathub.org/media/org/tabos/saldo.desktop/0be3f997970769919e8ca5f8f6c59616/screenshots/image-4_624x414@1.png"
+   ]
+  },
+  "org.gnome.TwentyFortyEight": {
+   "strona": "https://gitlab.gnome.org/GNOME/gnome-2048",
+   "kod": "https://gitlab.gnome.org/GNOME/gnome-2048",
+   "screens": [
+    "https://dl.flathub.org/media/org/gnome/TwentyFortyEight/5a4a70b070010784c32fa1a14c07a39a/screenshots/image-1_624x674@1.png"
+   ]
+  },
+  "io.github.josephmawa.EncodingExplorer": {
+   "strona": "https://github.com/josephmawa/EncodingExplorer",
+   "kod": "https://github.com/josephmawa/EncodingExplorer",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/josephmawa.EncodingExplorer/3bd61f344ee0947a76430d22695ff267/screenshots/image-1_624x537@1.png",
+    "https://dl.flathub.org/media/io/github/josephmawa.EncodingExplorer/3bd61f344ee0947a76430d22695ff267/screenshots/image-2_624x537@1.png"
+   ]
+  },
+  "io.github.Lluciocc.Shapebound": {
+   "strona": "https://github.com/Lluciocc/Shapebound",
+   "kod": "https://github.com/Lluciocc/Shapebound",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/Lluciocc.Shapebound/c232fa6483e0682184fa016e618adcf3/screenshots/image-1_624x521@1.png",
+    "https://dl.flathub.org/media/io/github/Lluciocc.Shapebound/c232fa6483e0682184fa016e618adcf3/screenshots/image-2_624x521@1.png",
+    "https://dl.flathub.org/media/io/github/Lluciocc.Shapebound/c232fa6483e0682184fa016e618adcf3/screenshots/image-3_624x521@1.png"
+   ]
+  },
+  "tech.digiroad.ImageFlow": {
+   "strona": "https://github.com/GS90/ImageFlow",
+   "kod": "https://github.com/GS90/ImageFlow",
+   "screens": [
+    "https://dl.flathub.org/media/tech/digiroad/ImageFlow/85f2dfa9735054d97156128f1e0b6b32/screenshots/image-1_624x514@1.png",
+    "https://dl.flathub.org/media/tech/digiroad/ImageFlow/85f2dfa9735054d97156128f1e0b6b32/screenshots/image-2_624x514@1.png",
+    "https://dl.flathub.org/media/tech/digiroad/ImageFlow/85f2dfa9735054d97156128f1e0b6b32/screenshots/image-3_624x514@1.png"
+   ]
+  },
+  "org.frescobaldi.Frescobaldi": {
+   "strona": "https://www.frescobaldi.org/",
+   "kod": "https://github.com/frescobaldi/frescobaldi",
+   "screens": [
+    "https://dl.flathub.org/media/org/frescobaldi/Frescobaldi/1b38a024434ad3fcf7848a35c5686190/screenshots/image-1_624x445@1.png",
+    "https://dl.flathub.org/media/org/frescobaldi/Frescobaldi/1b38a024434ad3fcf7848a35c5686190/screenshots/image-2_624x445@1.png",
+    "https://dl.flathub.org/media/org/frescobaldi/Frescobaldi/1b38a024434ad3fcf7848a35c5686190/screenshots/image-3_624x470@1.png",
+    "https://dl.flathub.org/media/org/frescobaldi/Frescobaldi/1b38a024434ad3fcf7848a35c5686190/screenshots/image-4_624x442@1.png"
+   ]
+  },
+  "dev.zelikos.rollit": {
+   "strona": "https://zelikos.dev/apps/rollit",
+   "kod": "https://github.com/zelikos/rannum",
+   "screens": [
+    "https://dl.flathub.org/media/dev/zelikos/rollit/50084679468ff53c128b8dabe7769021/screenshots/image-1_624x541@1.png",
+    "https://dl.flathub.org/media/dev/zelikos/rollit/50084679468ff53c128b8dabe7769021/screenshots/image-2_624x541@1.png",
+    "https://dl.flathub.org/media/dev/zelikos/rollit/50084679468ff53c128b8dabe7769021/screenshots/image-3_624x675@1.png",
+    "https://dl.flathub.org/media/dev/zelikos/rollit/50084679468ff53c128b8dabe7769021/screenshots/image-4_624x675@1.png"
+   ]
+  },
+  "net.hhoney.tinycrate": {
+   "strona": "https://hhoney.net",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/net/hhoney/tinycrate/eb1e25cedbee9a504dd1d828827e6adc/screenshots/image-1_624x350@1.png",
+    "https://dl.flathub.org/media/net/hhoney/tinycrate/eb1e25cedbee9a504dd1d828827e6adc/screenshots/image-2_624x350@1.png",
+    "https://dl.flathub.org/media/net/hhoney/tinycrate/eb1e25cedbee9a504dd1d828827e6adc/screenshots/image-3_624x350@1.png",
+    "https://dl.flathub.org/media/net/hhoney/tinycrate/eb1e25cedbee9a504dd1d828827e6adc/screenshots/image-4_624x350@1.png"
+   ]
+  },
+  "com.ranfdev.Notify": {
+   "strona": "https://github.com/ranfdev/Notify",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/com/ranfdev/Notify/ab4ad47504a8acd02c9748e76f13d526/screenshots/image-1_624x488@1.png",
+    "https://dl.flathub.org/media/com/ranfdev/Notify/ab4ad47504a8acd02c9748e76f13d526/screenshots/image-2_624x488@1.png"
+   ]
+  },
+  "app.drey.Elastic": {
+   "strona": "https://gitlab.gnome.org/World/elastic",
+   "kod": "https://gitlab.gnome.org/World/elastic",
+   "screens": [
+    "https://dl.flathub.org/media/app/drey/Elastic/835343b2f40609c5597e0c7aff000a7a/screenshots/image-1_624x620@1.png",
+    "https://dl.flathub.org/media/app/drey/Elastic/835343b2f40609c5597e0c7aff000a7a/screenshots/image-2_624x620@1.png",
+    "https://dl.flathub.org/media/app/drey/Elastic/835343b2f40609c5597e0c7aff000a7a/screenshots/image-3_624x620@1.png",
+    "https://dl.flathub.org/media/app/drey/Elastic/835343b2f40609c5597e0c7aff000a7a/screenshots/image-4_624x620@1.png"
+   ]
+  },
+  "dev.geopjr.Tuba": {
+   "strona": "https://tuba.geopjr.dev/",
+   "kod": "https://codeberg.org/GeopJr/Tuba/",
+   "screens": [
+    "https://dl.flathub.org/media/dev/geopjr/Tuba/150f61fcc01e79969370d454fbe39642/screenshots/image-1_624x446@1.png",
+    "https://dl.flathub.org/media/dev/geopjr/Tuba/150f61fcc01e79969370d454fbe39642/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/dev/geopjr/Tuba/150f61fcc01e79969370d454fbe39642/screenshots/image-3_624x451@1.png",
+    "https://dl.flathub.org/media/dev/geopjr/Tuba/150f61fcc01e79969370d454fbe39642/screenshots/image-4_624x363@1.png"
+   ]
+  },
+  "com.flow_browser.flow": {
+   "strona": "https://www.flow-browser.com",
+   "kod": "https://github.com/MultiboxLabs/flow-browser",
+   "screens": [
+    "https://dl.flathub.org/media/com/flow_browser/flow/1c34ff850b8addd68c41449529994ec5/screenshots/image-1_624x351@1.png",
+    "https://dl.flathub.org/media/com/flow_browser/flow/1c34ff850b8addd68c41449529994ec5/screenshots/image-2_624x351@1.png",
+    "https://dl.flathub.org/media/com/flow_browser/flow/1c34ff850b8addd68c41449529994ec5/screenshots/image-3_624x468@1.png"
+   ]
+  },
+  "dev.geopjr.Collision": {
+   "strona": "https://collision.geopjr.dev/",
+   "kod": "https://codeberg.org/GeopJr/Collision/",
+   "screens": [
+    "https://dl.flathub.org/media/dev/geopjr/Collision/5b0d8fea872d336b2510c1f29bd0fcb9/screenshots/image-1_624x489@1.png",
+    "https://dl.flathub.org/media/dev/geopjr/Collision/5b0d8fea872d336b2510c1f29bd0fcb9/screenshots/image-2_624x489@1.png",
+    "https://dl.flathub.org/media/dev/geopjr/Collision/5b0d8fea872d336b2510c1f29bd0fcb9/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/dev/geopjr/Collision/5b0d8fea872d336b2510c1f29bd0fcb9/screenshots/image-4_624x489@1.png"
+   ]
+  },
+  "io.github.mimoguz.tripeaks_neue": {
+   "strona": "https://github.com/mimoguz/tripeaks_neue",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/mimoguz.tripeaks_neue/ad143bef1cd7c1fc62cab959e607e7ca/screenshots/image-1_624x436@1.png",
+    "https://dl.flathub.org/media/io/github/mimoguz.tripeaks_neue/ad143bef1cd7c1fc62cab959e607e7ca/screenshots/image-2_624x436@1.png",
+    "https://dl.flathub.org/media/io/github/mimoguz.tripeaks_neue/ad143bef1cd7c1fc62cab959e607e7ca/screenshots/image-3_624x436@1.png",
+    "https://dl.flathub.org/media/io/github/mimoguz.tripeaks_neue/ad143bef1cd7c1fc62cab959e607e7ca/screenshots/image-4_624x436@1.png"
+   ]
+  },
+  "net.krafting.PleasureDVR": {
+   "strona": "https://gitlab.com/Krafting/pleasure-dvr-gtk",
+   "kod": "https://gitlab.com/Krafting/pleasure-dvr-gtk",
+   "screens": [
+    "https://dl.flathub.org/media/net/krafting/PleasureDVR/085045f08f0b0c4ab1e581ab23f9b191/screenshots/image-1_624x528@1.png",
+    "https://dl.flathub.org/media/net/krafting/PleasureDVR/085045f08f0b0c4ab1e581ab23f9b191/screenshots/image-2_624x528@1.png"
+   ]
+  },
+  "im.dino.Dino": {
+   "strona": "https://dino.im",
+   "kod": "https://github.com/dino/dino",
+   "screens": [
+    "https://dl.flathub.org/media/im/dino/Dino/a450d152b6333389fdf08182b86679f8/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/im/dino/Dino/a450d152b6333389fdf08182b86679f8/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/im/dino/Dino/a450d152b6333389fdf08182b86679f8/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/im/dino/Dino/a450d152b6333389fdf08182b86679f8/screenshots/image-4_orig.png"
+   ]
+  },
+  "org.kde.audiotube": {
+   "strona": "https://apps.kde.org/en/audiotube",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/kde/audiotube/ac8633265db96fdffb59dbf708d6b234/screenshots/image-1_624x489@1.png",
+    "https://dl.flathub.org/media/org/kde/audiotube/ac8633265db96fdffb59dbf708d6b234/screenshots/image-2_624x489@1.png",
+    "https://dl.flathub.org/media/org/kde/audiotube/ac8633265db96fdffb59dbf708d6b234/screenshots/image-3_624x489@1.png",
+    "https://dl.flathub.org/media/org/kde/audiotube/ac8633265db96fdffb59dbf708d6b234/screenshots/image-4_624x1248@1.png"
+   ]
+  },
+  "org.gnome.Mines": {
+   "strona": "https://gitlab.gnome.org/GNOME/gnome-mines/",
+   "kod": "https://gitlab.gnome.org/GNOME/gnome-mines",
+   "screens": [
+    "https://dl.flathub.org/media/org/gnome/Mines/8ca6efccaa9530780522ffbd8599c502/screenshots/image-1_624x558@1.png"
+   ]
   }
  },
  "opisy": {
@@ -9894,6 +10069,120 @@
    "opis": "Clock to offline’owy zegar z alarmem, stoperem i minutnikiem, który nie wymaga dostępu do internetu. Jest przeznaczony dla osób ceniących prywatność i prostotę. Obsługuje alarmy na konkretną datę i strefę czasową oraz proste akcje wyłączania.",
    "kategoria": "Nauka i edukacja",
    "zamiennik": "Android Clock"
+  },
+  "flathub:space.gaiasky.GaiaSky": {
+   "haslo": "Wirtualny obserwator nieba",
+   "opis": "Gaia Sky pozwala przeglądać gwiazdy, planety i galaktyki w trójwymiarze. Aplikacja wykorzystuje dane z misji ESA Gaia. Idealna dla osób zainteresowanych astronomią i edukacją.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:org.tabos.saldo": {
+   "haslo": "Przeglądanie salda bankowego",
+   "opis": "Saldo wyświetla informacje o kontach bankowych i transakcjach, korzystając z protokołu FinTS. Umożliwia szybki dostęp do danych z banku. Dla osób chcących monitorować finanse w prosty sposób.",
+   "kategoria": "Finanse",
+   "zamiennik": ""
+  },
+  "flathub:org.gnome.TwentyFortyEight": {
+   "haslo": "Rozwiązywanie plansz z liczbami",
+   "opis": "2048 to gra polegająca na łączeniu liczb w siatce, aby uzyskać 2048. Gra jest prosta, ale wymaga logicznego myślenia. Dla fanów łamigłówek.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:io.github.josephmawa.EncodingExplorer": {
+   "haslo": "Nauka kodowania znaków",
+   "opis": "Encoding Explorer pokazuje, jak znaki są przechowywane w różnych formatach (ASCII, UTF-8, UTF-16, UTF-32). Umożliwia zmianę kolejności bajtów i przeglądanie wyników w czasie rzeczywistym. Dla uczących się programowania i informatyki.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:io.github.Lluciocc.Shapebound": {
+   "haslo": "Puzzle z klockami polyomino",
+   "opis": "Shapebound to relaksująca gra, w której wypełniasz planszę klockami o różnych kształtach. Klocki można obracać i odwracać. Dla osób lubiących logiczne wyzwania.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:tech.digiroad.ImageFlow": {
+   "haslo": "Konwersja wideo na animacje",
+   "opis": "ImageFlow zamienia filmy w GIF, WebP lub AVIF. Użytkownik może ustawić rozmiar, liczbę klatek i filtry. Dla twórców multimediów potrzebujących prostego narzędzia do konwersji.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "flathub:org.frescobaldi.Frescobaldi": {
+   "haslo": "Edytor nut w formacie LilyPond",
+   "opis": "Frescobaldi umożliwia pisanie i edycję nut w plikach LilyPond. Oferuje podświetlanie składni i podgląd nut. Dla muzyków i kompozytorów pracujących z tekstowym formatem nutowym.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:dev.zelikos.rollit": {
+   "haslo": "Rzut kostką w aplikacji",
+   "opis": "Chance pozwala rzucać standardowymi lub dowolnymi kostkami, zapisywać wyniki i kopiować je do schowka. Przydatne przy grach fabularnych i losowych decyzjach. Dla graczy i organizatorów spotkań.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:net.hhoney.tinycrate": {
+   "haslo": "Rozgrywka w stylu platformera z puzzlami",
+   "opis": "Tiny Crate to mała gra platformowa, w której podnosisz i wyrzucasz skrzynie, by przeskakiwać pułapki i rozwiązywać zagadki. Dla osób lubiących wyzwania i szybkie akcje. Wyróżnia się prostą, przyjazną grafiką i intuicyjną kontrolą.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:com.ranfdev.Notify": {
+   "haslo": "Klient powiadomień z ntfy.sh",
+   "opis": "Notify to aplikacja GTK4, która odbiera powiadomienia z usługi ntfy.sh. Umożliwia łatwe przeglądanie i zarządzanie wiadomościami. Przeznaczona dla użytkowników Gnome, którzy potrzebują prostego klienta powiadomień.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:app.drey.Elastic": {
+   "haslo": "Projektowanie animacji typu sprężynowego",
+   "opis": "Elastic pozwala tworzyć i eksportować animacje opartych na fizyce sprężyn. Podgląd animacji i możliwość eksportu kodu do C, JavaScript, Python, Vala lub Rust. Dla twórców interfejsów, którzy chcą realistycznych ruchów.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:dev.geopjr.Tuba": {
+   "haslo": "Przeglądanie federowanego internetu",
+   "opis": "Tuba to klient GNOME do przeglądania Fediverse – zdecentralizowanej sieci społeczności. Pozwala śledzić konta na Mastodonie, GoToSocial i innych. Dla osób szukających prywatności i niezależności w mediach społecznościowych.",
+   "kategoria": "Internet i przeglądarki",
+   "zamiennik": ""
+  },
+  "flathub:com.flow_browser.flow": {
+   "haslo": "Minimalistyczna przeglądarka z naciskiem na prywatność",
+   "opis": "Flow to nowoczesna przeglądarka z czystym interfejsem, która skupia się na produktywności i ochronie danych. Obsługuje Widevine, więc można oglądać streamingowe treści. Dla użytkowników ceniących prostotę i bezpieczeństwo.",
+   "kategoria": "Internet i przeglądarki",
+   "zamiennik": ""
+  },
+  "flathub:dev.geopjr.Collision": {
+   "haslo": "Sprawdzanie sum kontrolnych plików",
+   "opis": "Collision umożliwia generowanie i porównywanie sum kontrolnych (hashów) plików, by potwierdzić ich integralność. Proste UI sprawia, że każdy może szybko sprawdzić, czy plik nie został zmodyfikowany. Dla użytkowników dbających o bezpieczeństwo pobieranych danych.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.mimoguz.tripeaks_neue": {
+   "haslo": "Klasyczna gra karciana Patience – Tri Peaks",
+   "opis": "TriPeaks NEUE to gra karciana, w której układasz karty w trzech szczytach, by wyczyścić stoł. Oferuje różne układy i statystyki. Dla miłośników rozgrywek logicznych i relaksu.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:net.krafting.PleasureDVR": {
+   "haslo": "Nagrywanie transmisji na żywo z Chaturbate",
+   "opis": "Pleasure DVR rejestruje wideo z serwisów Chaturbate i Stripchat, obsługuje wiele jednoczesnych nagrań i pozwala ustawić jakość oraz format. Automatycznie rozpoczyna i kończy nagrywanie w zależności od statusu streamera. Dla osób zajmujących się archiwizacją transmisji.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:im.dino.Dino": {
+   "haslo": "Klient czatu XMPP",
+   "opis": "Dino to otwarte oprogramowanie do rozmów w sieci Jabber/XMPP. Umożliwia szyfrowanie OMEMO i OpenPGP oraz kontrolę prywatności. Synchronizuje wiadomości między urządzeniami.",
+   "kategoria": "Komunikacja",
+   "zamiennik": ""
+  },
+  "flathub:org.kde.audiotube": {
+   "haslo": "Aplikacja do muzyki z YouTube",
+   "opis": "AudioTube pozwala przeglądać YouTube Music, odtwarzać albumy i tworzyć własne playlisty. Działa na telefonach i komputerach. Nie wymaga konta Google.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:org.gnome.Mines": {
+   "haslo": "Gra polegająca na odkrywaniu min",
+   "opis": "Mines to logiczna gra polegająca na oznaczaniu pól z minami. Gra kończy się, gdy wszystkie miny zostaną oznaczone. Można wybrać rozmiar pola i uzyskać podpowiedzi.",
+   "kategoria": "Gry",
+   "zamiennik": ""
   }
  }
 }
