@@ -5165,6 +5165,142 @@
    "screens": [
     "https://dl.flathub.org/media/org/gnome/Mines/8ca6efccaa9530780522ffbd8599c502/screenshots/image-1_624x558@1.png"
    ]
+  },
+  "io.github.nokse22.inspector": {
+   "strona": "https://github.com/Nokse22/inspector",
+   "kod": "https://github.com/Nokse22/inspector",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/nokse22.inspector.desktop/caab0947da259b6c38dbfd4101dab3a2/screenshots/image-1_624x456@1.png",
+    "https://dl.flathub.org/media/io/github/nokse22.inspector.desktop/caab0947da259b6c38dbfd4101dab3a2/screenshots/image-2_624x456@1.png",
+    "https://dl.flathub.org/media/io/github/nokse22.inspector.desktop/caab0947da259b6c38dbfd4101dab3a2/screenshots/image-3_624x456@1.png",
+    "https://dl.flathub.org/media/io/github/nokse22.inspector.desktop/caab0947da259b6c38dbfd4101dab3a2/screenshots/image-4_624x456@1.png"
+   ]
+  },
+  "io.github.Foldex.AdwSteamGtk": {
+   "strona": "https://github.com/Foldex/AdwSteamGtk",
+   "kod": "https://github.com/Foldex/AdwSteamGtk",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/Foldex.AdwSteamGtk/f83fe66a8def7c7d9ffe4d7f9a6e22d7/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/io/github/Foldex.AdwSteamGtk/f83fe66a8def7c7d9ffe4d7f9a6e22d7/screenshots/image-2_624x351@1.png",
+    "https://dl.flathub.org/media/io/github/Foldex.AdwSteamGtk/f83fe66a8def7c7d9ffe4d7f9a6e22d7/screenshots/image-3_624x351@1.png",
+    "https://dl.flathub.org/media/io/github/Foldex.AdwSteamGtk/f83fe66a8def7c7d9ffe4d7f9a6e22d7/screenshots/image-4_624x351@1.png"
+   ]
+  },
+  "it.mijorus.smile": {
+   "strona": "https://smile.mijorus.it",
+   "kod": "https://github.com/mijorus/smile",
+   "screens": [
+    "https://dl.flathub.org/media/it/mijorus/smile/7a368f57897c656f5a36e8bf54cfc4b9/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/it/mijorus/smile/7a368f57897c656f5a36e8bf54cfc4b9/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/it/mijorus/smile/7a368f57897c656f5a36e8bf54cfc4b9/screenshots/image-3_orig.png"
+   ]
+  },
+  "org.gnome.seahorse.Application": {
+   "strona": "https://wiki.gnome.org/Apps/Seahorse",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/gnome/seahorse.Application/16e7d095e24b921e2ccf8ab31b0afd4f/screenshots/image-1_624x351@1.png"
+   ]
+  },
+  "page.codeberg.lo_vely.Nucleus": {
+   "strona": "https://codeberg.org/lo-vely/nucleus",
+   "kod": "https://codeberg.org/lo-vely/nucleus",
+   "screens": [
+    "https://dl.flathub.org/media/page/codeberg/lo_vely.Nucleus/ca0139bcbdd7a666c63c7ff14eca3552/screenshots/image-1_624x457@1.png",
+    "https://dl.flathub.org/media/page/codeberg/lo_vely.Nucleus/ca0139bcbdd7a666c63c7ff14eca3552/screenshots/image-2_624x457@1.png"
+   ]
+  },
+  "eu.fortysixandtwo.chessclock": {
+   "strona": "https://gitlab.gnome.org/World/chess-clock",
+   "kod": "https://gitlab.gnome.org/World/chess-clock",
+   "screens": [
+    "https://dl.flathub.org/media/eu/fortysixandtwo/chessclock/28f5076e62c54652b619f2d9df22777a/screenshots/image-1_624x387@1.png",
+    "https://dl.flathub.org/media/eu/fortysixandtwo/chessclock/28f5076e62c54652b619f2d9df22777a/screenshots/image-2_624x387@1.png",
+    "https://dl.flathub.org/media/eu/fortysixandtwo/chessclock/28f5076e62c54652b619f2d9df22777a/screenshots/image-3_624x1004@1.png"
+   ]
+  },
+  "io.github.vani_tty1.memerist": {
+   "strona": "https://vani-tty1.github.io/memerist",
+   "kod": "https://github.com/vani-tty1/memerist",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/vani_tty1.memerist/4669282e5860e009a7eeb03c2082fcbc/screenshots/image-1_624x406@1.png",
+    "https://dl.flathub.org/media/io/github/vani_tty1.memerist/4669282e5860e009a7eeb03c2082fcbc/screenshots/image-2_624x406@1.png",
+    "https://dl.flathub.org/media/io/github/vani_tty1.memerist/4669282e5860e009a7eeb03c2082fcbc/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/io/github/vani_tty1.memerist/4669282e5860e009a7eeb03c2082fcbc/screenshots/image-4_orig.png"
+   ]
+  },
+  "org.gnome.gitlab.cheywood.Buffer": {
+   "strona": "https://gitlab.gnome.org/cheywood/buffer",
+   "kod": "https://gitlab.gnome.org/cheywood/buffer",
+   "screens": [
+    "https://dl.flathub.org/media/org/gnome/gitlab.cheywood.Buffer/5afea3d9e9327693dace40ac52f58e45/screenshots/image-1_624x457@1.png",
+    "https://dl.flathub.org/media/org/gnome/gitlab.cheywood.Buffer/5afea3d9e9327693dace40ac52f58e45/screenshots/image-2_624x457@1.png"
+   ]
+  },
+  "org.kde.komodo": {
+   "strona": "https://apps.kde.org/komodo/",
+   "kod": "https://invent.kde.org/utilities/komodo",
+   "screens": [
+    "https://dl.flathub.org/media/org/kde/komodo/2dcc1e7e8a0b9be86df6cb4ff9a638e2/screenshots/image-1_624x692@1.png",
+    "https://dl.flathub.org/media/org/kde/komodo/2dcc1e7e8a0b9be86df6cb4ff9a638e2/screenshots/image-2_624x692@1.png"
+   ]
+  },
+  "dev.geopjr.Turntable": {
+   "strona": "https://turntable.geopjr.dev",
+   "kod": "https://codeberg.org/GeopJr/Turntable",
+   "screens": [
+    "https://dl.flathub.org/media/dev/geopjr/Turntable/3a72c7a7cd2ebfac946c74fede70d1e6/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/dev/geopjr/Turntable/3a72c7a7cd2ebfac946c74fede70d1e6/screenshots/image-2_624x326@1.png",
+    "https://dl.flathub.org/media/dev/geopjr/Turntable/3a72c7a7cd2ebfac946c74fede70d1e6/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/dev/geopjr/Turntable/3a72c7a7cd2ebfac946c74fede70d1e6/screenshots/image-4_624x425@1.png"
+   ]
+  },
+  "io.github.hamza_algohary.Coulomb": {
+   "strona": "https://github.com/hamza-Algohary/Coulomb",
+   "kod": "https://github.com/hamza-Algohary/Coulomb",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/hamza_algohary.Coulomb/1e034a8bdb750829f164ef4f7c50b290/screenshots/image-1_624x420@1.png",
+    "https://dl.flathub.org/media/io/github/hamza_algohary.Coulomb/1e034a8bdb750829f164ef4f7c50b290/screenshots/image-2_624x420@1.png",
+    "https://dl.flathub.org/media/io/github/hamza_algohary.Coulomb/1e034a8bdb750829f164ef4f7c50b290/screenshots/image-3_624x420@1.png",
+    "https://dl.flathub.org/media/io/github/hamza_algohary.Coulomb/1e034a8bdb750829f164ef4f7c50b290/screenshots/image-4_624x420@1.png"
+   ]
+  },
+  "io.github.shundhammer.qdirstat": {
+   "strona": "https://github.com/shundhammer/qdirstat",
+   "kod": "https://github.com/shundhammer/qdirstat/",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/shundhammer.qdirstat/c6b634575a0bf73ebf8f7aac9d2f1a5a/screenshots/image-1_624x371@1.png"
+   ]
+  },
+  "org.kde.akregator": {
+   "strona": "https://kontact.kde.org/components/akregator/",
+   "kod": "https://invent.kde.org/pim/akregator/",
+   "screens": [
+    "https://dl.flathub.org/media/org/kde/akregator/1407e4e6164f83c55c6530732c535040/screenshots/image-1_624x495@1.png"
+   ]
+  },
+  "io.github.qcanvas.QCanvasApp": {
+   "strona": "https://github.com/QCanvas/QCanvasApp/",
+   "kod": "https://github.com/QCanvas/QCanvasApp/",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/qcanvas.QCanvasApp/06d172b98a99a5845ae4681727df85ba/screenshots/image-1_624x349@1.png",
+    "https://dl.flathub.org/media/io/github/qcanvas.QCanvasApp/06d172b98a99a5845ae4681727df85ba/screenshots/image-2_624x349@1.png",
+    "https://dl.flathub.org/media/io/github/qcanvas.QCanvasApp/06d172b98a99a5845ae4681727df85ba/screenshots/image-3_624x349@1.png"
+   ]
+  },
+  "page.codeberg.petsoi.griddle": {
+   "strona": "https://codeberg.org/petsoi/griddle",
+   "kod": "https://codeberg.org/petsoi/griddle",
+   "screens": [
+    "https://dl.flathub.org/media/page/codeberg/petsoi.griddle/933188cbe9cec64acc1ce73fbe8019ce/screenshots/image-1_orig.png"
+   ]
+  },
+  "com.yanklog.YankLog": {
+   "strona": "https://yanklog.com",
+   "kod": "https://github.com/act1labs/yanklog-linux",
+   "screens": [
+    "https://dl.flathub.org/media/com/yanklog/YankLog/5a371c2c49d4b00cdc0a8074d1a0d73e/screenshots/image-1_624x504@1.png"
+   ]
   }
  },
  "opisy": {
@@ -10183,6 +10319,108 @@
    "opis": "Mines to logiczna gra polegająca na oznaczaniu pól z minami. Gra kończy się, gdy wszystkie miny zostaną oznaczone. Można wybrać rozmiar pola i uzyskać podpowiedzi.",
    "kategoria": "Gry",
    "zamiennik": ""
+  },
+  "flathub:page.codeberg.petsoi.griddle": {
+   "haslo": "Rozwiązywanie łamigłówek obrazkowych",
+   "opis": "Griddle to gra polegająca na wypełnianiu pól na siatce zgodnie z podanymi wskazówkami liczbowymi, aby odsłonić ukryty obraz. Gra jest przeznaczona dla osób lubiących logiczne wyzwania. Wyróżnia się prostym interfejsem i możliwością zaznaczania pól jako puste.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:com.yanklog.YankLog": {
+   "haslo": "Historia schowka z możliwością wyszukiwania",
+   "opis": "YankLog przechowuje skopiowane teksty w zaszyfrowanej bazie danych na urządzeniu, pozwalając na ich późniejsze wyszukiwanie i filtrowanie. Użytkownik może zatrzymać historię, usunąć niechciane wpisy i korzystać z szybkiego wyboru przy pomocy skrótu klawiszowego. Aplikacja dba o prywatność danych.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.nokse22.inspector": {
+   "haslo": "Podgląd informacji o systemie",
+   "opis": "Inspector pokazuje szczegółowe dane o sprzęcie i konfiguracji systemu: urządzenia USB, dyski, pamięć, procesor, karta sieciowa, BIOS i dystrybucja Linuksa. Aplikacja jest przydatna dla administratorów i użytkowników chcących szybko sprawdzić specyfikację sprzętu.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "fdroid:org.isoron.uhabits": {
+   "haslo": "Śledzenie nawyków i celów długoterminowych",
+   "opis": "Loop Habit Tracker pomaga tworzyć i utrzymywać dobre nawyki, pokazując postępy w formie wykresów i statystyk. Aplikacja jest przeznaczona dla osób chcących monitorować codzienne działania i osiągać długofalowe cele. Interfejs jest minimalistyczny i zgodny z wytycznymi Material Design.",
+   "kategoria": "Zdrowie i sport",
+   "zamiennik": ""
+  },
+  "flathub:io.github.Foldex.AdwSteamGtk": {
+   "haslo": "Motyw Adwaita dla Steam",
+   "opis": "AdwSteamGtk instalują i aktualizują skórkę Adwaita dla klienta Steam, dzięki czemu interfejs wygląda jak natywny element systemu. Użytkownik może dostosować wygląd i automatycznie pobierać aktualizacje. Aplikacja jest przeznaczona dla graczy korzystających z Linuksa.",
+   "kategoria": "Gry",
+   "zamiennik": "Steam"
+  },
+  "flathub:it.mijorus.smile": {
+   "haslo": "Wybieranie emoji w systemie Linux",
+   "opis": "Smile to prosty wybieracz emotikonów z możliwością dodawania własnych tagów. Umożliwia szybkie wstawianie emoji do dowolnej aplikacji. Aplikacja jest przeznaczona dla użytkowników Linuksa, którzy potrzebują szybkiego dostępu do emotikonów.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:org.gnome.seahorse.Application": {
+   "haslo": "Zarządzanie hasłami i kluczami szyfrowania",
+   "opis": "Passwords and Keys pozwala tworzyć i przechowywać klucze PGP oraz SSH, a także zarządzać hasłami i kluczami szyfrowania. Aplikacja umożliwia publikowanie i pobieranie kluczy z serwerów oraz buforowanie haseł, aby nie trzeba było ich wielokrotnie wpisywać. Jest przydatna dla osób dbających o bezpieczeństwo danych.",
+   "kategoria": "Prywatność i bezpieczeństwo",
+   "zamiennik": ""
+  },
+  "flathub:page.codeberg.lo_vely.Nucleus": {
+   "haslo": "Przeglądanie tabeli okresowej",
+   "opis": "Nucleus umożliwia przeglądanie tabeli okresowej pierwiastków oraz wyświetlanie różnych właściwości każdego z nich, w tym wizualnych reprezentacji. Aplikacja posiada funkcję wyszukiwania, która zwraca listę wyników dla szybkiego podglądu. Jest przydatna dla uczniów i osób zainteresowanych chemią.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:eu.fortysixandtwo.chessclock": {
+   "haslo": "Zarządzaj czasem w partiach szachowych",
+   "opis": "Aplikacja pozwala ustawić i kontrolować czas gry w szachy na planszy. Użytkownik wybiera ustawienia, a zegar przełącza się po każdym ruchu. Przeznaczona dla graczy szachowych, którzy potrzebują prostego narzędzia do odmierzania czasu",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:io.github.vani_tty1.memerist": {
+   "haslo": "Twórz i edytuj memy w prosty sposób",
+   "opis": "Edytor zdjęć skoncentrowany na tworzeniu memów. Umożliwia dodawanie tekstu i obrazów, filtrowanie, animacje GIF oraz rysowanie. Idealny dla osób chcących szybko przygotować memy bez skomplikowanego oprogramowania",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "flathub:org.gnome.gitlab.cheywood.Buffer": {
+   "haslo": "Krótka notatka, która się usuwa",
+   "opis": "Minimalny edytor tekstu do szybkiego zapisywania tymczasowych notatek. Nie przechowuje danych po zamknięciu, co czyni go przydatnym do krótkich przypomnień. Skoncentrowany na pracy z klawiaturą",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:org.kde.komodo": {
+   "haslo": "Zarządzaj listą zadań w formacie todo.txt",
+   "opis": "Aplikacja do obsługi list zadań zapisanych w formacie todo.txt. Umożliwia tworzenie, edycję, filtrowanie i wyszukiwanie zadań. Przyjazna dla osób, które preferują prosty tekstowy format",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:dev.geopjr.Turntable": {
+   "haslo": "Śledź słuchane utwory i wysyłaj dane do serwisów",
+   "opis": "Program rejestruje odtwarzane utwory i przesyła informacje do serwisów takich jak last.fm czy ListenBrainz. Obsługuje aplikacje muzyczne z interfejsem MPRIS i pozwala na kontrolę odtwarzania",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:io.github.hamza_algohary.Coulomb": {
+   "haslo": "Symuluj obwody elektroniczne",
+   "opis": "Program do rysowania i symulacji obwodów elektrycznych. Pozwala na analizę napięcia i prądu w czasie oraz zapisywanie projektów. Odpowiedni dla osób uczących się elektroniki",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:io.github.shundhammer.qdirstat": {
+   "haslo": "Zobacz, co zajmuje miejsce na dysku",
+   "opis": "Aplikacja graficzna pokazuje rozkład zajętości dysku w postaci drzewa i mapy kolorowej. Umożliwia szybkie przenoszenie plików do kosza. Przydatna dla użytkowników chcących zwolnić miejsce",
+   "kategoria": "System",
+   "zamiennik": ""
+  },
+  "flathub:org.kde.akregator": {
+   "haslo": "Czytaj aktualności z RSS",
+   "opis": "Czytnik kanałów RSS/Atom, który pozwala na przeglądanie wiadomości z wielu źródeł w jednym miejscu. Ma wbudowaną przeglądarkę i funkcje archiwizacji",
+   "kategoria": "Internet i przeglądarki",
+   "zamiennik": ""
+  },
+  "flathub:io.github.qcanvas.QCanvasApp": {
+   "haslo": "Klient desktopowy Canvas LMS",
+   "opis": "Nieoficjalny program pozwalający przeglądać kursy, pobierać pliki i filmy oraz czytać wiadomości z platformy Canvas LMS. Umożliwia pracę offline i pobieranie materiałów z Panopto.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": "Canvas"
   }
  }
 }
