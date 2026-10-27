@@ -10421,6 +10421,12 @@
    "opis": "Nieoficjalny program pozwalający przeglądać kursy, pobierać pliki i filmy oraz czytać wiadomości z platformy Canvas LMS. Umożliwia pracę offline i pobieranie materiałów z Panopto.",
    "kategoria": "Nauka i edukacja",
    "zamiennik": "Canvas"
+  },
+  "fdroid:com.gymmane.app": {
+   "haslo": "Rejestruj treningi siłowe offline",
+   "opis": "GymMane pozwala zapisywać serie i ciężary na interaktywnej mapie ciała. Aplikacja działa bez internetu, bez konta i reklam, a alarm pomaga kontrolować przerwy między seriami.",
+   "kategoria": "Zdrowie i sport",
+   "zamiennik": ""
   }
  }
 }
