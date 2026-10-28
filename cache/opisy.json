@@ -5301,6 +5301,216 @@
    "screens": [
     "https://dl.flathub.org/media/com/yanklog/YankLog/5a371c2c49d4b00cdc0a8074d1a0d73e/screenshots/image-1_624x504@1.png"
    ]
+  },
+  "dev.diegovsky.Riff": {
+   "strona": "https://github.com/Diegovsky/riff",
+   "kod": "https://github.com/Diegovsky/riff/",
+   "screens": [
+    "https://dl.flathub.org/media/dev/diegovsky/Riff/4ba4e2b2a09352620ae9a4849d3ec10e/screenshots/image-1_624x445@1.png",
+    "https://dl.flathub.org/media/dev/diegovsky/Riff/4ba4e2b2a09352620ae9a4849d3ec10e/screenshots/image-2_624x445@1.png",
+    "https://dl.flathub.org/media/dev/diegovsky/Riff/4ba4e2b2a09352620ae9a4849d3ec10e/screenshots/image-3_624x445@1.png",
+    "https://dl.flathub.org/media/dev/diegovsky/Riff/4ba4e2b2a09352620ae9a4849d3ec10e/screenshots/image-4_624x445@1.png"
+   ]
+  },
+  "io.github.dprietob.queue": {
+   "strona": "https://github.com/dprietob/queue",
+   "kod": "https://github.com/dprietob/queue",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/dprietob.queue/32871dacf7a2b3706c1a1a1f554893fc/screenshots/image-1_624x423@1.png",
+    "https://dl.flathub.org/media/io/github/dprietob.queue/32871dacf7a2b3706c1a1a1f554893fc/screenshots/image-2_624x423@1.png",
+    "https://dl.flathub.org/media/io/github/dprietob.queue/32871dacf7a2b3706c1a1a1f554893fc/screenshots/image-3_624x423@1.png"
+   ]
+  },
+  "net.fhannenheim.musicfetch": {
+   "strona": "https://codeberg.org/Frieder_Hannenheim/musicfetch-ng",
+   "kod": "https://codeberg.org/Frieder_Hannenheim/musicfetch-ng",
+   "screens": [
+    "https://dl.flathub.org/media/net/fhannenheim/musicfetch/a403bc3b0116b2679708effaa878d9a9/screenshots/image-1_624x448@1.png",
+    "https://dl.flathub.org/media/net/fhannenheim/musicfetch/a403bc3b0116b2679708effaa878d9a9/screenshots/image-2_624x448@1.png",
+    "https://dl.flathub.org/media/net/fhannenheim/musicfetch/a403bc3b0116b2679708effaa878d9a9/screenshots/image-3_624x448@1.png",
+    "https://dl.flathub.org/media/net/fhannenheim/musicfetch/a403bc3b0116b2679708effaa878d9a9/screenshots/image-4_624x448@1.png"
+   ]
+  },
+  "org.gnome.gitlab.ilhooq.Bookup": {
+   "strona": "https://gitlab.gnome.org/ilhooq/bookup",
+   "kod": "https://gitlab.gnome.org/ilhooq/bookup",
+   "screens": [
+    "https://dl.flathub.org/media/org/gnome/gitlab.ilhooq.Bookup/7d039512a14761a6fbe8efc6859ad2e4/screenshots/image-1_624x457@1.png",
+    "https://dl.flathub.org/media/org/gnome/gitlab.ilhooq.Bookup/7d039512a14761a6fbe8efc6859ad2e4/screenshots/image-2_624x457@1.png"
+   ]
+  },
+  "menu.kando.Kando": {
+   "strona": "https://kando.menu/",
+   "kod": "https://github.com/kando-menu/kando",
+   "screens": [
+    "https://dl.flathub.org/media/menu/kando/Kando/84d7407e20fe9a533b8d90746ab74501/screenshots/image-1_624x450@1.png",
+    "https://dl.flathub.org/media/menu/kando/Kando/84d7407e20fe9a533b8d90746ab74501/screenshots/image-2_624x450@1.png",
+    "https://dl.flathub.org/media/menu/kando/Kando/84d7407e20fe9a533b8d90746ab74501/screenshots/image-3_624x450@1.png",
+    "https://dl.flathub.org/media/menu/kando/Kando/84d7407e20fe9a533b8d90746ab74501/screenshots/image-4_624x450@1.png"
+   ]
+  },
+  "io.github.basshift.Recall": {
+   "strona": "https://github.com/basshift/Recall",
+   "kod": "https://github.com/basshift/Recall",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/basshift.Recall/340442e0569683d3db04475f57d30987/screenshots/image-1_624x509@1.png",
+    "https://dl.flathub.org/media/io/github/basshift.Recall/340442e0569683d3db04475f57d30987/screenshots/image-2_624x509@1.png",
+    "https://dl.flathub.org/media/io/github/basshift.Recall/340442e0569683d3db04475f57d30987/screenshots/image-3_624x509@1.png",
+    "https://dl.flathub.org/media/io/github/basshift.Recall/340442e0569683d3db04475f57d30987/screenshots/image-4_624x509@1.png"
+   ]
+  },
+  "app.drey.Blurble": {
+   "strona": "https://gitlab.gnome.org/World/Blurble",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/app/drey/Blurble/7e086de24fcdbe4226c38cca1c6b8c49/screenshots/image-1_624x431@1.png",
+    "https://dl.flathub.org/media/app/drey/Blurble/7e086de24fcdbe4226c38cca1c6b8c49/screenshots/image-2_624x431@1.png",
+    "https://dl.flathub.org/media/app/drey/Blurble/7e086de24fcdbe4226c38cca1c6b8c49/screenshots/image-3_624x431@1.png",
+    "https://dl.flathub.org/media/app/drey/Blurble/7e086de24fcdbe4226c38cca1c6b8c49/screenshots/image-4_624x431@1.png"
+   ]
+  },
+  "page.codeberg.JakobDev.jdMinecraftLauncher": {
+   "strona": "https://jakobdev.codeberg.page/work/app/jdMinecraftLauncher",
+   "kod": "https://codeberg.org/JakobDev/jdMinecraftLauncher",
+   "screens": [
+    "https://dl.flathub.org/media/page/codeberg/JakobDev.jdMinecraftLauncher/7a679d69ad7f0309dd916ebb2fcda9f1/screenshots/image-1_624x562@1.png",
+    "https://dl.flathub.org/media/page/codeberg/JakobDev.jdMinecraftLauncher/7a679d69ad7f0309dd916ebb2fcda9f1/screenshots/image-2_624x901@1.png"
+   ]
+  },
+  "dev.bitritter.BitRitter": {
+   "strona": "https://bitritter.dev",
+   "kod": "https://codeberg.org/Chfkch/bitritter",
+   "screens": [
+    "https://dl.flathub.org/media/dev/bitritter/BitRitter/0694ed0da6740ff182d40150645702ae/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/dev/bitritter/BitRitter/0694ed0da6740ff182d40150645702ae/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/dev/bitritter/BitRitter/0694ed0da6740ff182d40150645702ae/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/dev/bitritter/BitRitter/0694ed0da6740ff182d40150645702ae/screenshots/image-4_orig.png"
+   ]
+  },
+  "com.github.joseexposito.touche": {
+   "strona": "https://github.com/JoseExposito/touche",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/com/github/joseexposito.touche/abce8ebf634a2c9cf12488a6316fe0da/screenshots/image-1_624x496@1.png",
+    "https://dl.flathub.org/media/com/github/joseexposito.touche/abce8ebf634a2c9cf12488a6316fe0da/screenshots/image-2_624x496@1.png"
+   ]
+  },
+  "dev.tchx84.Gameeky": {
+   "strona": "https://github.com/tchx84/gameeky",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/dev/tchx84/Gameeky/c38cc85cbbbdba8b1f06f5e907062ff2/screenshots/image-1_624x457@1.png",
+    "https://dl.flathub.org/media/dev/tchx84/Gameeky/c38cc85cbbbdba8b1f06f5e907062ff2/screenshots/image-2_624x457@1.png",
+    "https://dl.flathub.org/media/dev/tchx84/Gameeky/c38cc85cbbbdba8b1f06f5e907062ff2/screenshots/image-3_624x457@1.png",
+    "https://dl.flathub.org/media/dev/tchx84/Gameeky/c38cc85cbbbdba8b1f06f5e907062ff2/screenshots/image-4_624x457@1.png"
+   ]
+  },
+  "org.gottcode.FocusWriter": {
+   "strona": "https://gottcode.org/focuswriter/",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/gottcode/FocusWriter/8ed5d9e2a7e31a8455c86d4ba2c777c1/screenshots/image-1_624x351@1.png"
+   ]
+  },
+  "com.github.taiko2k.tauonmb": {
+   "strona": "https://tauonmusicbox.rocks/",
+   "kod": "https://github.com/Taiko2k/Tauon",
+   "screens": [
+    "https://dl.flathub.org/media/com/github/taiko2k.tauonmb/a684e7a85c3952c2ff1602bf2a049e8d/screenshots/image-1_624x334@1.png"
+   ]
+  },
+  "xyz.splashmapper.Splash": {
+   "strona": "https://splashmapper.xyz",
+   "kod": "https://gitlab.com/splashmapper/splash",
+   "screens": [
+    "https://dl.flathub.org/media/xyz/splashmapper/Splash/4b5db70e168b55bbe7bf3c0ff78e6895/screenshots/image-1_624x456@1.png"
+   ]
+  },
+  "org.gnome.design.SymbolicPreview": {
+   "strona": "https://gitlab.gnome.org/World/design/symbolic-preview/",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/gnome/design.SymbolicPreview/a5769e380c3d04feedbfcabd205a7dd4/screenshots/image-1_624x513@1.png",
+    "https://dl.flathub.org/media/org/gnome/design.SymbolicPreview/a5769e380c3d04feedbfcabd205a7dd4/screenshots/image-2_624x473@1.png",
+    "https://dl.flathub.org/media/org/gnome/design.SymbolicPreview/a5769e380c3d04feedbfcabd205a7dd4/screenshots/image-3_624x473@1.png"
+   ]
+  },
+  "eu.opencloud.desktop.opencloud": {
+   "strona": "https://opencloud.eu",
+   "kod": "https://github.com/opencloud-eu/desktop",
+   "screens": [
+    "https://dl.flathub.org/media/eu/opencloud/desktop.opencloud/4b4426384e96ad076d1ba0f4aaf19ff1/screenshots/image-1_624x567@1.png",
+    "https://dl.flathub.org/media/eu/opencloud/desktop.opencloud/4b4426384e96ad076d1ba0f4aaf19ff1/screenshots/image-2_624x565@1.png"
+   ]
+  },
+  "io.github.bitpainter75.ferrumpix": {
+   "strona": "https://github.com/Bitpainter75/FerrumPix",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/bitpainter75.ferrumpix/7530d86bb1e2f0c6c59a9167ce92eda0/screenshots/image-1_624x396@1.png",
+    "https://dl.flathub.org/media/io/github/bitpainter75.ferrumpix/7530d86bb1e2f0c6c59a9167ce92eda0/screenshots/image-2_624x366@1.png",
+    "https://dl.flathub.org/media/io/github/bitpainter75.ferrumpix/7530d86bb1e2f0c6c59a9167ce92eda0/screenshots/image-3_624x397@1.png",
+    "https://dl.flathub.org/media/io/github/bitpainter75.ferrumpix/7530d86bb1e2f0c6c59a9167ce92eda0/screenshots/image-4_624x366@1.png"
+   ]
+  },
+  "io.github.realgarit.PKHeX-Avalonia": {
+   "strona": "https://github.com/realgarit/PKHeX-Avalonia",
+   "kod": "https://github.com/realgarit/PKHeX-Avalonia",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/realgarit.PKHeX-Avalonia/fd8d50f0796014b29828794098537bd9/screenshots/image-1_624x416@1.png",
+    "https://dl.flathub.org/media/io/github/realgarit.PKHeX-Avalonia/fd8d50f0796014b29828794098537bd9/screenshots/image-2_624x416@1.png"
+   ]
+  },
+  "io.github.tobias_bucci.digitales_register": {
+   "strona": "https://github.com/Tobias-Bucci/digitales_register",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/tobias_bucci.digitales_register/ecedbaf10b522b64e940f59cd8526e09/screenshots/image-1_624x383@1.png",
+    "https://dl.flathub.org/media/io/github/tobias_bucci.digitales_register/ecedbaf10b522b64e940f59cd8526e09/screenshots/image-2_624x383@1.png",
+    "https://dl.flathub.org/media/io/github/tobias_bucci.digitales_register/ecedbaf10b522b64e940f59cd8526e09/screenshots/image-3_624x383@1.png",
+    "https://dl.flathub.org/media/io/github/tobias_bucci.digitales_register/ecedbaf10b522b64e940f59cd8526e09/screenshots/image-4_624x383@1.png"
+   ]
+  },
+  "io.github.gnacho.Scribe": {
+   "strona": "https://github.com/gnacho/scribe",
+   "kod": "https://github.com/gnacho/scribe",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/gnacho.Scribe/1a49ea8e03c4d0d82313025f7b1ee58a/screenshots/image-1_624x409@1.png",
+    "https://dl.flathub.org/media/io/github/gnacho.Scribe/1a49ea8e03c4d0d82313025f7b1ee58a/screenshots/image-2_624x409@1.png",
+    "https://dl.flathub.org/media/io/github/gnacho.Scribe/1a49ea8e03c4d0d82313025f7b1ee58a/screenshots/image-3_624x409@1.png",
+    "https://dl.flathub.org/media/io/github/gnacho.Scribe/1a49ea8e03c4d0d82313025f7b1ee58a/screenshots/image-4_624x409@1.png"
+   ]
+  },
+  "io.github.ashbuk.dabri": {
+   "strona": "https://github.com/AshBuk/dabri",
+   "kod": "https://github.com/AshBuk/dabri",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/ashbuk.dabri/6ca217e9fb8082c8c8a614cdb012485b/screenshots/image-1_624x390@1.png"
+   ]
+  },
+  "app.sharefi.Sharefi": {
+   "strona": "https://sharefi.app",
+   "kod": "https://github.com/lucafornerone/sharefi-electron",
+   "screens": [
+    "https://dl.flathub.org/media/app/sharefi/Sharefi/447638d9dc15426defe0815ccac8bb1e/screenshots/image-1_624x351@1.png",
+    "https://dl.flathub.org/media/app/sharefi/Sharefi/447638d9dc15426defe0815ccac8bb1e/screenshots/image-2_624x351@1.png",
+    "https://dl.flathub.org/media/app/sharefi/Sharefi/447638d9dc15426defe0815ccac8bb1e/screenshots/image-3_624x351@1.png",
+    "https://dl.flathub.org/media/app/sharefi/Sharefi/447638d9dc15426defe0815ccac8bb1e/screenshots/image-4_624x351@1.png"
+   ]
+  },
+  "page.codeberg.petsoi.scribble": {
+   "strona": "https://codeberg.org/petsoi/scribble",
+   "kod": "https://codeberg.org/petsoi/scribble",
+   "screens": [
+    "https://dl.flathub.org/media/page/codeberg/petsoi.scribble/2dbae44c02130d5e869750512e416f3b/screenshots/image-1_624x426@1.png"
+   ]
+  },
+  "io.github.tyleruploads.mdez": {
+   "strona": "https://github.com/tyleruploads/mdez",
+   "kod": "https://github.com/tyleruploads/mdez",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/tyleruploads.mdez/270591ca53fad4caf5e42f72f08b64d8/screenshots/image-1_624x438@1.png"
+   ]
   }
  },
  "opisy": {
@@ -10426,6 +10636,156 @@
    "haslo": "Rejestruj treningi siłowe offline",
    "opis": "GymMane pozwala zapisywać serie i ciężary na interaktywnej mapie ciała. Aplikacja działa bez internetu, bez konta i reklam, a alarm pomaga kontrolować przerwy między seriami.",
    "kategoria": "Zdrowie i sport",
+   "zamiennik": ""
+  },
+  "flathub:eu.opencloud.desktop.opencloud": {
+   "haslo": "Synchronizuje pliki z chmurą OpenCloud",
+   "opis": "Klient pozwala na automatyczne przesyłanie plików między komputerem a OpenCloud. Dostęp offline i jednolity sposób pracy z plikami lokalnie",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.bitpainter75.ferrumpix": {
+   "haslo": "Edytor i przeglądarka zdjęć w jednym",
+   "opis": "FerrumPix łączy galerię, podgląd i edycję zdjęć, w tym RAW. Umożliwia korektę ekspozycji, kolorów i zaawansowane obróbki",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.realgarit.PKHeX-Avalonia": {
+   "haslo": "Edytor zapisów Pokémon",
+   "opis": "Pozwala przeglądać i modyfikować pliki zapisów Pokémon na wszystkich platformach. Można zmieniać postacie, przedmioty i sprawdzać legalność",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.tobias_bucci.digitales_register": {
+   "haslo": "Aplikacja do szkolnego rejestru",
+   "opis": "Dostarcza uczniom i rodzicom dostęp do zadań, ocen i kalendarza w wersji mobilnej. Automatyczne logowanie i podsumowania ocen",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:io.github.gnacho.Scribe": {
+   "haslo": "Edytor Markdown z podglądem w czasie rzeczywistym",
+   "opis": "Scribe umożliwia pisanie dokumentów Markdown z natychmiastowym formatowaniem. Obsługuje zakładki, podświetlanie składni i tryby jasny/ciemny",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:io.github.ashbuk.dabri": {
+   "haslo": "Rozpoznawanie mowy offline",
+   "opis": "Dabri zamienia dźwięk na tekst bez połączenia z internetem, korzystając z modeli Whisper lub NVIDIA Parakeet. Działa w dowolnym edytorze",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:app.sharefi.Sharefi": {
+   "haslo": "Transfer plików w sieci lokalnej",
+   "opis": "Sharefi pozwala na szybkie przesyłanie plików między urządzeniami w tej samej sieci bez użycia chmury. Automatyczne wykrywanie i wybór folderów",
+   "kategoria": "Internet i przeglądarki",
+   "zamiennik": ""
+  },
+  "flathub:dev.bitritter.BitRitter": {
+   "haslo": "Klient Bitwarden na urządzenia mobilne Linux",
+   "opis": "BitRitter umożliwia przeglądanie i zarządzanie hasłami w Bitwarden/Vaultwarden na małych ekranach. Wspiera dotyk i mały interfejs",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "fdroid:oss.krtirtho.spotube": {
+   "haslo": "Otwarty odtwarzacz muzyki bez reklam",
+   "opis": "Spotube to lekki klient muzyczny, który nie wymaga subskrypcji Premium i nie używa Electron. Pozwala na pobieranie utworów, synchronizację tekstów i logowanie anonimowe. Działa na komputerach i telefonach, nie zbiera danych użytkownika.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:page.codeberg.petsoi.scribble": {
+   "haslo": "Rysowanie odręczne na ekranie dotykowym",
+   "opis": "Scribble to prosty rysownik dla dzieci i uczniów. Umożliwia pisanie, rysowanie i poprawianie błędów przy pomocy pióra, stylusa lub palca. Obsługuje tabletki graficzne, ekrany dotykowe i mysz.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:io.github.tyleruploads.mdez": {
+   "haslo": "Edytor Markdown z podglądem w czasie rzeczywistym",
+   "opis": "MDEZ++ to lekki edytor tekstu w C++20 z interfejsem Qt. Wyświetla podgląd Markdown w podzielonym oknie i obsługuje także HTML, zwykły tekst oraz pliki kodu. Nie wymaga złożonych konfiguracji.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:dev.diegovsky.Riff": {
+   "haslo": "Klient Spotify bez rozpraszających elementów",
+   "opis": "Riff to minimalistyczny odtwarzacz Spotify, który wyświetla tylko Twoją bibliotekę. Wymaga konta Premium i obsługuje podstawowe funkcje odtwarzania. Interfejs oparty jest na GTK4.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:io.github.dprietob.queue": {
+   "haslo": "Prosty menedżer zadań z grupowaniem",
+   "opis": "Queue to szybki program do zarządzania zadaniami. Można tworzyć grupy, oznaczać zadania jako ważne, przestawiać je przeciągając i eksportować dane. Zapewnia kopie zapasowe wbudowane.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:net.fhannenheim.musicfetch": {
+   "haslo": "Pobieranie i tagowanie utworów z sieci",
+   "opis": "Musicfetch pozwala na pobieranie muzyki z YouTube, Soundcloud i innych serwisów oraz automatyczne wypełnianie tagów. Obsługuje tytuł, album, artystę i inne metadane. Działa w tle i umożliwia ustawienie ścieżki zapisu.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:org.gnome.gitlab.ilhooq.Bookup": {
+   "haslo": "Notatnik z obsługą Markdown",
+   "opis": "Bookup to aplikacja do robienia notatek w formacie Markdown. Umożliwia szybkie tworzenie i organizowanie notatek, a także eksport do różnych formatów. Jest przeznaczona dla studentów i profesjonalistów.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:menu.kando.Kando": {
+   "haslo": "Menu krzyżowe do szybkiego uruchamiania",
+   "opis": "Kando to krzyżowe menu na pulpit, które pozwala uruchamiać aplikacje, otwierać pliki i wykonywać skróty klawiszowe. Obsługuje mysz, stylus, dotyk i kontrolery. Działa na wielu systemach operacyjnych.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.basshift.Recall": {
+   "haslo": "Gra pamięciowa z rosnącym wyzwaniem",
+   "opis": "Recall to gra, w której musisz zapamiętać sekwencje znaków. Rozpoczyna się spokojnie, a trudność rośnie wraz z postępem. Idealna dla osób chcących ćwiczyć pamięć i koncentrację.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:app.drey.Blurble": {
+   "haslo": "Klon gry słownej podobny do Wordle",
+   "opis": "Blurble polega na zgadywaniu ukrytego słowa w kilku prób. Gra jest dostępna w wielu językach i działa na Linuxie. Dla fanów prostych łamigłówek słownych.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:page.codeberg.JakobDev.jdMinecraftLauncher": {
+   "haslo": "Nieoficjalny launcher Minecraft w stylu klasycznym",
+   "opis": "jdMinecraftLauncher uruchamia różne wersje Minecrafta, obsługuje tryb offline i instalację modów. Dostępne są skróty w menu i na pulpicie oraz wsparcie dla trybu gry FeralInteractive. Ułatwia zarządzanie wersjami i modami.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:com.github.joseexposito.touche": {
+   "haslo": "Konfiguracja gestów dotykowych",
+   "opis": "Touché pozwala ustawiać gesty na touchpadzie i ekranie dotykowym, np. przesuwanie okien czy przełączanie pulpitów. Interfejs jest graficzny i prosty w użyciu. Wymaga zainstalowania Touchégg.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:dev.tchx84.Gameeky": {
+   "haslo": "Tworzenie i granie w gry bez kodowania",
+   "opis": "Gameeky umożliwia dzieciom i nauczycielom tworzenie prostych gier oraz naukę podstaw programowania w Pythonie. Gra można rozbudować dodatkami w Pythonie, co pozwala na rozwijanie umiejętności programistycznych.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:org.gottcode.FocusWriter": {
+   "haslo": "Edytor tekstu w trybie pełnoekranowym",
+   "opis": "FocusWriter to prosty edytor, który ukrywa się, gdy nie jest używany, aby nie rozpraszać. Pozwala na tworzenie motywów, zmiany czcionek i kolorów oraz dodawanie obrazów tła. Idealny do pisania bez zakłóceń.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:com.github.taiko2k.tauonmb": {
+   "haslo": "Odtwarzacz muzyki z prostym interfejsem",
+   "opis": "Tauon odtwarza pliki MP3, FLAC i OGG, pozwala na zarządzanie kolekcją, zmienianie nazw i pobieranie okładek. Obsługuje listy odtwarzania i drag‑and‑drop. Skupia się na wygodzie użytkownika.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:xyz.splashmapper.Splash": {
+   "haslo": "Oprogramowanie do mapowania wideo na powierzchnie",
+   "opis": "Splash umożliwia kalibrację projektorów i mapowanie wideo na nieregularne powierzchnie. Używa modelu 3D do dopasowania obrazu do rzeczywistego kształtu. Stosowane w instalacjach artystycznych i wystawach.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "flathub:org.gnome.design.SymbolicPreview": {
+   "haslo": "Tworzenie i podgląd ikon symbolicznych",
+   "opis": "Umożliwia łatwe tworzenie, podgląd i eksport ikon symbolicznych. Przydatne dla projektantów i programistów tworzących interfejsy. Nie wymaga specjalistycznej wiedzy.",
+   "kategoria": "Narzędzia",
    "zamiennik": ""
   }
  }
