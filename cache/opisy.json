@@ -5511,6 +5511,123 @@
    "screens": [
     "https://dl.flathub.org/media/io/github/tyleruploads.mdez/270591ca53fad4caf5e42f72f08b64d8/screenshots/image-1_624x438@1.png"
    ]
+  },
+  "org.cryptomator.Cryptomator": {
+   "strona": "https://cryptomator.org/",
+   "kod": "https://github.com/cryptomator/cryptomator",
+   "screens": [
+    "https://dl.flathub.org/media/org/cryptomator/Cryptomator/ec704171981ef53de3770dfa688589ea/screenshots/image-1_624x483@1.png",
+    "https://dl.flathub.org/media/org/cryptomator/Cryptomator/ec704171981ef53de3770dfa688589ea/screenshots/image-2_624x483@1.png",
+    "https://dl.flathub.org/media/org/cryptomator/Cryptomator/ec704171981ef53de3770dfa688589ea/screenshots/image-3_624x483@1.png"
+   ]
+  },
+  "de.capypara.FieldMonitor": {
+   "strona": "https://github.com/theCapypara/field-monitor",
+   "kod": "https://github.com/theCapypara/field-monitor",
+   "screens": [
+    "https://dl.flathub.org/media/de/capypara/FieldMonitor/ee3afb6b6ea30d4575503368c8923a52/screenshots/image-1_624x364@1.png",
+    "https://dl.flathub.org/media/de/capypara/FieldMonitor/ee3afb6b6ea30d4575503368c8923a52/screenshots/image-2_624x364@1.png",
+    "https://dl.flathub.org/media/de/capypara/FieldMonitor/ee3afb6b6ea30d4575503368c8923a52/screenshots/image-3_624x364@1.png",
+    "https://dl.flathub.org/media/de/capypara/FieldMonitor/ee3afb6b6ea30d4575503368c8923a52/screenshots/image-4_624x364@1.png"
+   ]
+  },
+  "io.github.pieterdd.RcloneShuttle": {
+   "strona": "https://github.com/pieterdd/RcloneShuttle",
+   "kod": "https://github.com/pieterdd/RcloneShuttle",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/pieterdd.RcloneShuttle/13929a74a32b7e02025d40543e748d38/screenshots/image-1_624x477@1.png",
+    "https://dl.flathub.org/media/io/github/pieterdd.RcloneShuttle/13929a74a32b7e02025d40543e748d38/screenshots/image-2_624x477@1.png",
+    "https://dl.flathub.org/media/io/github/pieterdd.RcloneShuttle/13929a74a32b7e02025d40543e748d38/screenshots/image-3_624x477@1.png",
+    "https://dl.flathub.org/media/io/github/pieterdd.RcloneShuttle/13929a74a32b7e02025d40543e748d38/screenshots/image-4_624x477@1.png"
+   ]
+  },
+  "io.github.kelvinnovais.Kasasa": {
+   "strona": "https://github.com/KelvinNovais/Kasasa",
+   "kod": "https://github.com/KelvinNovais/Kasasa",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/kelvinnovais.Kasasa/373efadb862ff4f3c8f90dd74007dae1/screenshots/image-1_624x354@1.png",
+    "https://dl.flathub.org/media/io/github/kelvinnovais.Kasasa/373efadb862ff4f3c8f90dd74007dae1/screenshots/image-2_624x388@1.png",
+    "https://dl.flathub.org/media/io/github/kelvinnovais.Kasasa/373efadb862ff4f3c8f90dd74007dae1/screenshots/image-3_624x418@1.png"
+   ]
+  },
+  "org.gnome.Connections": {
+   "strona": "https://apps.gnome.org/Connections",
+   "kod": "https://gitlab.gnome.org/GNOME/gnome-connections",
+   "screens": [
+    "https://dl.flathub.org/media/org/gnome/Connections/a5b7292f0c95975d96d22e14ff38d921/screenshots/image-1_624x351@1.png",
+    "https://dl.flathub.org/media/org/gnome/Connections/a5b7292f0c95975d96d22e14ff38d921/screenshots/image-2_624x351@1.png",
+    "https://dl.flathub.org/media/org/gnome/Connections/a5b7292f0c95975d96d22e14ff38d921/screenshots/image-3_624x351@1.png",
+    "https://dl.flathub.org/media/org/gnome/Connections/a5b7292f0c95975d96d22e14ff38d921/screenshots/image-4_624x351@1.png"
+   ]
+  },
+  "org.gnome.Fractal": {
+   "strona": "https://gitlab.gnome.org/World/fractal",
+   "kod": "https://gitlab.gnome.org/World/fractal",
+   "screens": [
+    "https://dl.flathub.org/media/org/gnome/Fractal/19ef4d8b6cd6656e77b056a7ee55bc53/screenshots/image-1_624x462@1.png",
+    "https://dl.flathub.org/media/org/gnome/Fractal/19ef4d8b6cd6656e77b056a7ee55bc53/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/org/gnome/Fractal/19ef4d8b6cd6656e77b056a7ee55bc53/screenshots/image-3_orig.png"
+   ]
+  },
+  "net.hhoney.rota": {
+   "strona": "https://hhoney.net",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/net/hhoney/rota/b37f91afb663344ae394e9ee48998a66/screenshots/image-1_624x351@1.png",
+    "https://dl.flathub.org/media/net/hhoney/rota/b37f91afb663344ae394e9ee48998a66/screenshots/image-2_624x351@1.png",
+    "https://dl.flathub.org/media/net/hhoney/rota/b37f91afb663344ae394e9ee48998a66/screenshots/image-3_624x351@1.png",
+    "https://dl.flathub.org/media/net/hhoney/rota/b37f91afb663344ae394e9ee48998a66/screenshots/image-4_624x351@1.png"
+   ]
+  },
+  "io.gitlab.elescoute.spacelaunch": {
+   "strona": "https://gitlab.com/elescoute/spacelaunch",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/io/gitlab/elescoute.spacelaunch/d843bbb9cc946e6f5ac0f0ca8d2cdf70/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/io/gitlab/elescoute.spacelaunch/d843bbb9cc946e6f5ac0f0ca8d2cdf70/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/io/gitlab/elescoute.spacelaunch/d843bbb9cc946e6f5ac0f0ca8d2cdf70/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/io/gitlab/elescoute.spacelaunch/d843bbb9cc946e6f5ac0f0ca8d2cdf70/screenshots/image-4_orig.png"
+   ]
+  },
+  "io.github.openglad.openglad": {
+   "strona": "https://openglad.org",
+   "kod": "https://github.com/openglad/openglad",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/openglad.openglad/d34488bfbc08d5f02dfc8ebd1c94130e/screenshots/image-1_624x390@1.png",
+    "https://dl.flathub.org/media/io/github/openglad.openglad/d34488bfbc08d5f02dfc8ebd1c94130e/screenshots/image-2_624x390@1.png",
+    "https://dl.flathub.org/media/io/github/openglad.openglad/d34488bfbc08d5f02dfc8ebd1c94130e/screenshots/image-3_624x390@1.png",
+    "https://dl.flathub.org/media/io/github/openglad.openglad/d34488bfbc08d5f02dfc8ebd1c94130e/screenshots/image-4_624x390@1.png"
+   ]
+  },
+  "io.github.hernantz.timezones": {
+   "strona": "https://github.com/hernantz/timezones",
+   "kod": "https://github.com/hernantz/timezones",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/hernantz.timezones/976fe881bb114bf9895096abc15fe888/screenshots/image-1_624x376@1.png",
+    "https://dl.flathub.org/media/io/github/hernantz.timezones/976fe881bb114bf9895096abc15fe888/screenshots/image-2_624x378@1.png",
+    "https://dl.flathub.org/media/io/github/hernantz.timezones/976fe881bb114bf9895096abc15fe888/screenshots/image-3_624x376@1.png",
+    "https://dl.flathub.org/media/io/github/hernantz.timezones/976fe881bb114bf9895096abc15fe888/screenshots/image-4_orig.png"
+   ]
+  },
+  "org.dupot.typetofight": {
+   "strona": "https://www.dupot.org/games.html",
+   "kod": "https://github.com/imikado/dupotTypeToFight/",
+   "screens": [
+    "https://dl.flathub.org/media/org/dupot/typetofight/ba8f679185b35d84e1b2fe06152bcd4b/screenshots/image-1_624x351@1.png",
+    "https://dl.flathub.org/media/org/dupot/typetofight/ba8f679185b35d84e1b2fe06152bcd4b/screenshots/image-2_624x351@1.png",
+    "https://dl.flathub.org/media/org/dupot/typetofight/ba8f679185b35d84e1b2fe06152bcd4b/screenshots/image-3_624x351@1.png",
+    "https://dl.flathub.org/media/org/dupot/typetofight/ba8f679185b35d84e1b2fe06152bcd4b/screenshots/image-4_624x351@1.png"
+   ]
+  },
+  "com.jeffser.Popcorn": {
+   "strona": "https://jeffser.com/popcorn",
+   "kod": "https://github.com/Jeffser/Popcorn",
+   "screens": [
+    "https://dl.flathub.org/media/com/jeffser/Popcorn/dc2aebe364ba6283a7a35d8331a46482/screenshots/image-1_624x445@1.png",
+    "https://dl.flathub.org/media/com/jeffser/Popcorn/dc2aebe364ba6283a7a35d8331a46482/screenshots/image-2_624x445@1.png",
+    "https://dl.flathub.org/media/com/jeffser/Popcorn/dc2aebe364ba6283a7a35d8331a46482/screenshots/image-3_624x445@1.png",
+    "https://dl.flathub.org/media/com/jeffser/Popcorn/dc2aebe364ba6283a7a35d8331a46482/screenshots/image-4_624x363@1.png"
+   ]
   }
  },
  "opisy": {
@@ -10787,6 +10904,78 @@
    "opis": "Umożliwia łatwe tworzenie, podgląd i eksport ikon symbolicznych. Przydatne dla projektantów i programistów tworzących interfejsy. Nie wymaga specjalistycznej wiedzy.",
    "kategoria": "Narzędzia",
    "zamiennik": ""
+  },
+  "flathub:io.github.openglad.openglad": {
+   "haslo": "Gra RPG z akcją i wieloosobowością",
+   "opis": "OpenGlad to port klasycznej gry DOS Gladiator w stylu top-down. Gracz walczy w arenach, wybiera klasę i korzysta z edytora scenariuszy. Działa na Linuxie i pozwala na rozgrywkę online.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:io.github.hernantz.timezones": {
+   "haslo": "Kalendarz z zegarami światowymi",
+   "opis": "Timezones pokazuje jednocześnie czas w wybranych miastach na osi czasu. Umożliwia planowanie spotkań i obserwację zmian czasu letniego. Aplikacja jest przeznaczona dla osób pracujących z różnymi strefami czasowymi.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:org.dupot.typetofight": {
+   "haslo": "Gra ucząca pisania na klawiaturze",
+   "opis": "Type to Fight toczy walkę, w której atakujesz, wpisując odpowiednie litery. Gra wprowadza stopniowo wszystkie klawisze, pomagając opanować pisanie dłońmi. Skierowana jest do osób chcących poprawić szybkość i dokładność pisania.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:com.jeffser.Popcorn": {
+   "haslo": "Klient multimedialny dla Jellyfin",
+   "opis": "Popcorn to nowoczesny odtwarzacz multimediów dla Jellyfin. Obsługuje podgląd napisów VTT, gesty sterujące i tryb obraz w obrazie. Aplikacja jest przeznaczona dla użytkowników poszukujących przyjaznego interfejsu do oglądania filmów i seriali.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:de.capypara.FieldMonitor": {
+   "haslo": "Klient zdalnego pulpitu dla maszyn wirtualnych",
+   "opis": "Field Monitor pozwala łączyć się z maszynami wirtualnymi i serwerami przez RDP, SPICE lub VNC. Umożliwia także kontrolę stanu zasilania VM w Proxmox i QEMU/KVM. Aplikacja jest przeznaczona dla administratorów i użytkowników GNOME.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.pieterdd.RcloneShuttle": {
+   "haslo": "Aplikacja do zarządzania plikami w chmurze",
+   "opis": "Rclone Shuttle integruje się z Rclone, pozwalając na przeglądanie, przesyłanie i usuwanie plików w wielu usługach chmurowych. Obsługuje kopiowanie, przenoszenie i szyfrowane konfiguracje. Skierowana jest do osób potrzebujących centralnego dostępu do danych w chmurze.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.kelvinnovais.Kasasa": {
+   "haslo": "Przenośne okno z ważnymi informacjami",
+   "opis": "Kasasa pozwala wyciągać fragmenty tekstu lub obrazów do małego okna, które pozostaje na wierzchu. Okno można zmniejszyć lub przezroczyste, aby nie blokować tła. Aplikacja jest przydatna przy pracy z wieloma oknami i monitorami.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:org.gnome.Connections": {
+   "haslo": "Zdalny dostęp do innych pulpitów",
+   "opis": "Connections umożliwia łączenie się z pulpitami Windows, Linux i maszynami wirtualnymi przez VNC i RDP. Aplikacja jest przydatna przy udzielaniu pomocy technicznej i korzystaniu z zasobów na innych komputerach.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:org.gnome.Fractal": {
+   "haslo": "A Matrix‑chat dla GNOME",
+   "opis": "Fractal to aplikacja do komunikacji w sieci Matrix. Umożliwia rozmowy w dużych grupach i prywatne czaty, z szyfrowaniem end‑to‑end. Wspiera wiadomości tekstowe, pliki i reakcje emoji.",
+   "kategoria": "Komunikacja",
+   "zamiennik": "Telegram"
+  },
+  "flathub:net.hhoney.rota": {
+   "haslo": "Gra logiczna z odwracaniem grawitacji",
+   "opis": "Rozwiązywanie zagadek polega na przesuwaniu bloków i zmienianiu kierunku grawitacji. Celem jest zebranie 50 klejnotów w 8 kolorowych światach. Gra oferuje relaksujący soundtrack i wyzwania dla młodszych graczy.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:io.gitlab.elescoute.spacelaunch": {
+   "haslo": "Śledzenie startów rakiet",
+   "opis": "Aplikacja informuje o nadchodzących startach kosmicznych. Dane pochodzą z serwisu spacelaunchnow.me. Obecnie w wersji alfa, z planowanymi dodatkowymi funkcjami. Działa na systemach GNOME, w tym na PinePhone.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:org.cryptomator.Cryptomator": {
+   "haslo": "Szyfrowanie chmury bez konta",
+   "opis": "Cryptomator chroni pliki w chmurze, szyfrując je lokalnie. Nie wymaga rejestracji ani połączenia z serwerem. Umożliwia przeglądanie i edycję zaszyfrowanych dokumentów na komputerze, telefonie czy tablecie.",
+   "kategoria": "Prywatność i bezpieczeństwo",
+   "zamiennik": "Boxcryptor"
   }
  }
 }
