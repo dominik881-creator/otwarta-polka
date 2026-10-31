@@ -5628,6 +5628,212 @@
     "https://dl.flathub.org/media/com/jeffser/Popcorn/dc2aebe364ba6283a7a35d8331a46482/screenshots/image-3_624x445@1.png",
     "https://dl.flathub.org/media/com/jeffser/Popcorn/dc2aebe364ba6283a7a35d8331a46482/screenshots/image-4_624x363@1.png"
    ]
+  },
+  "com.cassidyjames.plausible": {
+   "strona": "https://cassidyjames.com",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/com/cassidyjames/plausible/b36f5ae9dabf2188488de0b3d847f2d1/screenshots/image-1_624x449@1.png",
+    "https://dl.flathub.org/media/com/cassidyjames/plausible/b36f5ae9dabf2188488de0b3d847f2d1/screenshots/image-2_624x449@1.png",
+    "https://dl.flathub.org/media/com/cassidyjames/plausible/b36f5ae9dabf2188488de0b3d847f2d1/screenshots/image-3_624x449@1.png",
+    "https://dl.flathub.org/media/com/cassidyjames/plausible/b36f5ae9dabf2188488de0b3d847f2d1/screenshots/image-4_624x449@1.png"
+   ]
+  },
+  "io.github.rafatosta.gtasks": {
+   "strona": "https://github.com/rafatosta/gtasks",
+   "kod": "https://github.com/rafatosta/gtasks",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/rafatosta.gtasks/3237791fc3948d326ec6e00005edd156/screenshots/image-1_624x453@1.png",
+    "https://dl.flathub.org/media/io/github/rafatosta.gtasks/3237791fc3948d326ec6e00005edd156/screenshots/image-2_624x453@1.png",
+    "https://dl.flathub.org/media/io/github/rafatosta.gtasks/3237791fc3948d326ec6e00005edd156/screenshots/image-3_624x916@1.png"
+   ]
+  },
+  "org.chipass.ChiPass": {
+   "strona": "https://chipass.org",
+   "kod": "https://codeberg.org/ChiPass/ChiPass",
+   "screens": [
+    "https://dl.flathub.org/media/org/chipass/ChiPass/b24b2b525c11d454560744343b49484b/screenshots/image-1_624x469@1.png",
+    "https://dl.flathub.org/media/org/chipass/ChiPass/b24b2b525c11d454560744343b49484b/screenshots/image-2_624x469@1.png",
+    "https://dl.flathub.org/media/org/chipass/ChiPass/b24b2b525c11d454560744343b49484b/screenshots/image-3_624x469@1.png",
+    "https://dl.flathub.org/media/org/chipass/ChiPass/b24b2b525c11d454560744343b49484b/screenshots/image-4_624x469@1.png"
+   ]
+  },
+  "nl.andreasknoben.Laser": {
+   "strona": "https://codeberg.org/andreasknoben/Laser/",
+   "kod": "https://codeberg.org/andreasknoben/Laser/",
+   "screens": [
+    "https://dl.flathub.org/media/nl/andreasknoben/Laser/3f20b4cb98d587ae8dd830de1c20a0f4/screenshots/image-1_624x492@1.png",
+    "https://dl.flathub.org/media/nl/andreasknoben/Laser/3f20b4cb98d587ae8dd830de1c20a0f4/screenshots/image-2_624x492@1.png",
+    "https://dl.flathub.org/media/nl/andreasknoben/Laser/3f20b4cb98d587ae8dd830de1c20a0f4/screenshots/image-3_624x492@1.png"
+   ]
+  },
+  "page.codeberg.vendillah.GamepadMirror": {
+   "strona": "https://codeberg.org/vendillah/GamepadMirror",
+   "kod": "https://codeberg.org/vendillah/GamepadMirror",
+   "screens": [
+    "https://dl.flathub.org/media/page/codeberg/vendillah.GamepadMirror/98d46e23db269dbdbdc6de7701e4de1a/screenshots/image-1_624x503@1.png",
+    "https://dl.flathub.org/media/page/codeberg/vendillah.GamepadMirror/98d46e23db269dbdbdc6de7701e4de1a/screenshots/image-2_624x488@1.png",
+    "https://dl.flathub.org/media/page/codeberg/vendillah.GamepadMirror/98d46e23db269dbdbdc6de7701e4de1a/screenshots/image-3_624x488@1.png"
+   ]
+  },
+  "io.github.nate_xyz.Paleta": {
+   "strona": "https://github.com/nate-xyz/paleta",
+   "kod": "https://github.com/nate-xyz/paleta",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/nate_xyz.Paleta/7f78a77c643a677a8a99328345327288/screenshots/image-1_624x368@1.png",
+    "https://dl.flathub.org/media/io/github/nate_xyz.Paleta/7f78a77c643a677a8a99328345327288/screenshots/image-2_624x368@1.png",
+    "https://dl.flathub.org/media/io/github/nate_xyz.Paleta/7f78a77c643a677a8a99328345327288/screenshots/image-3_624x368@1.png",
+    "https://dl.flathub.org/media/io/github/nate_xyz.Paleta/7f78a77c643a677a8a99328345327288/screenshots/image-4_624x367@1.png"
+   ]
+  },
+  "io.github.anil_e.Codd": {
+   "strona": "https://github.com/anil-e/codd",
+   "kod": "https://github.com/anil-e/codd",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/anil_e.Codd/0674edf8ccdf1f7fe837bb8f3918a745/screenshots/image-1_624x426@1.png",
+    "https://dl.flathub.org/media/io/github/anil_e.Codd/0674edf8ccdf1f7fe837bb8f3918a745/screenshots/image-2_624x426@1.png",
+    "https://dl.flathub.org/media/io/github/anil_e.Codd/0674edf8ccdf1f7fe837bb8f3918a745/screenshots/image-3_624x444@1.png",
+    "https://dl.flathub.org/media/io/github/anil_e.Codd/0674edf8ccdf1f7fe837bb8f3918a745/screenshots/image-4_624x426@1.png"
+   ]
+  },
+  "com.mardojai.ForgeSparks": {
+   "strona": "https://github.com/rafaelmardojai/forge-sparks",
+   "kod": "https://github.com/rafaelmardojai/forge-sparks",
+   "screens": [
+    "https://dl.flathub.org/media/com/mardojai/ForgeSparks/4294d4a2825c1216d2ad58f815ab8a36/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/com/mardojai/ForgeSparks/4294d4a2825c1216d2ad58f815ab8a36/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/com/mardojai/ForgeSparks/4294d4a2825c1216d2ad58f815ab8a36/screenshots/image-3_orig.png"
+   ]
+  },
+  "com.github.paolostivanin.OTPClient": {
+   "strona": "https://github.com/paolostivanin/OTPClient",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/com/github/paolostivanin.OTPClient.desktop/3d43a9a9bde000759704930bd9014fb3/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/com/github/paolostivanin.OTPClient.desktop/3d43a9a9bde000759704930bd9014fb3/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/com/github/paolostivanin.OTPClient.desktop/3d43a9a9bde000759704930bd9014fb3/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/com/github/paolostivanin.OTPClient.desktop/3d43a9a9bde000759704930bd9014fb3/screenshots/image-4_orig.png"
+   ]
+  },
+  "io.github.nacho.teclas": {
+   "strona": "https://github.com/nacho/teclas",
+   "kod": "https://github.com/nacho/teclas",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/nacho.teclas/b00a4d74ff800f45fc900bed59ffcf61/screenshots/image-1_624x509@1.png"
+   ]
+  },
+  "io.github.dalerank.Akhenaten": {
+   "strona": "https://dalerank.itch.io/akhenaten",
+   "kod": "https://github.com/dalerank/Akhenaten",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/dalerank.Akhenaten/dde21c2aa0b3580f07a220e9e5fee3ae/screenshots/image-1_orig.png"
+   ]
+  },
+  "com.abdownloadmanager.abdownloadmanager": {
+   "strona": "https://abdownloadmanager.com",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/com/abdownloadmanager/abdownloadmanager/0ece9d0c183af5ae2f88705276aaeeb1/screenshots/image-1_624x326@1.png",
+    "https://dl.flathub.org/media/com/abdownloadmanager/abdownloadmanager/0ece9d0c183af5ae2f88705276aaeeb1/screenshots/image-2_624x703@1.png"
+   ]
+  },
+  "app.risuko.Risuko": {
+   "strona": "https://risuko.app",
+   "kod": "https://github.com/YueMiyuki/Risuko",
+   "screens": [
+    "https://dl.flathub.org/media/app/risuko/Risuko/9bd59f54f44d6672c95779732d6a634f/screenshots/image-1_624x483@1.png"
+   ]
+  },
+  "com.wakunguma.Mukwa": {
+   "strona": "https://github.com/snubwoody/mukwa",
+   "kod": "https://github.com/snubwoody/mukwa",
+   "screens": [
+    "https://dl.flathub.org/media/com/wakunguma/Mukwa/f6ff98f378c3311d521377e95015518b/screenshots/image-1_624x323@1.png",
+    "https://dl.flathub.org/media/com/wakunguma/Mukwa/f6ff98f378c3311d521377e95015518b/screenshots/image-2_624x323@1.png",
+    "https://dl.flathub.org/media/com/wakunguma/Mukwa/f6ff98f378c3311d521377e95015518b/screenshots/image-3_624x323@1.png"
+   ]
+  },
+  "app.tsumiru.Tsumiru": {
+   "strona": "https://tsumiru.app/",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/app/tsumiru/Tsumiru/e245c8c3a33c92062029c722598eb3ea/screenshots/image-1_624x443@1.png",
+    "https://dl.flathub.org/media/app/tsumiru/Tsumiru/e245c8c3a33c92062029c722598eb3ea/screenshots/image-2_624x443@1.png",
+    "https://dl.flathub.org/media/app/tsumiru/Tsumiru/e245c8c3a33c92062029c722598eb3ea/screenshots/image-3_624x443@1.png",
+    "https://dl.flathub.org/media/app/tsumiru/Tsumiru/e245c8c3a33c92062029c722598eb3ea/screenshots/image-4_624x443@1.png"
+   ]
+  },
+  "io.github.gnoooo.typst-ide": {
+   "strona": "https://github.com/gnoooo/typst-ide",
+   "kod": "https://github.com/gnoooo/typst-ide",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/gnoooo.typst-ide/859fd520ea36259495b2a63b13602837/screenshots/image-1_624x416@1.png",
+    "https://dl.flathub.org/media/io/github/gnoooo.typst-ide/859fd520ea36259495b2a63b13602837/screenshots/image-2_624x416@1.png"
+   ]
+  },
+  "dev.edfloreshz.WritingTools": {
+   "strona": "https://github.com/cosmic-utils/cosmic-ext-writing-tools",
+   "kod": "https://github.com/cosmic-utils/cosmic-ext-writing-tools",
+   "screens": [
+    "https://dl.flathub.org/media/dev/edfloreshz/WritingTools/192132b1f178e1f0c1ae9951eb015c9f/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/dev/edfloreshz/WritingTools/192132b1f178e1f0c1ae9951eb015c9f/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/dev/edfloreshz/WritingTools/192132b1f178e1f0c1ae9951eb015c9f/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/dev/edfloreshz/WritingTools/192132b1f178e1f0c1ae9951eb015c9f/screenshots/image-4_orig.png"
+   ]
+  },
+  "org.openomsi.openOMSI": {
+   "strona": "https://github.com/openOMSI-org/openOMSI",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/openomsi/openOMSI/656c1636c814bd81c15dedaaa613d9a8/screenshots/image-1_624x351@1.png"
+   ]
+  },
+  "de.gruetze_software.BingWallE": {
+   "strona": "https://github.com/gruetze-software/BingWallE",
+   "kod": "https://github.com/gruetze-software/BingWallE",
+   "screens": [
+    "https://dl.flathub.org/media/de/gruetze_software/BingWallE/aa29071e49a43568a8101fb33d7f93ec/screenshots/image-1_624x438@1.png",
+    "https://dl.flathub.org/media/de/gruetze_software/BingWallE/aa29071e49a43568a8101fb33d7f93ec/screenshots/image-2_624x438@1.png"
+   ]
+  },
+  "io.github.elasota.aerofoil": {
+   "strona": "https://github.com/elasota/Aerofoil/",
+   "kod": "https://github.com/elasota/Aerofoil/",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/elasota.aerofoil/c8de641a40114a3ec80d1035ec08283c/screenshots/image-2_624x350@1.png",
+    "https://dl.flathub.org/media/io/github/elasota.aerofoil/c8de641a40114a3ec80d1035ec08283c/screenshots/image-3_624x350@1.png",
+    "https://dl.flathub.org/media/io/github/elasota.aerofoil/c8de641a40114a3ec80d1035ec08283c/screenshots/image-4_624x350@1.png",
+    "https://dl.flathub.org/media/io/github/elasota.aerofoil/c8de641a40114a3ec80d1035ec08283c/screenshots/image-5_624x350@1.png"
+   ]
+  },
+  "page.codeberg.n_malo.Luppolo": {
+   "strona": "https://codeberg.org/n-malo/luppolo",
+   "kod": "https://codeberg.org/n-malo/luppolo",
+   "screens": [
+    "https://dl.flathub.org/media/page/codeberg/n_malo.Luppolo/154d9ae2b28a183865cd79d64784f241/screenshots/image-1_624x509@1.png",
+    "https://dl.flathub.org/media/page/codeberg/n_malo.Luppolo/154d9ae2b28a183865cd79d64784f241/screenshots/image-2_624x445@1.png",
+    "https://dl.flathub.org/media/page/codeberg/n_malo.Luppolo/154d9ae2b28a183865cd79d64784f241/screenshots/image-3_624x447@1.png"
+   ]
+  },
+  "com.kaniansky.Tunneler": {
+   "strona": "https://kaniansky.com/tunneler/",
+   "kod": "https://github.com/kaniansky/tunneler",
+   "screens": [
+    "https://dl.flathub.org/media/com/kaniansky/Tunneler/fce359c1f545489cec7e647cf0e42474/screenshots/image-1_624x511@1.png",
+    "https://dl.flathub.org/media/com/kaniansky/Tunneler/fce359c1f545489cec7e647cf0e42474/screenshots/image-2_624x511@1.png",
+    "https://dl.flathub.org/media/com/kaniansky/Tunneler/fce359c1f545489cec7e647cf0e42474/screenshots/image-3_624x511@1.png",
+    "https://dl.flathub.org/media/com/kaniansky/Tunneler/fce359c1f545489cec7e647cf0e42474/screenshots/image-4_624x511@1.png"
+   ]
+  },
+  "app.lepse.Lepse": {
+   "strona": "https://lepse.app",
+   "kod": "https://github.com/lepsehq/lepse",
+   "screens": [
+    "https://dl.flathub.org/media/app/lepse/Lepse/34e055185df2a55d096a808d32cad4ad/screenshots/image-1_624x458@1.png",
+    "https://dl.flathub.org/media/app/lepse/Lepse/34e055185df2a55d096a808d32cad4ad/screenshots/image-2_624x458@1.png",
+    "https://dl.flathub.org/media/app/lepse/Lepse/34e055185df2a55d096a808d32cad4ad/screenshots/image-3_624x458@1.png",
+    "https://dl.flathub.org/media/app/lepse/Lepse/34e055185df2a55d096a808d32cad4ad/screenshots/image-4_624x458@1.png"
+   ]
   }
  },
  "opisy": {
@@ -10976,6 +11182,150 @@
    "opis": "Cryptomator chroni pliki w chmurze, szyfrując je lokalnie. Nie wymaga rejestracji ani połączenia z serwerem. Umożliwia przeglądanie i edycję zaszyfrowanych dokumentów na komputerze, telefonie czy tablecie.",
    "kategoria": "Prywatność i bezpieczeństwo",
    "zamiennik": "Boxcryptor"
+  },
+  "flathub:io.github.nacho.teclas": {
+   "haslo": "Nauka pisania bez klawiatury",
+   "opis": "Teclas uczy pisania bez patrzenia na klawiaturę. Zawiera lekcje i wizualizację układu klawiszy, a także śledzi postępy. Przydatne dla każdego, kto chce pisać szybciej i dokładniej.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:io.github.dalerank.Akhenaten": {
+   "haslo": "Emulator gry strategicznej z 1999",
+   "opis": "Akhenaten odtwarza klasyczną grę city‑builder Pharaoh, w tym rozbudowę Cleopatra. Umożliwia grę na nowoczesnych systemach, zachowując kompatybilność z zapisami. Wymaga legalnej kopii oryginału.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:com.abdownloadmanager.abdownloadmanager": {
+   "haslo": "Menadżer pobierania z przyspieszeniem",
+   "opis": "AB Download Manager pozwala zarządzać pobieraniem plików, przyspieszając je i organizując w kolejki. Obsługuje rozszerzenia przeglądarki i ma nowoczesny interfejs. Działa na Windows, Linux i Mac.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:app.risuko.Risuko": {
+   "haslo": "Pobieranie z wielu protokołów",
+   "opis": "Risuko pobiera pliki z HTTP, HTTPS, torrentów, FTP, Usenet i innych. Rozdziela połączenia, przywraca po przerwaniach i naprawia uszkodzone pliki. Umożliwia pobieranie z różnych źródeł w jednym miejscu.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:com.wakunguma.Mukwa": {
+   "haslo": "Aplikacja do budżetowania",
+   "opis": "Mukwa śledzi wydatki i pomaga zarządzać budżetem. Skupia się na prywatności, nie wysyła danych do chmury. Idealna dla osób chcących kontrolować finanse osobiste.",
+   "kategoria": "Finanse",
+   "zamiennik": ""
+  },
+  "flathub:app.tsumiru.Tsumiru": {
+   "haslo": "Czytanie mang z serwera Suwayomi",
+   "opis": "Tsumiru odczytuje mangi, manhwy i webtoony z własnego serwera Suwayomi. Biblioteka i postępy synchronizują się na wszystkich urządzeniach. Umożliwia pobieranie rozdziałów offline.",
+   "kategoria": "Czytanie",
+   "zamiennik": ""
+  },
+  "flathub:io.github.gnoooo.typst-ide": {
+   "haslo": "Edytor dokumentów Typst",
+   "opis": "Typst IDE to lokalny edytor tekstu dla języka Typst. Zapewnia podgląd na żywo, zarządzanie projektami i podświetlanie błędów. Nie wymaga konta ani połączenia z chmurą.",
+   "kategoria": "Programowanie",
+   "zamiennik": ""
+  },
+  "flathub:dev.edfloreshz.WritingTools": {
+   "haslo": "Lokalny asystent pisania AI",
+   "opis": "Writing Tools oferuje prywatne, lokalne wsparcie AI do pisania i korekty tekstów. Działa z backendami takimi jak Ollama i LM Studio, nie wysyła danych do internetu.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:org.openomsi.openOMSI": {
+   "haslo": "Symulacja pociągów w stylu OMSI 2",
+   "opis": "Gra symulacyjna, w której sterujesz pociągami i zarządzasz trasami. Działa na Linuxie i jest zgodna z mapami oraz modami OMSI 2. Umożliwia odtworzenie klasycznej rozgrywki bez potrzeby instalacji oryginalnej gry.",
+   "kategoria": "Gry",
+   "zamiennik": "OMSI 2"
+  },
+  "flathub:de.gruetze_software.BingWallE": {
+   "haslo": "Zbieranie tapet z Bing i Windows Spotlight",
+   "opis": "Aplikacja pobiera najnowsze tapety z Bing w wybranych regionach oraz opcjonalnie z Windows Spotlight. Zapewnia podgląd w dużych rozmiarach, informacje o autorze i możliwość pobrania w HD, Full HD lub UHD.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.elasota.aerofoil": {
+   "haslo": "Port klasycznej gry papierowego samolotu",
+   "opis": "Aerofoil to wersja gry Glider PRO na Linuxa. Pozwala grać na komputerze, tablecie lub telefonie, obsługuje kontrolery i posiada edytor poziomów. Umożliwia importowanie istniejących map.",
+   "kategoria": "Gry",
+   "zamiennik": "Glider PRO"
+  },
+  "flathub:org.chipass.ChiPass": {
+   "haslo": "Menedżer haseł z integracją przeglądarki",
+   "opis": "ChiPass przechowuje hasła w bezpieczny sposób i synchronizuje je z przeglądarką oraz pulpitowym interfejsem. Aplikacja jest lekka, otwarta i dostępna na Linuxa.",
+   "kategoria": "Prywatność i bezpieczeństwo",
+   "zamiennik": ""
+  },
+  "flathub:page.codeberg.n_malo.Luppolo": {
+   "haslo": "Looper audio dla gitarzystów",
+   "opis": "Luppolo pozwala nagrywać i powtarzać dźwięki w czasie rzeczywistym. Można tworzyć do 12 ścieżek, które synchronizują się automatycznie. Idealny do ćwiczeń i nagrywania własnych utworów.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:io.github.rafatosta.gtasks": {
+   "haslo": "Zarządzanie zadaniami z Google Tasks",
+   "opis": "Aplikacja do tworzenia list zadań i projektów, która synchronizuje się z Google Tasks. Umożliwia dodawanie notatek, terminów i podzadań oraz pracę offline.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": "Google Tasks"
+  },
+  "flathub:com.kaniansky.Tunneler": {
+   "haslo": "Klasyczna gra w tunelowanie i walka z czołgiem",
+   "opis": "TUNNELER 2.0 to remake starej gry DOS, w której dwa czołgi kopią tunele i walczą. Gra obsługuje podział ekranu i kontrolery, zachowując oryginalny wygląd i dźwięk.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:app.lepse.Lepse": {
+   "haslo": "Narzędzie do skupienia się na zadaniach",
+   "opis": "Lepse pomaga śledzić postępy w zadaniach przy użyciu techniki Pomodoro. Pozwala tworzyć cele, podłączać zadania do celów i monitorować czas spędzony na każdym zadaniu.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:com.cassidyjames.plausible": {
+   "haslo": "Panel do analityki Plausible",
+   "opis": "Umożliwia przeglądanie statystyk witryny w formie aplikacji. Działa na Linuxie i integruje się z systemem. Jest przeznaczona dla właścicieli stron, którzy chcą szybko sprawdzić ruch.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:nl.andreasknoben.Laser": {
+   "haslo": "Odtwarzanie płyt CD na komputer",
+   "opis": "Program pozwala wyodrębnić ścieżki z płyty CD do plików audio w różnych formatach. Obsługuje pobieranie okładek i tworzenie obrazów płyty. Jest przydatny dla osób, które chcą przechowywać muzykę w formie cyfrowej.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:page.codeberg.vendillah.GamepadMirror": {
+   "haslo": "Pokazywanie przycisków gamepada",
+   "opis": "Aplikacja wyświetla w czasie rzeczywistym, które przyciski są wciśnięte. Pomaga streamerom i testerom sprawdzić działanie kontrolera. Nie wymaga dodatkowych narzędzi zewnętrznych.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.nate_xyz.Paleta": {
+   "haslo": "Tworzenie palet kolorów z obrazów",
+   "opis": "Pozwala wyodrębnić dominujące kolory z dowolnego zdjęcia i zapisać je jako paletę. Ułatwia pracę grafików i projektantów. Obsługuje dodawanie nowych palet ręcznie.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.anil_e.Codd": {
+   "haslo": "Klient baz danych PostgreSQL",
+   "opis": "Lekki program do łączenia się z bazą PostgreSQL, wykonywania zapytań i przeglądania wyników. Nie jest to wielobazowy klient, ale świetnie sprawdza się przy jednej bazie.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:com.mardojai.ForgeSparks": {
+   "haslo": "Powiadomienia z forów Git",
+   "opis": "Aplikacja wysyła powiadomienia o nowych zdarzeniach w repozytoriach na GitLab, GitHub, Gitea i Forgejo. Umożliwia szybkie śledzenie zmian bez konieczności odwiedzania stron.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.ente.photos": {
+   "haslo": "Bezpieczne przechowywanie zdjęć",
+   "opis": "Aplikacja do szyfrowanego backupu zdjęć. Dane są chronione end-to-end, więc tylko Ty możesz je odczytać. Przeznaczona dla osób, które chcą mieć kopię zapasową zdjęć w bezpiecznym miejscu.",
+   "kategoria": "Prywatność i bezpieczeństwo",
+   "zamiennik": ""
+  },
+  "flathub:com.github.paolostivanin.OTPClient": {
+   "haslo": "Zarządzanie kodami jednorazowymi",
+   "opis": "Program do przechowywania i generowania kodów TOTP/HOTP. Obsługuje wiele baz danych i integruje się z systemem, aby szybko wyświetlać kody. Jest przydatny dla osób korzystających z dwu‑faktoryzacji.",
+   "kategoria": "Prywatność i bezpieczeństwo",
+   "zamiennik": ""
   }
  }
 }
