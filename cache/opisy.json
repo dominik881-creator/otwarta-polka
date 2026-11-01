@@ -5834,6 +5834,85 @@
     "https://dl.flathub.org/media/app/lepse/Lepse/34e055185df2a55d096a808d32cad4ad/screenshots/image-3_624x458@1.png",
     "https://dl.flathub.org/media/app/lepse/Lepse/34e055185df2a55d096a808d32cad4ad/screenshots/image-4_624x458@1.png"
    ]
+  },
+  "io.m51.Gelly": {
+   "strona": "https://github.com/Fingel/gelly",
+   "kod": "https://github.com/Fingel/gelly",
+   "screens": [
+    "https://dl.flathub.org/media/io/m51/Gelly/b2378c32f946ffc5b6b9bfeb8d31d547/screenshots/image-1_624x550@1.png",
+    "https://dl.flathub.org/media/io/m51/Gelly/b2378c32f946ffc5b6b9bfeb8d31d547/screenshots/image-2_624x550@1.png",
+    "https://dl.flathub.org/media/io/m51/Gelly/b2378c32f946ffc5b6b9bfeb8d31d547/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/io/m51/Gelly/b2378c32f946ffc5b6b9bfeb8d31d547/screenshots/image-4_624x737@1.png"
+   ]
+  },
+  "se.sjoerd.Graphs": {
+   "strona": "https://apps.gnome.org/Graphs/",
+   "kod": "https://gitlab.gnome.org/World/Graphs",
+   "screens": [
+    "https://dl.flathub.org/media/se/sjoerd/Graphs/ee5ec468c4119ea3e550e295a0f6c9a0/screenshots/image-1_624x387@1.png",
+    "https://dl.flathub.org/media/se/sjoerd/Graphs/ee5ec468c4119ea3e550e295a0f6c9a0/screenshots/image-2_624x387@1.png",
+    "https://dl.flathub.org/media/se/sjoerd/Graphs/ee5ec468c4119ea3e550e295a0f6c9a0/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/se/sjoerd/Graphs/ee5ec468c4119ea3e550e295a0f6c9a0/screenshots/image-4_624x571@1.png"
+   ]
+  },
+  "com.lynnmichaelmartin.TimeTracker": {
+   "strona": "https://github.com/elvishcraftsman/time-tracker",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/com/lynnmichaelmartin/TimeTracker/65036a268cbb64bc0e49fc61119806bf/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/com/lynnmichaelmartin/TimeTracker/65036a268cbb64bc0e49fc61119806bf/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/com/lynnmichaelmartin/TimeTracker/65036a268cbb64bc0e49fc61119806bf/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/com/lynnmichaelmartin/TimeTracker/65036a268cbb64bc0e49fc61119806bf/screenshots/image-4_orig.png"
+   ]
+  },
+  "io.github.tuner_labs.tuner": {
+   "strona": "https://github.com/tuner-labs/tuner",
+   "kod": "https://github.com/tuner-labs/tuner",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/tuner_labs.tuner/a7d84947eb4036f25956dc5567f3cbda/screenshots/image-1_624x444@1.png",
+    "https://dl.flathub.org/media/io/github/tuner_labs.tuner/a7d84947eb4036f25956dc5567f3cbda/screenshots/image-2_624x444@1.png",
+    "https://dl.flathub.org/media/io/github/tuner_labs.tuner/a7d84947eb4036f25956dc5567f3cbda/screenshots/image-3_624x444@1.png",
+    "https://dl.flathub.org/media/io/github/tuner_labs.tuner/a7d84947eb4036f25956dc5567f3cbda/screenshots/image-4_624x444@1.png"
+   ]
+  },
+  "org.gabmus.whatip": {
+   "strona": "https://whatip.gabmus.org",
+   "kod": "https://gitlab.gnome.org/gabmus/whatip",
+   "screens": [
+    "https://dl.flathub.org/media/org/gabmus/whatip/7d60e5569b033ab3ed3a0de6a86bfd72/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/org/gabmus/whatip/7d60e5569b033ab3ed3a0de6a86bfd72/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/org/gabmus/whatip/7d60e5569b033ab3ed3a0de6a86bfd72/screenshots/image-3_orig.png"
+   ]
+  },
+  "org.gnome.Music": {
+   "strona": "https://apps.gnome.org/Music/",
+   "kod": "https://gitlab.gnome.org/GNOME/gnome-music",
+   "screens": [
+    "https://dl.flathub.org/media/org/gnome/Music/68250a43afa247872b7d456ed018289b/screenshots/image-1_624x531@1.png",
+    "https://dl.flathub.org/media/org/gnome/Music/68250a43afa247872b7d456ed018289b/screenshots/image-2_624x531@1.png",
+    "https://dl.flathub.org/media/org/gnome/Music/68250a43afa247872b7d456ed018289b/screenshots/image-3_624x531@1.png",
+    "https://dl.flathub.org/media/org/gnome/Music/68250a43afa247872b7d456ed018289b/screenshots/image-4_624x531@1.png"
+   ]
+  },
+  "org.gabmus.hydrapaper": {
+   "strona": "https://hydrapaper.gabmus.org",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/gabmus/hydrapaper/75af18c891a9061e99f375d47a4b7e33/screenshots/image-1_624x458@1.png",
+    "https://dl.flathub.org/media/org/gabmus/hydrapaper/75af18c891a9061e99f375d47a4b7e33/screenshots/image-2_624x423@1.png",
+    "https://dl.flathub.org/media/org/gabmus/hydrapaper/75af18c891a9061e99f375d47a4b7e33/screenshots/image-3_624x458@1.png",
+    "https://dl.flathub.org/media/org/gabmus/hydrapaper/75af18c891a9061e99f375d47a4b7e33/screenshots/image-4_624x453@1.png"
+   ]
+  },
+  "io.github.zarestia_dev.rclone-manager": {
+   "strona": "https://github.com/Zarestia-Dev/rclone-manager",
+   "kod": "https://github.com/Zarestia-Dev/rclone-manager",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/zarestia_dev.rclone-manager/454067e9bac8af8b6e776cc942478d40/screenshots/image-1_624x491@1.png",
+    "https://dl.flathub.org/media/io/github/zarestia_dev.rclone-manager/454067e9bac8af8b6e776cc942478d40/screenshots/image-2_624x310@1.png",
+    "https://dl.flathub.org/media/io/github/zarestia_dev.rclone-manager/454067e9bac8af8b6e776cc942478d40/screenshots/image-3_624x310@1.png",
+    "https://dl.flathub.org/media/io/github/zarestia_dev.rclone-manager/454067e9bac8af8b6e776cc942478d40/screenshots/image-4_624x561@1.png"
+   ]
   }
  },
  "opisy": {
@@ -11325,6 +11404,54 @@
    "haslo": "Zarządzanie kodami jednorazowymi",
    "opis": "Program do przechowywania i generowania kodów TOTP/HOTP. Obsługuje wiele baz danych i integruje się z systemem, aby szybko wyświetlać kody. Jest przydatny dla osób korzystających z dwu‑faktoryzacji.",
    "kategoria": "Prywatność i bezpieczeństwo",
+   "zamiennik": ""
+  },
+  "flathub:io.m51.Gelly": {
+   "haslo": "Odtwarzacz muzyki z serwerów Jellyfin i Subsonic",
+   "opis": "Gelly to lekki odtwarzacz, który łączy się z serwerami Jellyfin, Navidrome i Subsonic. Umożliwia odtwarzanie, śledzenie tekstów i automatyczne dopasowanie głośności. Działa na Linuksie i jest napisany w Rust.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": "VLC"
+  },
+  "flathub:se.sjoerd.Graphs": {
+   "haslo": "Narzędzie do rysowania i analizy wykresów",
+   "opis": "Graphs pozwala importować dane z różnych formatów, rysować wykresy i wykonywać operacje takie jak przycinanie, przesuwanie czy wygładzanie. Umożliwia dopasowanie krzywych i stosowanie własnych transformacji. Jest przydatny w nauce i analizie danych.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:com.lynnmichaelmartin.TimeTracker": {
+   "haslo": "Rejestrator czasu pracy z synchronizacją",
+   "opis": "Time Tracker śledzi czas poświęcony na projekty i zadania. Działa offline, a następnie synchronizuje dane przez chmurę lub sieć. Zapewnia kopie zapasowe i wykrywa konflikty synchronizacji.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": "Toggl"
+  },
+  "flathub:io.github.tuner_labs.tuner": {
+   "haslo": "Odtwarzacz radia internetowego z losowaniem stacji",
+   "opis": "Tuner pozwala przeglądać i odtwarzać stacje radiowe z całego świata. Funkcja losowania prezentuje nowe stacje przy każdym naciśnięciu przycisku. Użytkownik może oznaczać ulubione i odwiedzać strony stacji.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:org.gabmus.whatip": {
+   "haslo": "Informacje o adresie IP i sieci lokalnej",
+   "opis": "What IP pokazuje publiczny i lokalny adres IP, sprawdza działanie VPN, listuje otwarte porty oraz urządzenia w sieci LAN. Aplikacja jest prosta i szybka w użyciu.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:org.gnome.Music": {
+   "haslo": "Odtwarzacz muzyki z organizacją kolekcji",
+   "opis": "Music to prosty odtwarzacz, który pozwala przeglądać lokalną kolekcję, tworzyć playlisty i korzystać z automatycznie generowanych list. Działa w środowisku GNOME.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": "Rhythmbox"
+  },
+  "flathub:org.gabmus.hydrapaper": {
+   "haslo": "Menadżer tapet z obsługą wielu monitorów",
+   "opis": "HydraPaper umożliwia ustawienie różnych tapet na każdym monitorze w konfiguracji wielomonitorowej. Łączy obrazy w jeden spójny i obsługuje popularne środowiska graficzne.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.zarestia_dev.rclone-manager": {
+   "haslo": "Graficzny interfejs do synchronizacji chmury",
+   "opis": "RClone Manager pozwala zarządzać kontami chmurowymi (Google Drive, Dropbox, OneDrive, S3) bez użycia wiersza poleceń. Umożliwia tworzenie automatycznych przepływów pracy i uruchamianie zadań jednym kliknięciem.",
+   "kategoria": "Narzędzia",
    "zamiennik": ""
   }
  }
