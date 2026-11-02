@@ -5913,6 +5913,101 @@
     "https://dl.flathub.org/media/io/github/zarestia_dev.rclone-manager/454067e9bac8af8b6e776cc942478d40/screenshots/image-3_624x310@1.png",
     "https://dl.flathub.org/media/io/github/zarestia_dev.rclone-manager/454067e9bac8af8b6e776cc942478d40/screenshots/image-4_624x561@1.png"
    ]
+  },
+  "io.frama.tractor.carburetor": {
+   "strona": "https://tractor.frama.io/carburetor",
+   "kod": "https://framagit.org/tractor/carburetor",
+   "screens": [
+    "https://dl.flathub.org/media/io/frama/tractor.carburetor/e297528a2e0f271f99297c1bb7eee66d/screenshots/image-1_624x472@1.png",
+    "https://dl.flathub.org/media/io/frama/tractor.carburetor/e297528a2e0f271f99297c1bb7eee66d/screenshots/image-2_orig.png"
+   ]
+  },
+  "org.pencil2d.Pencil2D": {
+   "strona": "https://www.pencil2d.org/",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/pencil2d/Pencil2D/fe3707e229e7d858c984ff751a1c52a1/screenshots/image-1_624x458@1.png"
+   ]
+  },
+  "re.sonny.Playhouse": {
+   "strona": "https://playhouse.sonny.re",
+   "kod": "https://playhouse.sonny.re/source",
+   "screens": [
+    "https://dl.flathub.org/media/re/sonny/Playhouse/86753e5c2b31fed51a845c373c490b6e/screenshots/image-1_624x438@1.png"
+   ]
+  },
+  "org.clementine_player.Clementine": {
+   "strona": "https://www.clementine-player.org",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/clementine_player/Clementine/98b847233b68d27b8613cd90044326b9/screenshots/image-1_624x396@1.png",
+    "https://dl.flathub.org/media/org/clementine_player/Clementine/98b847233b68d27b8613cd90044326b9/screenshots/image-2_624x418@1.png"
+   ]
+  },
+  "org.kde.konversation": {
+   "strona": "https://konversation.kde.org/",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/kde/konversation.desktop/92cf3faffb162a470feaf837c3ae5ae3/screenshots/image-1_624x405@1.png"
+   ]
+  },
+  "space.f1nn.chorus": {
+   "strona": "https://github.com/f1nniboy/chorus",
+   "kod": "https://github.com/f1nniboy/chorus",
+   "screens": [
+    "https://dl.flathub.org/media/s/sp/space.f1nn.chorus/433aced64a5774b81ee4ae7424258a7e/screenshots/image-1_624x445@1.png",
+    "https://dl.flathub.org/media/s/sp/space.f1nn.chorus/433aced64a5774b81ee4ae7424258a7e/screenshots/image-2_624x445@1.png",
+    "https://dl.flathub.org/media/s/sp/space.f1nn.chorus/433aced64a5774b81ee4ae7424258a7e/screenshots/image-3_624x445@1.png"
+   ]
+  },
+  "com.pojtinger.felicitas.Sessions": {
+   "strona": "https://apps.gnome.org/Sessions/",
+   "kod": "https://github.com/pojntfx/sessions/",
+   "screens": [
+    "https://dl.flathub.org/media/com/pojtinger/felicitas.Sessions/1b969d26236f48ef260cee1eaf00d6bb/screenshots/image-1_624x681@1.png",
+    "https://dl.flathub.org/media/com/pojtinger/felicitas.Sessions/1b969d26236f48ef260cee1eaf00d6bb/screenshots/image-2_624x681@1.png"
+   ]
+  },
+  "org.gnome.BreakTimer": {
+   "strona": "https://wiki.gnome.org/Apps/BreakTimer",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/gnome/BreakTimer/e9cfaef22902ff74d76d2abd14c90cba/screenshots/image-1_624x335@1.png",
+    "https://dl.flathub.org/media/org/gnome/BreakTimer/e9cfaef22902ff74d76d2abd14c90cba/screenshots/image-2_624x335@1.png"
+   ]
+  },
+  "net.krafting.HexColordle": {
+   "strona": "https://gitlab.com/Krafting/hexcolordle-gtk",
+   "kod": "https://gitlab.com/Krafting/hexcolordle-gtk",
+   "screens": [
+    "https://dl.flathub.org/media/net/krafting/HexColordle/b45d7b355b8bcf124e52c2d0ff909ba1/screenshots/image-1_624x699@1.png",
+    "https://dl.flathub.org/media/net/krafting/HexColordle/b45d7b355b8bcf124e52c2d0ff909ba1/screenshots/image-2_624x778@1.png"
+   ]
+  },
+  "dev.pulsar_edit.Pulsar": {
+   "strona": "https://pulsar-edit.dev",
+   "kod": "https://github.com/pulsar-edit/pulsar",
+   "screens": [
+    "https://dl.flathub.org/media/dev/pulsar_edit/Pulsar/1ade6517226d9b88427c56908e2351ba/screenshots/image-1_624x425@1.png",
+    "https://dl.flathub.org/media/dev/pulsar_edit/Pulsar/1ade6517226d9b88427c56908e2351ba/screenshots/image-2_624x377@1.png"
+   ]
+  },
+  "io.github.revisto.drum-machine": {
+   "strona": "https://github.com/revisto/drum-machine",
+   "kod": "https://github.com/revisto/drum-machine",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/revisto.drum-machine/50135d3f431ca121bce9ad53206d313d/screenshots/image-1_624x488@1.png",
+    "https://dl.flathub.org/media/io/github/revisto.drum-machine/50135d3f431ca121bce9ad53206d313d/screenshots/image-2_624x488@1.png"
+   ]
+  },
+  "io.gitlab.leesonwai.Tactics": {
+   "strona": "https://gitlab.com/leesonwai/tactics",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/io/gitlab/leesonwai.Tactics/0231788ff64bb2f45f55a04809d9485f/screenshots/image-1_624x616@1.png",
+    "https://dl.flathub.org/media/io/gitlab/leesonwai.Tactics/0231788ff64bb2f45f55a04809d9485f/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/io/gitlab/leesonwai.Tactics/0231788ff64bb2f45f55a04809d9485f/screenshots/image-3_624x616@1.png"
+   ]
   }
  },
  "opisy": {
@@ -11453,6 +11548,90 @@
    "opis": "RClone Manager pozwala zarządzać kontami chmurowymi (Google Drive, Dropbox, OneDrive, S3) bez użycia wiersza poleceń. Umożliwia tworzenie automatycznych przepływów pracy i uruchamianie zadań jednym kliknięciem.",
    "kategoria": "Narzędzia",
    "zamiennik": ""
+  },
+  "fdroid:tv.cleanyour.app": {
+   "haslo": "Czyszczenie Android TV z telefonu",
+   "opis": "Pozwala usunąć zbędne aplikacje i przywrócić czysty ekran startowy Android TV. Kontrolujesz TV z telefonu przez Wi‑Fi, bez kabli i kodowania. Działa na wszystkich urządzeniach z Android TV.",
+   "kategoria": "System",
+   "zamiennik": ""
+  },
+  "flathub:io.frama.tractor.carburetor": {
+   "haslo": "Anonimowa przeglądarka z TOR-em",
+   "opis": "Umożliwia przeglądanie stron internetowych bez ujawniania IP. Działa jako lokalny serwer proxy, który przekierowuje ruch przez sieć TOR. Nie wymaga modyfikacji systemu, wystarczy uruchomić aplikację.",
+   "kategoria": "Internet i przeglądarki",
+   "zamiennik": ""
+  },
+  "flathub:org.pencil2d.Pencil2D": {
+   "haslo": "Tworzenie 2D‑animacji ręcznie",
+   "opis": "Program do rysowania i animowania grafik bitmapowych oraz wektorowych. Pozwala tworzyć sekwencje klatek ręcznie, jak w tradycyjnej animacji. Otwarty i prosty w obsłudze.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "flathub:re.sonny.Playhouse": {
+   "haslo": "Edytor i podgląd stron WWW",
+   "opis": "Środowisko do szybkiego prototypowania i nauki HTML, CSS i JavaScript. Automatycznie zapisuje zmiany i wyświetla podgląd w przeglądarce. Wspiera skróty klawiszowe i tryb ciemny.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:org.clementine_player.Clementine": {
+   "haslo": "Odtwarzacz muzyki i radia internetowego",
+   "opis": "Odtwarza pliki muzyczne z komputera oraz radia z serwisów takich jak Spotify, Soundcloud czy Icecast. Pozwala wyszukiwać utwory w bibliotece i w chmurze. Interfejs jest szybki i prosty.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": "Spotify"
+  },
+  "flathub:org.kde.konversation": {
+   "haslo": "Klient IRC",
+   "opis": "Umożliwia łączenie się z sieciami IRC, wysyłanie wiadomości i przesyłanie plików. Obsługuje SSL i wiele kanałów w jednym oknie. Dostępny jest interfejs graficzny.",
+   "kategoria": "Komunikacja",
+   "zamiennik": ""
+  },
+  "flathub:space.f1nn.chorus": {
+   "haslo": "Piosenki z tekstem podświetlanym w czasie rzeczywistym",
+   "opis": "Pokazuje teksty piosenek synchronizowane z odtwarzanym utworem. Obsługuje dowolny odtwarzacz muzyczny. Tekst można przewijać i klikać, aby przejść do konkretnego fragmentu.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:com.pojtinger.felicitas.Sessions": {
+   "haslo": "Timer Pomodoro",
+   "opis": "Prosty program do zarządzania czasem pracy w technice Pomodoro. Ustawia sesje pracy i przerwy, wyświetla czysty interfejs i śledzi postępy. Pomaga utrzymać koncentrację.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:org.gnome.BreakTimer": {
+   "haslo": "Przypomnienia o przerwach przy pracy przy komputerze",
+   "opis": "Aplikacja monitoruje czas spędzony przy komputerze i przypomina o krótkich przerwach dla oczu i nadgarstków oraz dłuższych, aby poruszać się. Ustaw własny harmonogram i pozostaw aplikację w tle.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:net.krafting.HexColordle": {
+   "haslo": "Gra polegająca na odgadywaniu wartości koloru w systemie szesnastkowym",
+   "opis": "Wybierz prawidłowy kod koloru, sprawdzając podpowiedzi o wysokości lub niskich wartościach. Gra rozwija logiczne myślenie i znajomość kolorów.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:dev.pulsar_edit.Pulsar": {
+   "haslo": "Edytor tekstu z dużą możliwością dostosowania",
+   "opis": "Pulsar to edytor tekstu, który można łatwo rozszerzać i konfigurować. Zaprojektowany z myślą o programistach i pisarzy, oferuje wiele wtyczek i motywów.",
+   "kategoria": "Programowanie",
+   "zamiennik": ""
+  },
+  "flathub:io.github.revisto.drum-machine": {
+   "haslo": "Tworzenie i odtwarzanie rytmów perkusyjnych",
+   "opis": "Aplikacja pozwala tworzyć, odtwarzać i zarządzać sekwencjami bębnów. Oferuje edytor siatkowy, możliwość dodawania własnych dźwięków i kontrolę tempa oraz głośności.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:io.gitlab.leesonwai.Tactics": {
+   "haslo": "Planowanie układów piłkarskich",
+   "opis": "Twórz i udostępniaj układy drużyny, ustawiaj formacje i kolory klubowe. Idealne dla fanów piłki nożnej i organizatorów fantasy.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "fdroid:com.unicornsonlsd.finamp": {
+   "haslo": "Odtwarzacz muzyki dla serwera Jellyfin",
+   "opis": "Odtwarzacz pozwala strumieniować i pobierać muzykę z serwera Jellyfin. Obsługuje odtwarzanie bez przerw, przeglądanie biblioteki i zachowuje prywatność użytkownika.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": "Jellyfin"
   }
  }
 }
