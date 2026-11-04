@@ -6008,6 +6008,193 @@
     "https://dl.flathub.org/media/io/gitlab/leesonwai.Tactics/0231788ff64bb2f45f55a04809d9485f/screenshots/image-2_orig.png",
     "https://dl.flathub.org/media/io/gitlab/leesonwai.Tactics/0231788ff64bb2f45f55a04809d9485f/screenshots/image-3_624x616@1.png"
    ]
+  },
+  "com.ktechpit.red": {
+   "strona": "https://github.com/keshavbhatt/red",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/com/ktechpit/red/e2046111419e58d8289165644fb0f069/screenshots/image-1_624x390@1.png",
+    "https://dl.flathub.org/media/com/ktechpit/red/e2046111419e58d8289165644fb0f069/screenshots/image-2_624x390@1.png",
+    "https://dl.flathub.org/media/com/ktechpit/red/e2046111419e58d8289165644fb0f069/screenshots/image-3_624x390@1.png",
+    "https://dl.flathub.org/media/com/ktechpit/red/e2046111419e58d8289165644fb0f069/screenshots/image-4_624x390@1.png"
+   ]
+  },
+  "net.andyofniall.missingno": {
+   "strona": "https://github.com/ajoneil/missingno",
+   "kod": "https://github.com/ajoneil/missingno",
+   "screens": [
+    "https://dl.flathub.org/media/net/andyofniall/missingno/898ef7f95c899a55a097c4fa3573a233/screenshots/image-1_624x436@1.png",
+    "https://dl.flathub.org/media/net/andyofniall/missingno/898ef7f95c899a55a097c4fa3573a233/screenshots/image-2_624x436@1.png",
+    "https://dl.flathub.org/media/net/andyofniall/missingno/898ef7f95c899a55a097c4fa3573a233/screenshots/image-3_624x436@1.png",
+    "https://dl.flathub.org/media/net/andyofniall/missingno/898ef7f95c899a55a097c4fa3573a233/screenshots/image-4_624x436@1.png"
+   ]
+  },
+  "io.github.mrvladus.List": {
+   "strona": "https://github.com/mrvladus/Errands",
+   "kod": "https://github.com/mrvladus/Errands/",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/mrvladus.List/878c4715d36c33a96a57fedc5e7155a3/screenshots/image-1_624x445@1.png",
+    "https://dl.flathub.org/media/io/github/mrvladus.List/878c4715d36c33a96a57fedc5e7155a3/screenshots/image-2_624x445@1.png"
+   ]
+  },
+  "io.github.alper_han.crossmacro": {
+   "strona": "https://github.com/alper-han/CrossMacro",
+   "kod": "https://github.com/alper-han/CrossMacro",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/alper_han.crossmacro/3ea8a40daaae9fa4dd279982f5f4fac3/screenshots/image-1_624x534@1.png",
+    "https://dl.flathub.org/media/io/github/alper_han.crossmacro/3ea8a40daaae9fa4dd279982f5f4fac3/screenshots/image-2_624x534@1.png",
+    "https://dl.flathub.org/media/io/github/alper_han.crossmacro/3ea8a40daaae9fa4dd279982f5f4fac3/screenshots/image-3_624x534@1.png",
+    "https://dl.flathub.org/media/io/github/alper_han.crossmacro/3ea8a40daaae9fa4dd279982f5f4fac3/screenshots/image-4_624x534@1.png"
+   ]
+  },
+  "org.gnome.Manuals": {
+   "strona": "https://apps.gnome.org/Manuals/",
+   "kod": "https://gitlab.gnome.org/GNOME/manuals",
+   "screens": [
+    "https://dl.flathub.org/media/org/gnome/Manuals/d7f82a67af5583f51b0ba3f8c8181016/screenshots/image-1_624x457@1.png",
+    "https://dl.flathub.org/media/org/gnome/Manuals/d7f82a67af5583f51b0ba3f8c8181016/screenshots/image-2_624x457@1.png",
+    "https://dl.flathub.org/media/org/gnome/Manuals/d7f82a67af5583f51b0ba3f8c8181016/screenshots/image-3_624x571@1.png",
+    "https://dl.flathub.org/media/org/gnome/Manuals/d7f82a67af5583f51b0ba3f8c8181016/screenshots/image-4_624x457@1.png"
+   ]
+  },
+  "io.github.philippkosarev.bmi": {
+   "strona": "https://github.com/philippkosarev/bmi",
+   "kod": "https://github.com/philippkosarev/bmi",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/philippkosarev.bmi/d65e427b9bfd47da0b576ab2b34c9109/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/io/github/philippkosarev.bmi/d65e427b9bfd47da0b576ab2b34c9109/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/io/github/philippkosarev.bmi/d65e427b9bfd47da0b576ab2b34c9109/screenshots/image-3_624x253@1.png",
+    "https://dl.flathub.org/media/io/github/philippkosarev.bmi/d65e427b9bfd47da0b576ab2b34c9109/screenshots/image-4_624x253@1.png"
+   ]
+  },
+  "io.github.diegopvlk.Tomatillo": {
+   "strona": "https://github.com/diegopvlk/Tomatillo",
+   "kod": "https://github.com/diegopvlk/Tomatillo",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/diegopvlk.Tomatillo/125da8b86c998025051fa4b45a71236e/screenshots/image-1_624x639@1.png",
+    "https://dl.flathub.org/media/io/github/diegopvlk.Tomatillo/125da8b86c998025051fa4b45a71236e/screenshots/image-2_624x639@1.png",
+    "https://dl.flathub.org/media/io/github/diegopvlk.Tomatillo/125da8b86c998025051fa4b45a71236e/screenshots/image-3_624x639@1.png",
+    "https://dl.flathub.org/media/io/github/diegopvlk.Tomatillo/125da8b86c998025051fa4b45a71236e/screenshots/image-4_624x639@1.png"
+   ]
+  },
+  "com.felipekinoshita.Kana": {
+   "strona": "https://gitlab.gnome.org/fkinoshita/Kana",
+   "kod": "https://gitlab.gnome.org/fkinoshita/Kana",
+   "screens": [
+    "https://dl.flathub.org/media/com/felipekinoshita/Kana/f5e6573274367af4b3d5098b3152c30d/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/com/felipekinoshita/Kana/f5e6573274367af4b3d5098b3152c30d/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/com/felipekinoshita/Kana/f5e6573274367af4b3d5098b3152c30d/screenshots/image-3_orig.png"
+   ]
+  },
+  "nl.emphisia.icon": {
+   "strona": "https://emphisia.nl",
+   "kod": "https://github.com/youpie/Iconic",
+   "screens": [
+    "https://dl.flathub.org/media/nl/emphisia/icon/1ee0dbe691481c50334d6aa0014a28b6/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/nl/emphisia/icon/1ee0dbe691481c50334d6aa0014a28b6/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/nl/emphisia/icon/1ee0dbe691481c50334d6aa0014a28b6/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/nl/emphisia/icon/1ee0dbe691481c50334d6aa0014a28b6/screenshots/image-4_orig.png"
+   ]
+  },
+  "org.kde.kasts": {
+   "strona": "https://apps.kde.org/kasts/",
+   "kod": "https://invent.kde.org/multimedia/kasts/",
+   "screens": [
+    "https://dl.flathub.org/media/org/kde/kasts/6e1e6d65191453a74deb9b52058a3bfc/screenshots/image-1_624x526@1.png",
+    "https://dl.flathub.org/media/org/kde/kasts/6e1e6d65191453a74deb9b52058a3bfc/screenshots/image-2_624x526@1.png",
+    "https://dl.flathub.org/media/org/kde/kasts/6e1e6d65191453a74deb9b52058a3bfc/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/org/kde/kasts/6e1e6d65191453a74deb9b52058a3bfc/screenshots/image-4_orig.png"
+   ]
+  },
+  "org.gnome.World.Secrets": {
+   "strona": "https://apps.gnome.org/Secrets/",
+   "kod": "https://gitlab.gnome.org/World/secrets",
+   "screens": [
+    "https://dl.flathub.org/media/org/gnome/World.Secrets/c3aeb38516791b22b131a795233d2f0f/screenshots/image-1_624x471@1.png",
+    "https://dl.flathub.org/media/org/gnome/World.Secrets/c3aeb38516791b22b131a795233d2f0f/screenshots/image-2_624x472@1.png",
+    "https://dl.flathub.org/media/org/gnome/World.Secrets/c3aeb38516791b22b131a795233d2f0f/screenshots/image-3_624x472@1.png"
+   ]
+  },
+  "xyz.tytanium.DoorKnocker": {
+   "strona": "https://codeberg.org/tytan652/door-knocker",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/xyz/tytanium/DoorKnocker/58d6bc73f4c5b63270e941ef60a4f69a/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/xyz/tytanium/DoorKnocker/58d6bc73f4c5b63270e941ef60a4f69a/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/xyz/tytanium/DoorKnocker/58d6bc73f4c5b63270e941ef60a4f69a/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/xyz/tytanium/DoorKnocker/58d6bc73f4c5b63270e941ef60a4f69a/screenshots/image-4_orig.png"
+   ]
+  },
+  "io.github.nokse22.ultimate-tic-tac-toe": {
+   "strona": "https://github.com/Nokse22/ultimate-tic-tac-toe",
+   "kod": "https://github.com/Nokse22/ultimate-tic-tac-toe",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/nokse22.ultimate-tic-tac-toe/2e289052b8dce73cf8e43e96733f1366/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/io/github/nokse22.ultimate-tic-tac-toe/2e289052b8dce73cf8e43e96733f1366/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/io/github/nokse22.ultimate-tic-tac-toe/2e289052b8dce73cf8e43e96733f1366/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/io/github/nokse22.ultimate-tic-tac-toe/2e289052b8dce73cf8e43e96733f1366/screenshots/image-4_orig.png"
+   ]
+  },
+  "org.gnome.dspy": {
+   "strona": "https://apps.gnome.org/Dspy",
+   "kod": "https://gitlab.gnome.org/GNOME/d-spy",
+   "screens": [
+    "https://dl.flathub.org/media/org/gnome/dspy/31187e7b474cb6ac5e5b87273ca4738c/screenshots/image-1_624x411@1.png"
+   ]
+  },
+  "org.tropy.Tropy": {
+   "strona": "https://tropy.org",
+   "kod": "https://github.com/tropy/tropy",
+   "screens": [
+    "https://dl.flathub.org/media/org/tropy/Tropy/8eaccfa9e2e273baadf6aa53d61184c2/screenshots/image-1_624x457@1.png",
+    "https://dl.flathub.org/media/org/tropy/Tropy/8eaccfa9e2e273baadf6aa53d61184c2/screenshots/image-2_624x457@1.png",
+    "https://dl.flathub.org/media/org/tropy/Tropy/8eaccfa9e2e273baadf6aa53d61184c2/screenshots/image-3_624x457@1.png",
+    "https://dl.flathub.org/media/org/tropy/Tropy/8eaccfa9e2e273baadf6aa53d61184c2/screenshots/image-4_624x457@1.png"
+   ]
+  },
+  "org.gnome.Totem": {
+   "strona": "https://apps.gnome.org/Totem/",
+   "kod": "https://gitlab.gnome.org/GNOME/totem",
+   "screens": [
+    "https://dl.flathub.org/media/org/gnome/Totem.desktop/81b716263317c2bbd480e5b73ad2a873/screenshots/image-1_624x393@1.png",
+    "https://dl.flathub.org/media/org/gnome/Totem.desktop/81b716263317c2bbd480e5b73ad2a873/screenshots/image-2_624x393@1.png"
+   ]
+  },
+  "xyz.safeworlds.hiit": {
+   "strona": "https://apps.gnome.org/Hiit/",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/xyz/safeworlds/hiit/71d7945525ea3b1204501f4f7c03cfcd/screenshots/image-1_624x609@1.png",
+    "https://dl.flathub.org/media/xyz/safeworlds/hiit/71d7945525ea3b1204501f4f7c03cfcd/screenshots/image-2_624x624@1.png",
+    "https://dl.flathub.org/media/xyz/safeworlds/hiit/71d7945525ea3b1204501f4f7c03cfcd/screenshots/image-3_624x624@1.png",
+    "https://dl.flathub.org/media/xyz/safeworlds/hiit/71d7945525ea3b1204501f4f7c03cfcd/screenshots/image-4_624x609@1.png"
+   ]
+  },
+  "org.gnome.GHex": {
+   "strona": "https://gitlab.gnome.org/GNOME/ghex",
+   "kod": "https://gitlab.gnome.org/GNOME/ghex",
+   "screens": [
+    "https://dl.flathub.org/media/org/gnome/GHex/08fd82368da6b8131b3f9501173461e4/screenshots/image-1_624x370@1.png",
+    "https://dl.flathub.org/media/org/gnome/GHex/08fd82368da6b8131b3f9501173461e4/screenshots/image-2_624x525@1.png"
+   ]
+  },
+  "com.danklinux.dankcalendar": {
+   "strona": "https://duxlabs.dev",
+   "kod": "https://github.com/duxlabs-dev/dux-calendar",
+   "screens": [
+    "https://dl.flathub.org/media/com/danklinux/dankcalendar/40bfea811c42777d5459ecce57436104/screenshots/image-1_624x452@1.png",
+    "https://dl.flathub.org/media/com/danklinux/dankcalendar/40bfea811c42777d5459ecce57436104/screenshots/image-2_624x512@1.png",
+    "https://dl.flathub.org/media/com/danklinux/dankcalendar/40bfea811c42777d5459ecce57436104/screenshots/image-3_624x510@1.png"
+   ]
+  },
+  "dev.boxi.Boxi": {
+   "strona": "https://boxi.dev/",
+   "kod": "https://github.com/allisonkarlitskaya/boxi",
+   "screens": [
+    "https://dl.flathub.org/media/dev/boxi/Boxi/67217c5b94febf6bfd89a7a87a2fab48/screenshots/image-1_624x492@1.png",
+    "https://dl.flathub.org/media/dev/boxi/Boxi/67217c5b94febf6bfd89a7a87a2fab48/screenshots/image-2_624x351@1.png",
+    "https://dl.flathub.org/media/dev/boxi/Boxi/67217c5b94febf6bfd89a7a87a2fab48/screenshots/image-3_624x351@1.png"
+   ]
   }
  },
  "opisy": {
@@ -11632,6 +11819,138 @@
    "opis": "Odtwarzacz pozwala strumieniować i pobierać muzykę z serwera Jellyfin. Obsługuje odtwarzanie bez przerw, przeglądanie biblioteki i zachowuje prywatność użytkownika.",
    "kategoria": "Muzyka i wideo",
    "zamiennik": "Jellyfin"
+  },
+  "flathub:net.andyofniall.missingno": {
+   "haslo": "Emulator retro‑gier na Linux",
+   "opis": "Missingno emuluje Game Boy, Game Boy Color, Atari VCS, Sega SG‑1000 i ColecoVision. Gra wygląda i brzmi jak na oryginalnych konsolach, a biblioteka automatycznie pobiera okładki i metadane. Dla miłośników klasycznych gier.",
+   "kategoria": "Gry",
+   "zamiennik": "RetroArch"
+  },
+  "flathub:io.github.mrvladus.List": {
+   "haslo": "Prosty menedżer zadań",
+   "opis": "Aplikacja do tworzenia, edycji i usuwania zadań oraz list zadań. Obsługuje podzadania, kolory, tagi, załączniki i notatki. Synchronizacja z Nextcloud i innymi serwerami CalDAV.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:io.github.alper_han.crossmacro": {
+   "haslo": "Rejestrator makr myszy i klawiatury",
+   "opis": "CrossMacro nagrywa kliknięcia, ruchy myszy i wpisy klawiatury, a następnie pozwala je edytować i odtwarzać z opcjami powtarzania, opóźnień i skrótów globalnych. Działa na Linux, Windows i macOS.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:org.gnome.Manuals": {
+   "haslo": "Przeglądarka dokumentacji programistycznej",
+   "opis": "Zbiera i indeksuje podręczniki deweloperskie w formacie devhelp. Umożliwia szybkie przeszukiwanie i przeglądanie dokumentacji bibliotek GTK.",
+   "kategoria": "Programowanie",
+   "zamiennik": ""
+  },
+  "flathub:io.github.philippkosarev.bmi": {
+   "haslo": "Kalkulator BMI",
+   "opis": "Prosty kalkulator wskaźnika masy ciała. Wprowadź wagę i wzrost, a aplikacja obliczy wynik i podpowie, czy jesteś w normie.",
+   "kategoria": "Zdrowie i sport",
+   "zamiennik": ""
+  },
+  "flathub:io.github.diegopvlk.Tomatillo": {
+   "haslo": "Timer Pomodoro",
+   "opis": "Aplikacja do pracy w cyklach Pomodoro: 25 minut pracy, 5 minut przerwy, po kilku cyklach dłuższa przerwa. Pomaga utrzymać rytm pracy i odpoczynku.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:org.gnome.Epiphany": {
+   "haslo": "Przeglądarka internetowa GNOME",
+   "opis": "Prosty i czysty przeglądarka internetowa zintegrowana z środowiskiem GNOME. Pozwala skupić się na stronach bez zbędnych dodatków.",
+   "kategoria": "Internet i przeglądarki",
+   "zamiennik": "Firefox"
+  },
+  "flathub:com.felipekinoshita.Kana": {
+   "haslo": "Nauka znaków japońskich",
+   "opis": "Aplikacja do nauki hiragany i katakany poprzez dopasowywanie znaków z ich transkrypcją romaji. Idealna dla początkujących uczących się języka japońskiego.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:nl.emphisia.icon": {
+   "haslo": "Dodaje ikony na foldery",
+   "opis": "Program pozwala łatwo umieścić ikonę na górze folderu, co ułatwia ich rozróżnianie. Działa najlepiej z aplikacją Icon library i Adwaita Colors. Jest napisany w Rust i Libadwaita.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "flathub:org.kde.kasts": {
+   "haslo": "Aplikacja do podcastów",
+   "opis": "Kasts umożliwia zarządzanie odcinkami, odtwarzanie z różną prędkością i synchronizację pozycji odtwarzania między urządzeniami. Wspiera wyszukiwanie podcastów i integrację z systemem.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:com.ktechpit.red": {
+   "haslo": "Klient YouTube bez reklam",
+   "opis": "Red to natywna aplikacja do oglądania YouTube na Linuxie, z trybem TV, trybem muzycznym i SponsorBlockiem. Pozwala na pobieranie filmów i korzystanie z klawiszy multimedialnych.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:org.gnome.World.Secrets": {
+   "haslo": "Menedżer haseł",
+   "opis": "Secrets to menedżer haseł korzystający z formatu KeePass v.4. Integruje się z pulpitami GNOME i oferuje prosty interfejs do zarządzania bazą haseł.",
+   "kategoria": "Prywatność i bezpieczeństwo",
+   "zamiennik": ""
+  },
+  "flathub:xyz.tytanium.DoorKnocker": {
+   "haslo": "Sprawdź dostępność portali",
+   "opis": "Door Knocker pozwala sprawdzić, które portale XDG Desktop Portal są dostępne na systemie. Umożliwia szybkie testowanie funkcji portali.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.nokse22.ultimate-tic-tac-toe": {
+   "haslo": "Gry w szachy na 3x3x3",
+   "opis": "Ultimate Tic Tac Toe to gra w kółko‑krzyżyk w trzech wymiarach. Można grać z przyjaciółmi lub przeciwko algorytmowi. Zawiera instrukcje zasad w grze.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:org.gnome.dspy": {
+   "haslo": "Analiza połączeń D-Bus",
+   "opis": "D-Spy to narzędzie do eksploracji połączeń D-Bus w systemie. Pozwala zobaczyć, które aplikacje komunikują się ze sobą przez ten interfejs.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:org.tropy.Tropy": {
+   "haslo": "Organizator zdjęć badawczych",
+   "opis": "Tropy pomaga zarządzać zdjęciami badawczymi, skracając drogę od znalezienia źródeł do pisania. Umożliwia łatwe przeszukiwanie i oznaczanie zdjęć.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "flathub:org.gnome.Totem": {
+   "haslo": "Odtwarzacz filmów i DVD",
+   "opis": "Odtwarza filmy z komputera, DVD i sieci. Ma wyszukiwarkę, pobiera napisy i pozwala robić zrzuty ekranu.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": "VLC"
+  },
+  "flathub:xyz.safeworlds.hiit": {
+   "haslo": "Timer do treningów interwałowych",
+   "opis": "Ustawia serie ćwiczeń i przerwy. Działa na zasadzie odliczania i dzwoni przy zmianie.",
+   "kategoria": "Zdrowie i sport",
+   "zamiennik": ""
+  },
+  "flathub:org.gnome.GHex": {
+   "haslo": "Edytor plików w formacie szesnastkowym",
+   "opis": "Otwiera pliki binarne i pokazuje ich zawartość w dwóch kolumnach: szesnastkowa i ASCII. Umożliwia modyfikację danych.",
+   "kategoria": "Programowanie",
+   "zamiennik": ""
+  },
+  "flathub:com.danklinux.dankcalendar": {
+   "haslo": "Kalendarz z synchronizacją wielu kont",
+   "opis": "Łączy kalendarze Google, Microsoft, CalDAV i iCloud. Pokazuje wydarzenia w jednym miejscu i wysyła przypomnienia.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:dev.boxi.Boxi": {
+   "haslo": "Terminal w izolowanym kontenerze",
+   "opis": "Uruchamia powłokę w osobnym kontenerze, oddzielając ją od głównego systemu. Umożliwia bezpieczne testowanie.",
+   "kategoria": "System",
+   "zamiennik": ""
+  },
+  "fdroid:com.android.keepass": {
+   "haslo": "Bezpieczne przechowywanie haseł",
+   "opis": "Zapisuje hasła w bazie KeePass. Obsługuje formaty 1 i 2. Działa na Androidzie.",
+   "kategoria": "Prywatność i bezpieczeństwo",
+   "zamiennik": "KeePass"
   }
  }
 }
