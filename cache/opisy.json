@@ -6195,6 +6195,143 @@
     "https://dl.flathub.org/media/dev/boxi/Boxi/67217c5b94febf6bfd89a7a87a2fab48/screenshots/image-2_624x351@1.png",
     "https://dl.flathub.org/media/dev/boxi/Boxi/67217c5b94febf6bfd89a7a87a2fab48/screenshots/image-3_624x351@1.png"
    ]
+  },
+  "org.fcitx.Fcitx5": {
+   "strona": "https://fcitx-im.org/",
+   "kod": "https://github.com/fcitx/fcitx5",
+   "screens": [
+    "https://dl.flathub.org/media/org/fcitx/Fcitx5/c48633599bb58249862b11254c271a36/screenshots/image-1_orig.png"
+   ]
+  },
+  "dev.dergs.Tonearm": {
+   "strona": "https://dergs.dev/projects/tonearm",
+   "kod": "https://codeberg.org/dergs/Tonearm",
+   "screens": [
+    "https://dl.flathub.org/media/dev/dergs/Tonearm/c4c2277284c1b119cae9c6e187d8d51e/screenshots/image-1_624x408@1.png",
+    "https://dl.flathub.org/media/dev/dergs/Tonearm/c4c2277284c1b119cae9c6e187d8d51e/screenshots/image-2_624x408@1.png",
+    "https://dl.flathub.org/media/dev/dergs/Tonearm/c4c2277284c1b119cae9c6e187d8d51e/screenshots/image-3_624x408@1.png"
+   ]
+  },
+  "me.sanchezrodriguez.passes": {
+   "strona": "https://github.com/pablo-s/passes",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/me/sanchezrodriguez/passes.desktop/de30186012f8a24dd5352fa05bc66b74/screenshots/image-1_624x356@1.png"
+   ]
+  },
+  "dev.deimoshall.Metamorphosis": {
+   "strona": "https://github.com/DeimosHall/Metamorphosis",
+   "kod": "https://github.com/DeimosHall/Metamorphosis",
+   "screens": [
+    "https://dl.flathub.org/media/dev/deimoshall/Metamorphosis/cb35f76335563d22607e5d30d4df8d89/screenshots/image-1_624x573@1.png",
+    "https://dl.flathub.org/media/dev/deimoshall/Metamorphosis/cb35f76335563d22607e5d30d4df8d89/screenshots/image-2_624x573@1.png",
+    "https://dl.flathub.org/media/dev/deimoshall/Metamorphosis/cb35f76335563d22607e5d30d4df8d89/screenshots/image-3_624x573@1.png",
+    "https://dl.flathub.org/media/dev/deimoshall/Metamorphosis/cb35f76335563d22607e5d30d4df8d89/screenshots/image-4_624x573@1.png"
+   ]
+  },
+  "app.freelens.Freelens": {
+   "strona": "https://freelens.app/",
+   "kod": "https://github.com/freelensapp/freelens",
+   "screens": [
+    "https://dl.flathub.org/media/app/freelens/Freelens/150c0521caac53f500b3f25390e4aa53/screenshots/image-1_624x389@1.png",
+    "https://dl.flathub.org/media/app/freelens/Freelens/150c0521caac53f500b3f25390e4aa53/screenshots/image-2_624x389@1.png",
+    "https://dl.flathub.org/media/app/freelens/Freelens/150c0521caac53f500b3f25390e4aa53/screenshots/image-3_624x389@1.png"
+   ]
+  },
+  "org.archivekeep.ArchiveKeep": {
+   "strona": "https://archivekeep.org/",
+   "kod": "https://github.com/archivekeep/archivekeep",
+   "screens": [
+    "https://dl.flathub.org/media/org/archivekeep/ArchiveKeep/6c1002259663ca13da6276ad6b44dae5/screenshots/image-1_624x475@1.png"
+   ]
+  },
+  "org.gtkhash.gtkhash": {
+   "strona": "https://github.com/tristanheaven/gtkhash",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/gtkhash/gtkhash/49c89615496f8d924c110cc5350e4f3d/screenshots/image-1_orig.png"
+   ]
+  },
+  "dev.ensoft.ecode": {
+   "strona": "https://github.com/SpartanJ/ecode",
+   "kod": "https://github.com/SpartanJ/eepp/tree/develop/src/tools/ecode",
+   "screens": [
+    "https://dl.flathub.org/media/dev/ensoft/ecode/f9a1a88c35c21b951d490b3e43bc074f/screenshots/image-1_624x382@1.png"
+   ]
+  },
+  "so.libdb.dissent": {
+   "strona": "https://github.com/diamondburned/dissent",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/so/libdb/dissent/6f2160df0ac35357bc2e3637981b1f73/screenshots/image-1_624x488@1.png",
+    "https://dl.flathub.org/media/so/libdb/dissent/6f2160df0ac35357bc2e3637981b1f73/screenshots/image-2_624x488@1.png",
+    "https://dl.flathub.org/media/so/libdb/dissent/6f2160df0ac35357bc2e3637981b1f73/screenshots/image-3_624x488@1.png",
+    "https://dl.flathub.org/media/so/libdb/dissent/6f2160df0ac35357bc2e3637981b1f73/screenshots/image-4_624x488@1.png"
+   ]
+  },
+  "io.github.microgamercz.piki": {
+   "strona": "https://github.com/MicrogamerCz/Piki",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/microgamercz.piki/1af8428a98394d4fced2374c83e88284/screenshots/image-1_624x376@1.png",
+    "https://dl.flathub.org/media/io/github/microgamercz.piki/1af8428a98394d4fced2374c83e88284/screenshots/image-2_624x376@1.png",
+    "https://dl.flathub.org/media/io/github/microgamercz.piki/1af8428a98394d4fced2374c83e88284/screenshots/image-3_624x376@1.png"
+   ]
+  },
+  "me.iepure.devtoolbox": {
+   "strona": "https://github.com/aleiepure/devtoolbox",
+   "kod": "https://github.com/aleiepure/devtoolbox",
+   "screens": [
+    "https://dl.flathub.org/media/me/iepure/devtoolbox/640a058cc8ec23f49c5b63ac55b669d0/screenshots/image-1_624x457@1.png",
+    "https://dl.flathub.org/media/me/iepure/devtoolbox/640a058cc8ec23f49c5b63ac55b669d0/screenshots/image-2_624x457@1.png",
+    "https://dl.flathub.org/media/me/iepure/devtoolbox/640a058cc8ec23f49c5b63ac55b669d0/screenshots/image-3_624x457@1.png"
+   ]
+  },
+  "io.github.weiteck.Lyricade": {
+   "strona": "https://github.com/weiteck/lyricade",
+   "kod": "https://github.com/weiteck/lyricade",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/weiteck.Lyricade/d526076f376c994e181f73d6dd268b34/screenshots/image-1_624x436@1.png",
+    "https://dl.flathub.org/media/io/github/weiteck.Lyricade/d526076f376c994e181f73d6dd268b34/screenshots/image-2_624x436@1.png",
+    "https://dl.flathub.org/media/io/github/weiteck.Lyricade/d526076f376c994e181f73d6dd268b34/screenshots/image-3_624x445@1.png",
+    "https://dl.flathub.org/media/io/github/weiteck.Lyricade/d526076f376c994e181f73d6dd268b34/screenshots/image-4_624x720@1.png"
+   ]
+  },
+  "re.sonny.Junction": {
+   "strona": "https://junction.sonny.re",
+   "kod": "https://junction.sonny.re/source",
+   "screens": [
+    "https://dl.flathub.org/media/re/sonny/Junction/3fa4e62c80a58c23f128ba68cf1f58a4/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/re/sonny/Junction/3fa4e62c80a58c23f128ba68cf1f58a4/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/re/sonny/Junction/3fa4e62c80a58c23f128ba68cf1f58a4/screenshots/image-3_624x1209@1.png"
+   ]
+  },
+  "io.github.efogdev.mpris-timer": {
+   "strona": "https://github.com/efogdev/mpris-timer",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/efogdev.mpris-timer/d6380da26a6f7c4e95f3c467823ff108/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/io/github/efogdev.mpris-timer/d6380da26a6f7c4e95f3c467823ff108/screenshots/image-2_624x468@1.png",
+    "https://dl.flathub.org/media/io/github/efogdev.mpris-timer/d6380da26a6f7c4e95f3c467823ff108/screenshots/image-3_624x595@1.png",
+    "https://dl.flathub.org/media/io/github/efogdev.mpris-timer/d6380da26a6f7c4e95f3c467823ff108/screenshots/image-4_orig.png"
+   ]
+  },
+  "net.lugsole.bible_gui": {
+   "strona": "https://lugsole.net",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/net/lugsole/bible_gui.desktop/e0e1fc957cf64886db1b1503954f998e/screenshots/image-1_orig.png"
+   ]
+  },
+  "com.github.appadeia.Taigo": {
+   "strona": "https://github.com/pontaoski/taigo",
+   "kod": "https://github.com/pontaoski/taigo",
+   "screens": [
+    "https://dl.flathub.org/media/com/github/appadeia.Taigo.desktop/d66f725fd0fda47210162d981e68a485/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/com/github/appadeia.Taigo.desktop/d66f725fd0fda47210162d981e68a485/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/com/github/appadeia.Taigo.desktop/d66f725fd0fda47210162d981e68a485/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/com/github/appadeia.Taigo.desktop/d66f725fd0fda47210162d981e68a485/screenshots/image-4_orig.png"
+   ]
   }
  },
  "opisy": {
@@ -11951,6 +12088,108 @@
    "opis": "Zapisuje hasła w bazie KeePass. Obsługuje formaty 1 i 2. Działa na Androidzie.",
    "kategoria": "Prywatność i bezpieczeństwo",
    "zamiennik": "KeePass"
+  },
+  "flathub:dev.dergs.Tonearm": {
+   "haslo": "Odtwarzacz muzyki z wysoką jakością",
+   "opis": "Tonearm pozwala słuchać utworów w najlepszej jakości, odkrywać nowe kawałki i korzystać z funkcji odtwarzania w tle oraz bez przerw. Działa na Linuxie i integruje się z serwisami scrobblingu. Idealny dla miłośników muzyki, którzy cenią sobie prostotę i kontrolę.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": "TIDAL, Spotify"
+  },
+  "flathub:net.pokerth.PokerTH": {
+   "haslo": "Gra w Texas Hold'em online i offline",
+   "opis": "PokerTH to gra w Texas Hold'em, w której możesz rywalizować z komputerem lub innymi graczami przez internet lub w sieci LAN. Umożliwia zmianę wyglądu stołu i talii kart. Dla osób lubiących poker w wersji komputerowej.",
+   "kategoria": "Gry",
+   "zamiennik": "PokerStars, Zynga Poker"
+  },
+  "flathub:me.sanchezrodriguez.passes": {
+   "haslo": "Zarządzanie cyfrowymi biletami i kartami",
+   "opis": "Passes umożliwia przechowywanie biletów lotniczych, kuponów, kart lojalnościowych i innych dokumentów w formatach PKPass lub esPass. Aplikacja automatycznie dopasowuje się do różnych rozmiarów ekranów, więc działa na komputerze i telefonie.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:dev.deimoshall.Metamorphosis": {
+   "haslo": "Edytor metadanych obrazów",
+   "opis": "Metamorphosis pozwala edytować metadane w plikach graficznych, takich jak JPEG, PNG, HEIC, AVIF czy WebP. Przeciągnij i upuść pliki lub wklej je bezpośrednio do aplikacji. Działa na Linuxie.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "flathub:app.freelens.Freelens": {
+   "haslo": "IDE do zarządzania klastrami Kubernetes",
+   "opis": "Freelens to graficzne środowisko, które pozwala monitorować i zarządzać klastrami Kubernetes. Oferuje podgląd w czasie rzeczywistym, terminal wbudowany oraz możliwość dodawania rozszerzeń. Przeznaczone dla administratorów i programistów.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:org.archivekeep.ArchiveKeep": {
+   "haslo": "Bezpieczne archiwizowanie plików",
+   "opis": "ArchiveKeep umożliwia tworzenie identycznych kopii plików w wielu wybranych lokalizacjach, co zapewnia ich długotrwałe przechowywanie. Nie usuwa ani nie modyfikuje danych, a jedynie je replikuję. Dla osób dbających o bezpieczeństwo danych.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:org.gtkhash.gtkhash": {
+   "haslo": "Obliczanie sum kontrolnych plików",
+   "opis": "GtkHash pozwala szybko obliczyć sumy kontrolne (MD5, SHA1, SHA256, SHA512, CRC32) dla wybranych plików. Interfejs graficzny zastępuje polecenia wiersza poleceń. Przydatne przy weryfikacji integralności plików.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:dev.ensoft.ecode": {
+   "haslo": "Lekki edytor kodu z wysoką wydajnością",
+   "opis": "ecode to edytor kodu, który działa płynnie na nowoczesnym sprzęcie, wykorzystując przyspieszenie sprzętowe. Obsługuje wiele języków i jest rozwijany jako projekt wspierający bibliotekę eepp GUI. Dla programistów szukających szybkiego narzędzia.",
+   "kategoria": "Programowanie",
+   "zamiennik": ""
+  },
+  "flathub:so.libdb.dissent": {
+   "haslo": "Klient Discord z lekkim interfejsem",
+   "opis": "Dissent to alternatywny klient Discord dla Linuksa. Umożliwia czat tekstowy i głosowy, a także zarządzanie kanałami. Jest prosty i szybki, bez zbędnych funkcji oficjalnego klienta.",
+   "kategoria": "Komunikacja",
+   "zamiennik": "Discord"
+  },
+  "flathub:io.github.microgamercz.piki": {
+   "haslo": "Nieoficjalna aplikacja Pixiv",
+   "opis": "Piki pozwala przeglądać ilustracje i manga z Pixiv. Obsługuje wiele kont, umożliwia ustawianie obrazów jako tapety oraz zapisywanie ulubionych prac. Nie wymaga przeglądarki.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "flathub:me.iepure.devtoolbox": {
+   "haslo": "Zestaw narzędzi programistycznych",
+   "opis": "Dev Toolbox to kolekcja prostych w użyciu narzędzi dla programistów: konwerter JSON‑YAML, parser CRON, kompresor GZip, formatery kodu i wiele innych. Pomaga szybko znaleźć potrzebne funkcje.",
+   "kategoria": "Programowanie",
+   "zamiennik": ""
+  },
+  "flathub:io.github.weiteck.Lyricade": {
+   "haslo": "Pobieranie i zarządzanie tekstami piosenek",
+   "opis": "Lyricade skanuje bibliotekę muzyczną i pobiera brakujące teksty w formacie LRC lub TXT. Umożliwia wstawianie tekstów do metadanych lub jako osobne pliki. Pomaga utrzymać porządek w kolekcji muzycznej.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:re.sonny.Junction": {
+   "haslo": "Wybór aplikacji do otwierania plików",
+   "opis": "Junction pojawia się przy otwieraniu pliku lub linku, pozwalając wybrać, z jaką aplikacją go otworzyć. Obsługuje skróty klawiszowe, edycję URL i działania na prawym przycisku myszy. Ułatwia zarządzanie domyślnymi programami.",
+   "kategoria": "System",
+   "zamiennik": ""
+  },
+  "flathub:io.github.efogdev.mpris-timer": {
+   "haslo": "Timer z integracją media playera",
+   "opis": "Play Timer to prosty zegar, który działa jak odtwarzacz multimedialny. Umożliwia szybkie ustawienie timera, wyświetla powiadomienia i obsługuje sterowanie klawiszami. Idealny do krótkich przerw i pomiaru czasu.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:net.lugsole.bible_gui": {
+   "haslo": "Aplikacja z Biblią w wielu tłumaczeniach",
+   "opis": "Bible to prosty czytnik Biblii, obsługujący różne formaty plików i tłumaczenia. Pozwala na przeglądanie tekstów z różnych wersji i przechowywanie notatek.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:com.github.appadeia.Taigo": {
+   "haslo": "Wirtualny zwierzak na pulpicie",
+   "opis": "Taigo to wirtualne zwierzę, które trzeba pielęgnować na pulpicie. Umożliwia karmienie, czyszczenie i interakcję z nim. Dodaje element zabawy do codziennego użytkowania komputera.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:org.fcitx.Fcitx5": {
+   "haslo": "Systemowy framework do wprowadzania tekstu",
+   "opis": "Fcitx 5 pozwala pisać w dowolnym języku, wybierając spośród dodatków, które poprawiają komfort pisania. Jest przeznaczony dla użytkowników, którzy potrzebują elastycznego sposobu wprowadzania tekstu.",
+   "kategoria": "System",
+   "zamiennik": ""
   }
  }
 }
