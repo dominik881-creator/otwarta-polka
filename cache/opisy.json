@@ -6332,6 +6332,200 @@
     "https://dl.flathub.org/media/com/github/appadeia.Taigo.desktop/d66f725fd0fda47210162d981e68a485/screenshots/image-3_orig.png",
     "https://dl.flathub.org/media/com/github/appadeia.Taigo.desktop/d66f725fd0fda47210162d981e68a485/screenshots/image-4_orig.png"
    ]
+  },
+  "com.super_productivity.SuperProductivity": {
+   "strona": "https://super-productivity.com/",
+   "kod": "https://github.com/super-productivity/super-productivity/",
+   "screens": [
+    "https://dl.flathub.org/media/com/super_productivity/SuperProductivity/40c64363a49d56371e2d8540f37a10f7/screenshots/image-1_624x473@1.png",
+    "https://dl.flathub.org/media/com/super_productivity/SuperProductivity/40c64363a49d56371e2d8540f37a10f7/screenshots/image-2_624x473@1.png",
+    "https://dl.flathub.org/media/com/super_productivity/SuperProductivity/40c64363a49d56371e2d8540f37a10f7/screenshots/image-3_624x473@1.png",
+    "https://dl.flathub.org/media/com/super_productivity/SuperProductivity/40c64363a49d56371e2d8540f37a10f7/screenshots/image-4_624x473@1.png"
+   ]
+  },
+  "io.github.mezoahmedii.Picker": {
+   "strona": "https://github.com/mezoahmedii/picker",
+   "kod": "https://github.com/mezoahmedii/picker.git",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/mezoahmedii.Picker/8215c2c83dc3c677bf2f748ede4c5e43/screenshots/image-1_624x378@1.png",
+    "https://dl.flathub.org/media/io/github/mezoahmedii.Picker/8215c2c83dc3c677bf2f748ede4c5e43/screenshots/image-2_624x378@1.png"
+   ]
+  },
+  "im.bernard.Nostalgia": {
+   "strona": "https://gitlab.gnome.org/bertob/nostalgia",
+   "kod": "https://gitlab.gnome.org/bertob/nostalgia",
+   "screens": [
+    "https://dl.flathub.org/media/im/bernard/Nostalgia/29698db18194ced5dba454873858cfd8/screenshots/image-1_624x667@1.png"
+   ]
+  },
+  "xyz.parlatype.Parlatype": {
+   "strona": "https://www.parlatype.xyz",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/xyz/parlatype/Parlatype/9f1f01b543baa4e810c60238dbc0ccf0/screenshots/image-1_orig.png"
+   ]
+  },
+  "io.github.redddfoxxyy.pomolin": {
+   "strona": "https://lockedmutex.github.io/Pomolin",
+   "kod": "https://github.com/lockedmutex/Pomolin",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/redddfoxxyy.pomolin/a4f7facd1e14f65e53d09698c8517047/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/io/github/redddfoxxyy.pomolin/a4f7facd1e14f65e53d09698c8517047/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/io/github/redddfoxxyy.pomolin/a4f7facd1e14f65e53d09698c8517047/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/io/github/redddfoxxyy.pomolin/a4f7facd1e14f65e53d09698c8517047/screenshots/image-4_orig.png"
+   ]
+  },
+  "com.rafaelmardojai.WebfontKitGenerator": {
+   "strona": "https://apps.gnome.org/WebfontKitGenerator/",
+   "kod": "https://github.com/rafaelmardojai/webfont-kit-generator/",
+   "screens": [
+    "https://dl.flathub.org/media/com/rafaelmardojai/WebfontKitGenerator/871562e942ab4d777e51ad676c84dab5/screenshots/image-1_624x386@1.png",
+    "https://dl.flathub.org/media/com/rafaelmardojai/WebfontKitGenerator/871562e942ab4d777e51ad676c84dab5/screenshots/image-2_624x386@1.png",
+    "https://dl.flathub.org/media/com/rafaelmardojai/WebfontKitGenerator/871562e942ab4d777e51ad676c84dab5/screenshots/image-3_624x386@1.png",
+    "https://dl.flathub.org/media/com/rafaelmardojai/WebfontKitGenerator/871562e942ab4d777e51ad676c84dab5/screenshots/image-4_624x386@1.png"
+   ]
+  },
+  "org.pjbroad.EternallandsClient": {
+   "strona": "https://www.eternal-lands.com/",
+   "kod": "https://github.com/raduprv/Eternal-Lands",
+   "screens": [
+    "https://dl.flathub.org/media/org/pjbroad/EternallandsClient/ca2c09637390c428a9d3309def3544b9/screenshots/image-1_624x442@1.png",
+    "https://dl.flathub.org/media/org/pjbroad/EternallandsClient/ca2c09637390c428a9d3309def3544b9/screenshots/image-2_624x369@1.png",
+    "https://dl.flathub.org/media/org/pjbroad/EternallandsClient/ca2c09637390c428a9d3309def3544b9/screenshots/image-3_624x449@1.png"
+   ]
+  },
+  "studio.planetpeanut.Bobby": {
+   "strona": "https://apps.gnome.org/Bobby",
+   "kod": "https://github.com/hbons/Bobby",
+   "screens": [
+    "https://dl.flathub.org/media/s/st/studio.planetpeanut.bobby/4f567c08a15376d4e6ca452e696c780d/screenshots/image-1_624x426@1.png",
+    "https://dl.flathub.org/media/s/st/studio.planetpeanut.bobby/4f567c08a15376d4e6ca452e696c780d/screenshots/image-2_624x426@1.png",
+    "https://dl.flathub.org/media/s/st/studio.planetpeanut.bobby/4f567c08a15376d4e6ca452e696c780d/screenshots/image-3_624x426@1.png"
+   ]
+  },
+  "com.authormore.penpotdesktop": {
+   "strona": "https://github.com/author-more/penpot-desktop",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/com/authormore/penpotdesktop/b02873a2d874a4ead53f3d4484298434/screenshots/image-1_624x404@1.png",
+    "https://dl.flathub.org/media/com/authormore/penpotdesktop/b02873a2d874a4ead53f3d4484298434/screenshots/image-2_624x404@1.png"
+   ]
+  },
+  "org.gnome.Gtranslator": {
+   "strona": "https://gitlab.gnome.org/GNOME/gtranslator/",
+   "kod": "https://gitlab.gnome.org/GNOME/gtranslator",
+   "screens": [
+    "https://dl.flathub.org/media/org/gnome/Gtranslator/798833f57fc216c6654271d9e6a4bef1/screenshots/image-1_624x454@1.png"
+   ]
+  },
+  "net.ptilouk.superfluous": {
+   "strona": "https://studios.ptilouk.net/superfluous-returnz",
+   "kod": "https://framagit.org/Gee/sosage",
+   "screens": [
+    "https://dl.flathub.org/media/net/ptilouk/superfluous/88df73aa735465bad2f44c3bf25daf4a/screenshots/image-1_624x351@1.png",
+    "https://dl.flathub.org/media/net/ptilouk/superfluous/88df73aa735465bad2f44c3bf25daf4a/screenshots/image-2_624x351@1.png",
+    "https://dl.flathub.org/media/net/ptilouk/superfluous/88df73aa735465bad2f44c3bf25daf4a/screenshots/image-3_624x351@1.png"
+   ]
+  },
+  "dev.geopjr.Calligraphy": {
+   "strona": "https://calligraphy.geopjr.dev/",
+   "kod": "https://codeberg.org/GeopJr/Calligraphy",
+   "screens": [
+    "https://dl.flathub.org/media/dev/geopjr/Calligraphy/05a1a347d1ba49ad86767b2cff67d3ae/screenshots/image-1_624x457@1.png",
+    "https://dl.flathub.org/media/dev/geopjr/Calligraphy/05a1a347d1ba49ad86767b2cff67d3ae/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/dev/geopjr/Calligraphy/05a1a347d1ba49ad86767b2cff67d3ae/screenshots/image-3_624x387@1.png"
+   ]
+  },
+  "io.itch.amcsquad.amcsquad": {
+   "strona": "https://amcsquad.net/",
+   "kod": "https://github.com/dibollinger/amcduke32",
+   "screens": [
+    "https://dl.flathub.org/media/io/itch/amcsquad.amcsquad/c6a793cf105883a8cf2417f3747a8d0a/screenshots/image-1_624x351@1.png",
+    "https://dl.flathub.org/media/io/itch/amcsquad.amcsquad/c6a793cf105883a8cf2417f3747a8d0a/screenshots/image-2_624x399@1.png",
+    "https://dl.flathub.org/media/io/itch/amcsquad.amcsquad/c6a793cf105883a8cf2417f3747a8d0a/screenshots/image-3_624x351@1.png",
+    "https://dl.flathub.org/media/io/itch/amcsquad.amcsquad/c6a793cf105883a8cf2417f3747a8d0a/screenshots/image-4_624x351@1.png"
+   ]
+  },
+  "org.kde.knights": {
+   "strona": "https://apps.kde.org/knights",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/kde/knights/cc45e348ee328f92c7c1bc118283dbc8/screenshots/image-1_624x501@1.png",
+    "https://dl.flathub.org/media/org/kde/knights/cc45e348ee328f92c7c1bc118283dbc8/screenshots/image-2_624x340@1.png",
+    "https://dl.flathub.org/media/org/kde/knights/cc45e348ee328f92c7c1bc118283dbc8/screenshots/image-3_624x340@1.png",
+    "https://dl.flathub.org/media/org/kde/knights/cc45e348ee328f92c7c1bc118283dbc8/screenshots/image-4_624x310@1.png"
+   ]
+  },
+  "io.github.garglk.Gargoyle": {
+   "strona": "https://github.com/garglk/garglk",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/garglk.Gargoyle/22e2fb4673f5f3d0727a7072a706079f/screenshots/image-1_624x499@1.png",
+    "https://dl.flathub.org/media/io/github/garglk.Gargoyle/22e2fb4673f5f3d0727a7072a706079f/screenshots/image-2_624x613@1.png",
+    "https://dl.flathub.org/media/io/github/garglk.Gargoyle/22e2fb4673f5f3d0727a7072a706079f/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/io/github/garglk.Gargoyle/22e2fb4673f5f3d0727a7072a706079f/screenshots/image-4_orig.png"
+   ]
+  },
+  "io.github.gaheldev.Millisecond": {
+   "strona": "https://github.com/gaheldev/Millisecond",
+   "kod": "https://github.com/gaheldev/Millisecond",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/gaheldev.Millisecond/1f9bb683d4f1e22d4e0a17ce0dec75e7/screenshots/image-1_624x488@1.png",
+    "https://dl.flathub.org/media/io/github/gaheldev.Millisecond/1f9bb683d4f1e22d4e0a17ce0dec75e7/screenshots/image-2_624x488@1.png",
+    "https://dl.flathub.org/media/io/github/gaheldev.Millisecond/1f9bb683d4f1e22d4e0a17ce0dec75e7/screenshots/image-3_624x488@1.png"
+   ]
+  },
+  "io.github.AllanChain.sane-break": {
+   "strona": "https://github.com/AllanChain/sane-break/",
+   "kod": "https://github.com/AllanChain/sane-break/",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/AllanChain.sane-break/e9a32f1d7a4ee0a0ca6fc2f52388610d/screenshots/image-1_624x518@1.png",
+    "https://dl.flathub.org/media/io/github/AllanChain.sane-break/e9a32f1d7a4ee0a0ca6fc2f52388610d/screenshots/image-2_624x350@1.png"
+   ]
+  },
+  "com.ckardaris.Klisi": {
+   "strona": "https://gitlab.com/ckardaris/klisi",
+   "kod": "https://gitlab.com/ckardaris/klisi/-/tree/main",
+   "screens": [
+    "https://dl.flathub.org/media/com/ckardaris/Klisi/2ff8a86b941b6aed72d8f9098c57cb63/screenshots/image-1_624x347@1.png",
+    "https://dl.flathub.org/media/com/ckardaris/Klisi/2ff8a86b941b6aed72d8f9098c57cb63/screenshots/image-2_624x347@1.png",
+    "https://dl.flathub.org/media/com/ckardaris/Klisi/2ff8a86b941b6aed72d8f9098c57cb63/screenshots/image-3_624x347@1.png",
+    "https://dl.flathub.org/media/com/ckardaris/Klisi/2ff8a86b941b6aed72d8f9098c57cb63/screenshots/image-4_624x347@1.png"
+   ]
+  },
+  "org.astermail.Mail": {
+   "strona": "https://astermail.org",
+   "kod": "https://github.com/Aster-Privacy/Aster-Mail",
+   "screens": [
+    "https://dl.flathub.org/media/org/astermail/Mail/ab3b1c865feae5481a8b3b050c8d4363/screenshots/image-1_624x375@1.png",
+    "https://dl.flathub.org/media/org/astermail/Mail/ab3b1c865feae5481a8b3b050c8d4363/screenshots/image-2_624x375@1.png"
+   ]
+  },
+  "dev.mooday.squared": {
+   "strona": "https://dabrain34.pages.freedesktop.org/squared",
+   "kod": "https://gitlab.freedesktop.org/dabrain34/squared",
+   "screens": [
+    "https://dl.flathub.org/media/dev/mooday/squared/623db6faec69d3c0d1457189f3362c5a/screenshots/image-1_orig.png"
+   ]
+  },
+  "io.github.mrgilfy.leggio": {
+   "strona": "https://github.com/MrGilfy/leggio",
+   "kod": "https://github.com/MrGilfy/leggio",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/mrgilfy.leggio/30c6ca03146f6de96e4aa818b51a086f/screenshots/image-1_624x390@1.png",
+    "https://dl.flathub.org/media/io/github/mrgilfy.leggio/30c6ca03146f6de96e4aa818b51a086f/screenshots/image-2_624x351@1.png",
+    "https://dl.flathub.org/media/io/github/mrgilfy.leggio/30c6ca03146f6de96e4aa818b51a086f/screenshots/image-3_624x174@1.png"
+   ]
+  },
+  "io.github.vipaol.mobapp-game": {
+   "strona": "https://github.com/vipaol/mobapp-game",
+   "kod": "https://github.com/vipaol/mobapp-game",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/vipaol.mobapp-game/b996d49990ab707a3be32e2b96473ef6/screenshots/image-1_624x452@1.png",
+    "https://dl.flathub.org/media/io/github/vipaol.mobapp-game/b996d49990ab707a3be32e2b96473ef6/screenshots/image-2_624x452@1.png",
+    "https://dl.flathub.org/media/io/github/vipaol.mobapp-game/b996d49990ab707a3be32e2b96473ef6/screenshots/image-3_624x1109@1.png",
+    "https://dl.flathub.org/media/io/github/vipaol.mobapp-game/b996d49990ab707a3be32e2b96473ef6/screenshots/image-4_624x1109@1.png"
+   ]
   }
  },
  "opisy": {
@@ -12190,6 +12384,144 @@
    "opis": "Fcitx 5 pozwala pisać w dowolnym języku, wybierając spośród dodatków, które poprawiają komfort pisania. Jest przeznaczony dla użytkowników, którzy potrzebują elastycznego sposobu wprowadzania tekstu.",
    "kategoria": "System",
    "zamiennik": ""
+  },
+  "flathub:com.ckardaris.Klisi": {
+   "haslo": "Przeglądarka profili Callgrind",
+   "opis": "Klisi pozwala zobaczyć wyniki profilowania Callgrind w przyjaznym interfejsie. Używa GTK4 i motywu Adwaita. Dobrze sprawdza się przy analizie wydajności programów.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:org.astermail.Mail": {
+   "haslo": "Szyfrowany klient poczty",
+   "opis": "Aster Mail szyfruje wiadomości na urządzeniu, zanim trafią na serwer. Umożliwia korzystanie z aliasów i własnej domeny oraz wymianę szyfrowanych maili z użytkownikami PGP. Idealny dla osób dbających o prywatność.",
+   "kategoria": "Prywatność i bezpieczeństwo",
+   "zamiennik": "ProtonMail"
+  },
+  "flathub:dev.mooday.squared": {
+   "haslo": "Puzzle w kwadratowym siatce",
+   "opis": "Squared to gra logiczna, w której wypełniasz 5×5 lub 10×10 siatkę liczbami. Ruchy polegają na skokach o dwa pola w pionie/poziomie lub jeden w diagonalnym. Celem jest uzupełnienie całej planszy.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:io.github.mrgilfy.leggio": {
+   "haslo": "Odtwarzanie nut na ekranie",
+   "opis": "Leggio wyświetla pliki PDF z nutami w trybie pełnoekranowym, przycinając marginesy i umożliwiając szybkie przewijanie stron. Pozwala na tworzenie list utworów i wyszukiwanie po tytule czy kompozytorze.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:io.github.vipaol.mobapp-game": {
+   "haslo": "Arcade z fizyką i edytorem poziomów",
+   "opis": "Mobapp Game to minimalistyczna gra arcade z silnikiem fizyki Emini. Oferuje tryb nieskończony, poziomy zdefiniowane ręcznie oraz wbudowany edytor, dzięki któremu możesz tworzyć własne trasy.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:io.github.mezoahmedii.Picker": {
+   "haslo": "Losowy wybór z listy",
+   "opis": "Picker pozwala wybrać losowo element z podanej listy, np. danie na obiad czy aktywność. Proste i szybkie rozwiązanie, gdy nie wiesz, co zrobić.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:org.sasview.sasview": {
+   "haslo": "Analiza danych z rozpraszania małych kątów",
+   "opis": "SasView to pakiet do analizy danych SAS (Small Angle Scattering) w przestrzeni odwrotnej. Obsługuje dane neutronowe, rentgenowe oraz metody korelacji. Dostarcza narzędzia do obliczania gęstości i rozdzielczości.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:im.bernard.Nostalgia": {
+   "haslo": "Tło GNOME z przeszłości",
+   "opis": "Nostalgia umożliwia ustawienie tła pulpitu GNOME na obrazy z dawnych wersji systemu. Pozwala na przywołanie wspomnień i nostalgii związanych z historią GNOME.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:xyz.parlatype.Parlatype": {
+   "haslo": "Odtwarzacz audio do transkrypcji",
+   "opis": "Parlatype to prosty odtwarzacz, który pomaga w pisaniu transkrypcji mowy. Umożliwia kontrolę tempa i zatrzymywanie dźwięku, co ułatwia dokładne zapisywanie wypowiedzi. Jest przeznaczony dla dziennikarzy, badaczy i studentów.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:io.github.redddfoxxyy.pomolin": {
+   "haslo": "Minimalistyczny timer Pomodoro",
+   "opis": "Pomolin to prosty, elegancki timer, który pomaga skupić się na pracy. Ustawia cykle pracy i przerw, wyświetlając tylko niezbędne informacje. Idealny dla osób szukających czystego interfejsu.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:com.rafaelmardojai.WebfontKitGenerator": {
+   "haslo": "Tworzenie pakietów czcionek webowych",
+   "opis": "Webfont Bundler generuje pliki w formatach woff i woff2 oraz potrzebne style CSS z czcionek otf i ttf. Umożliwia także pobieranie czcionek z Google Fonts do własnego hostingu. Przydatne dla projektantów stron internetowych.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:org.pjbroad.EternallandsClient": {
+   "haslo": "Wolny MMORPG w 3D",
+   "opis": "Eternal Lands to darmowa gra fabularna online w trójwymiarowym świecie. Gracz rozwija postać, korzystając z 12 umiejętności, bez stałych klas. Gra jest dostępna na Windows, Android, Linux i macOS.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:studio.planetpeanut.Bobby": {
+   "haslo": "Przeglądarka baz danych SQLite",
+   "opis": "Bobby pozwala otwierać pliki .db i .sqlite oraz przeglądać tabele i widoki. Umożliwia wyszukiwanie, kopiowanie danych i łatwe zarządzanie bazą. Przydatne dla programistów i osób analizujących dane.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:com.authormore.penpotdesktop": {
+   "haslo": "Desktopowa wersja narzędzia do projektowania",
+   "opis": "Penpot Desktop to nieoficjalna aplikacja na komputer, która daje dostęp do funkcji Penpot w trybie offline. Obsługuje tryb ciemny, otwieranie projektów i integrację z różnymi serwerami.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "flathub:org.gnome.Gtranslator": {
+   "haslo": "Edytor plików tłumaczeń po",
+   "opis": "Gtranslator edytuje pliki po, które służą do tłumaczenia aplikacji. Umożliwia przeszukiwanie, zapamiętywanie tłumaczeń i łatwe poruszanie się po wiadomościach. Jest przeznaczony dla tłumaczy i programistów.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:net.ptilouk.superfluous": {
+   "haslo": "Humorystyczna przygodowa gra point-and-click",
+   "opis": "Superfluous Returnz to lekka gra przygodowa z kreskówkowymi grafikami. Gracz kontroluje beznadziejnego superbohatera w spokojnej wiosce, rozwiązując zagadki i interakcje z postaciami.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:dev.geopjr.Calligraphy": {
+   "haslo": "Tworzy duże napisy z ASCII",
+   "opis": "Program zamienia krótkie teksty w duże banery zbudowane z znaków ASCII. Można je kopiować lub zapisać jako obraz. Ułatwia dodanie efektu do wiadomości online.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.itch.amcsquad.amcsquad": {
+   "haslo": "FPS z historią na Build Engine",
+   "opis": "Gra w stylu retro‑shootera z fabułą rozciągniętą na kilka odcinków. Każdy rozdział to pełna kampania z różnymi lokacjami i sekretami. Oferuje klasyczne mechaniki strzelanek z nowoczesnym podejściem.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:org.kde.knights": {
+   "haslo": "Szachy na komputerze",
+   "opis": "Aplikacja do gry w szachy. Można grać lokalnie, przeciwko programowi lub online na serwerze. Obsługuje protokół XBoard i podświetla możliwe ruchy oraz ostatni ruch przeciwnika.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:io.github.garglk.Gargoyle": {
+   "haslo": "Odtwarzacz interaktywnej fikcji",
+   "opis": "Program obsługuje większość popularnych formatów gier tekstowych. Pozwala uruchamiać pliki z grami typu IF bez potrzeby instalowania osobnych interpreterów. Umożliwia czytanie i interakcję z historią w jednym miejscu.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:io.github.gaheldev.Millisecond": {
+   "haslo": "Diagnostyka niskich opóźnień audio",
+   "opis": "Aplikacja GTK+ pokazuje informacje o systemie i podpowiada, jak poprawić opóźnienie w produkcji dźwięku. Dostarcza linki do dokumentacji z linuxaudio wiki. Pomaga w optymalizacji ustawień.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.AllanChain.sane-break": {
+   "haslo": "Przypominacz o przerwach",
+   "opis": "Program przypomina o robieniu przerw w pracy. Działa na X11 i KDE Wayland, a także na GNOME. Pozwala kontrolować kiedy przerywać, aby przerwy były wartościowe, a nie przerywały pracy.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:com.super_productivity.SuperProductivity": {
+   "haslo": "Lista zadań i śledzenie czasu",
+   "opis": "Aplikacja do zarządzania zadaniami i pomiaru czasu pracy. Pracuje offline, bez konta. Umożliwia tworzenie list, kalendarza i tablic Kanban oraz integruje się z Jira, GitHub i Google Calendar.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": "Todoist"
   }
  }
 }
