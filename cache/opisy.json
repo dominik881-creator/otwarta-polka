@@ -6526,6 +6526,54 @@
     "https://dl.flathub.org/media/io/github/vipaol.mobapp-game/b996d49990ab707a3be32e2b96473ef6/screenshots/image-3_624x1109@1.png",
     "https://dl.flathub.org/media/io/github/vipaol.mobapp-game/b996d49990ab707a3be32e2b96473ef6/screenshots/image-4_624x1109@1.png"
    ]
+  },
+  "io.github.leolost2605.emergency-alerts": {
+   "strona": "https://github.com/leolost2605/emergency-alerts",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/leolost2605.emergency-alerts/f4677dae74e90534cc8e49ddab15e2af/screenshots/image-1_624x379@1.png",
+    "https://dl.flathub.org/media/io/github/leolost2605.emergency-alerts/f4677dae74e90534cc8e49ddab15e2af/screenshots/image-2_624x379@1.png",
+    "https://dl.flathub.org/media/io/github/leolost2605.emergency-alerts/f4677dae74e90534cc8e49ddab15e2af/screenshots/image-3_624x379@1.png",
+    "https://dl.flathub.org/media/io/github/leolost2605.emergency-alerts/f4677dae74e90534cc8e49ddab15e2af/screenshots/image-4_624x379@1.png"
+   ]
+  },
+  "io.gitlab.guillermop.Counters": {
+   "strona": "https://gitlab.com/guillermop/counters/",
+   "kod": "https://gitlab.com/guillermop/counters/",
+   "screens": [
+    "https://dl.flathub.org/media/io/gitlab/guillermop.Counters/dabb6c7dc11d6c49ed60d806a548b3e5/screenshots/image-1_624x545@1.png",
+    "https://dl.flathub.org/media/io/gitlab/guillermop.Counters/dabb6c7dc11d6c49ed60d806a548b3e5/screenshots/image-2_624x545@1.png"
+   ]
+  },
+  "org.kde.kontact": {
+   "strona": "https://kontact.kde.org/components/kontact/",
+   "kod": "https://invent.kde.org/pim/kontact",
+   "screens": [
+    "https://dl.flathub.org/media/org/kde/kontact/cd27cc769386f20aa72b8fd1b8f2a2d5/screenshots/image-1_624x351@1.png",
+    "https://dl.flathub.org/media/org/kde/kontact/cd27cc769386f20aa72b8fd1b8f2a2d5/screenshots/image-2_624x351@1.png",
+    "https://dl.flathub.org/media/org/kde/kontact/cd27cc769386f20aa72b8fd1b8f2a2d5/screenshots/image-3_624x403@1.png",
+    "https://dl.flathub.org/media/org/kde/kontact/cd27cc769386f20aa72b8fd1b8f2a2d5/screenshots/image-4_624x351@1.png"
+   ]
+  },
+  "org.kde.calligra": {
+   "strona": "https://www.calligra.org/words/",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/kde/calligra/1590353fe210a10773f97b4596f231e9/screenshots/image-1_624x433@1.png",
+    "https://dl.flathub.org/media/org/kde/calligra/1590353fe210a10773f97b4596f231e9/screenshots/image-2_624x428@1.png",
+    "https://dl.flathub.org/media/org/kde/calligra/1590353fe210a10773f97b4596f231e9/screenshots/image-3_624x388@1.png",
+    "https://dl.flathub.org/media/org/kde/calligra/1590353fe210a10773f97b4596f231e9/screenshots/image-4_624x398@1.png"
+   ]
+  },
+  "io.github.masakk1.press": {
+   "strona": "https://github.com/masakk1/press",
+   "kod": "https://github.com/masakk1/press",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/masakk1.press/91eb853a06e7bc5497a3dd947e5e3ac2/screenshots/image-1_624x512@1.png",
+    "https://dl.flathub.org/media/io/github/masakk1.press/91eb853a06e7bc5497a3dd947e5e3ac2/screenshots/image-2_624x477@1.png",
+    "https://dl.flathub.org/media/io/github/masakk1.press/91eb853a06e7bc5497a3dd947e5e3ac2/screenshots/image-3_624x477@1.png",
+    "https://dl.flathub.org/media/io/github/masakk1.press/91eb853a06e7bc5497a3dd947e5e3ac2/screenshots/image-4_orig.png"
+   ]
   }
  },
  "opisy": {
@@ -12522,6 +12570,48 @@
    "opis": "Aplikacja do zarządzania zadaniami i pomiaru czasu pracy. Pracuje offline, bez konta. Umożliwia tworzenie list, kalendarza i tablic Kanban oraz integruje się z Jira, GitHub i Google Calendar.",
    "kategoria": "Biuro i notatki",
    "zamiennik": "Todoist"
+  },
+  "flathub:io.github.leolost2605.emergency-alerts": {
+   "haslo": "Otrzymuj powiadomienia o zagrożeniach",
+   "opis": "Aplikacja wysyła alerty dla wybranych lokalizacji. Obsługuje powiadomienia o powodzi, pogodzie i nalotach powietrznych. Umożliwia szybkie podgląd i mapę wszystkich alertów",
+   "kategoria": "Internet i przeglądarki",
+   "zamiennik": ""
+  },
+  "flathub:com.cassidyjames.clairvoyant": {
+   "haslo": "Zadaj pytanie i otrzymaj odpowiedź",
+   "opis": "Program inspirowany Magic 8-ball. Użytkownik wpisuje pytanie, a aplikacja zwraca losową odpowiedź. Nie wymaga połączenia z internetem.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:io.gitlab.guillermop.Counters": {
+   "haslo": "Zliczaj dowolne rzeczy",
+   "opis": "Twórz liczniki, ustaw cele i śledź postępy. Liczniki mogą resetować się codziennie, tygodniowo itp. Dane można wyeksportować do pliku CSV.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.fizzyizzy05.binary": {
+   "haslo": "Konwertuj liczby między systemami",
+   "opis": "Aplikacja konwertuje liczby z systemu dziesiętnego na binarny i szesnastkowy oraz odwrotnie. Prosty interfejs, brak dodatkowych funkcji.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:org.kde.kontact": {
+   "haslo": "Zarządzaj e‑mailami, kalendarzem i kontaktami w jednym",
+   "opis": "Zbiera wszystkie narzędzia do obsługi poczty, kalendarza i kontaktów w jednym oknie. Ułatwia organizację dnia i współpracę z kolegami.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:org.kde.calligra": {
+   "haslo": "Pakiet biurowy i grafiki",
+   "opis": "Zawiera edytor tekstu, arkusz kalkulacyjny, prezentacje i grafikę wektorową. Pozwala tworzyć dokumenty, tabele i projekty graficzne.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:io.github.masakk1.press": {
+   "haslo": "Kompresuj całą bibliotekę muzyczną",
+   "opis": "Zapisuje muzykę w wybranej jakości przy pomocy gotowych presetów. Obsługuje wiele formatów audio dzięki GStreamer. Łatwy w obsłudze.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
   }
  }
 }
