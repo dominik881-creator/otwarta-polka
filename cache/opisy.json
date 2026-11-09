@@ -6574,6 +6574,149 @@
     "https://dl.flathub.org/media/io/github/masakk1.press/91eb853a06e7bc5497a3dd947e5e3ac2/screenshots/image-3_624x477@1.png",
     "https://dl.flathub.org/media/io/github/masakk1.press/91eb853a06e7bc5497a3dd947e5e3ac2/screenshots/image-4_orig.png"
    ]
+  },
+  "io.github.lavenderdotpet.LibreQuake": {
+   "strona": "https://librequake.queer.sh/",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/lavenderdotpet.LibreQuake/4ba30065356eec974d76b58c322bfbed/screenshots/image-1_624x468@1.png",
+    "https://dl.flathub.org/media/io/github/lavenderdotpet.LibreQuake/4ba30065356eec974d76b58c322bfbed/screenshots/image-2_624x468@1.png",
+    "https://dl.flathub.org/media/io/github/lavenderdotpet.LibreQuake/4ba30065356eec974d76b58c322bfbed/screenshots/image-3_624x468@1.png",
+    "https://dl.flathub.org/media/io/github/lavenderdotpet.LibreQuake/4ba30065356eec974d76b58c322bfbed/screenshots/image-4_624x468@1.png"
+   ]
+  },
+  "page.codeberg.grinka.Transition": {
+   "strona": "https://codeberg.org/grinka/transition",
+   "kod": "https://codeberg.org/grinka/transition",
+   "screens": [
+    "https://dl.flathub.org/media/page/codeberg/grinka.Transition/89924aa6a8353d0f6575c8143be44eef/screenshots/image-1_624x582@1.png",
+    "https://dl.flathub.org/media/page/codeberg/grinka.Transition/89924aa6a8353d0f6575c8143be44eef/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/page/codeberg/grinka.Transition/89924aa6a8353d0f6575c8143be44eef/screenshots/image-3_orig.png"
+   ]
+  },
+  "io.github.tobagin.keysmith": {
+   "strona": "https://github.com/tobagin/keymaker",
+   "kod": "https://github.com/tobagin/keymaker",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/tobagin.keysmith/18c731a05df1fb65c843c8e0c743077f/screenshots/image-1_624x458@1.png",
+    "https://dl.flathub.org/media/io/github/tobagin.keysmith/18c731a05df1fb65c843c8e0c743077f/screenshots/image-2_624x458@1.png",
+    "https://dl.flathub.org/media/io/github/tobagin.keysmith/18c731a05df1fb65c843c8e0c743077f/screenshots/image-3_624x458@1.png",
+    "https://dl.flathub.org/media/io/github/tobagin.keysmith/18c731a05df1fb65c843c8e0c743077f/screenshots/image-4_624x458@1.png"
+   ]
+  },
+  "org.kde.qrca": {
+   "strona": "https://apps.kde.org/en/qrca",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/kde/qrca/e18a30b60f779d634e622f7aa995f323/screenshots/image-1_624x863@1.png",
+    "https://dl.flathub.org/media/org/kde/qrca/e18a30b60f779d634e622f7aa995f323/screenshots/image-2_624x857@1.png"
+   ]
+  },
+  "io.github.shonebinu.Glyph": {
+   "strona": "https://github.com/shonebinu/Lipi",
+   "kod": "https://github.com/shonebinu/Lipi",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/shonebinu.Glyph/77a027abd1667368434a49d16c939f4e/screenshots/image-1_624x456@1.png",
+    "https://dl.flathub.org/media/io/github/shonebinu.Glyph/77a027abd1667368434a49d16c939f4e/screenshots/image-2_624x456@1.png",
+    "https://dl.flathub.org/media/io/github/shonebinu.Glyph/77a027abd1667368434a49d16c939f4e/screenshots/image-3_624x456@1.png",
+    "https://dl.flathub.org/media/io/github/shonebinu.Glyph/77a027abd1667368434a49d16c939f4e/screenshots/image-4_624x1080@1.png"
+   ]
+  },
+  "org.kde.kclock": {
+   "strona": "https://apps.kde.org/kclock/",
+   "kod": "https://invent.kde.org/utilities/kclock",
+   "screens": [
+    "https://dl.flathub.org/media/org/kde/kclock/b6fcb9374b39825ba4192a1db69de183/screenshots/image-1_624x1248@1.png",
+    "https://dl.flathub.org/media/org/kde/kclock/b6fcb9374b39825ba4192a1db69de183/screenshots/image-2_624x514@1.png",
+    "https://dl.flathub.org/media/org/kde/kclock/b6fcb9374b39825ba4192a1db69de183/screenshots/image-3_624x1248@1.png",
+    "https://dl.flathub.org/media/org/kde/kclock/b6fcb9374b39825ba4192a1db69de183/screenshots/image-4_624x514@1.png"
+   ]
+  },
+  "org.kde.kwrite": {
+   "strona": "https://kate-editor.org/",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/kde/kwrite.desktop/b5f627a945426b7263543dbe972e17d9/screenshots/image-1_624x513@1.png"
+   ]
+  },
+  "io.github.teacond.Morse": {
+   "strona": "https://github.com/teacond/Morse",
+   "kod": "https://github.com/teacond/Morse",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/teacond.Morse/838bd38bd08244b00f48874e623fe09b/screenshots/image-1_624x416@1.png",
+    "https://dl.flathub.org/media/io/github/teacond.Morse/838bd38bd08244b00f48874e623fe09b/screenshots/image-2_624x416@1.png"
+   ]
+  },
+  "io.github.shonebinu.Brief": {
+   "strona": "https://github.com/shonebinu/Brief",
+   "kod": "https://github.com/shonebinu/Brief",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/shonebinu.Brief/dc388cfa123fbfbb1124bb56473e4071/screenshots/image-1_624x436@1.png",
+    "https://dl.flathub.org/media/io/github/shonebinu.Brief/dc388cfa123fbfbb1124bb56473e4071/screenshots/image-2_624x436@1.png",
+    "https://dl.flathub.org/media/io/github/shonebinu.Brief/dc388cfa123fbfbb1124bb56473e4071/screenshots/image-3_624x436@1.png",
+    "https://dl.flathub.org/media/io/github/shonebinu.Brief/dc388cfa123fbfbb1124bb56473e4071/screenshots/image-4_orig.png"
+   ]
+  },
+  "org.kde.iconexplorer": {
+   "strona": "https://kde.org/plasma-desktop",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/kde/iconexplorer/2ee2ccfbb373eb95ea9a4ee30a89b223/screenshots/image-1_624x472@1.png"
+   ]
+  },
+  "io.github.heidefinnischen.cuneo": {
+   "strona": "https://github.com/heidefinnischen/cuneo",
+   "kod": "https://github.com/heidefinnischen/cuneo",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/heidefinnischen.cuneo/4392ddf15a533ca07f68fdf9de8a115c/screenshots/image-1_624x168@1.png",
+    "https://dl.flathub.org/media/io/github/heidefinnischen.cuneo/4392ddf15a533ca07f68fdf9de8a115c/screenshots/image-2_624x465@1.png",
+    "https://dl.flathub.org/media/io/github/heidefinnischen.cuneo/4392ddf15a533ca07f68fdf9de8a115c/screenshots/image-3_624x465@1.png",
+    "https://dl.flathub.org/media/io/github/heidefinnischen.cuneo/4392ddf15a533ca07f68fdf9de8a115c/screenshots/image-4_624x413@1.png"
+   ]
+  },
+  "io.github.lloura.DuelPy": {
+   "strona": "https://github.com/lloura/DuelPy",
+   "kod": "https://github.com/lloura/DuelPy",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/lloura.DuelPy/552cd3a46523863e9844329934414a1f/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/io/github/lloura.DuelPy/552cd3a46523863e9844329934414a1f/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/io/github/lloura.DuelPy/552cd3a46523863e9844329934414a1f/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/io/github/lloura.DuelPy/552cd3a46523863e9844329934414a1f/screenshots/image-4_orig.png"
+   ]
+  },
+  "org.kde.kcachegrind": {
+   "strona": "https://kde.org/applications/development/kcachegrind/",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/kde/kcachegrind.desktop/404288f6ba7c694f871e63fe1138b52d/screenshots/image-1_624x340@1.png"
+   ]
+  },
+  "nl.g4d.Girens": {
+   "strona": "https://gitlab.gnome.org/tijder/girens",
+   "kod": "https://gitlab.gnome.org/tijder/girens",
+   "screens": [
+    "https://dl.flathub.org/media/nl/g4d/Girens/a9fd87b34f58e3f0d6f725d9ab5281e3/screenshots/image-1_624x356@1.png",
+    "https://dl.flathub.org/media/nl/g4d/Girens/a9fd87b34f58e3f0d6f725d9ab5281e3/screenshots/image-2_624x356@1.png",
+    "https://dl.flathub.org/media/nl/g4d/Girens/a9fd87b34f58e3f0d6f725d9ab5281e3/screenshots/image-3_624x356@1.png"
+   ]
+  },
+  "com.jeffser.Nocturne": {
+   "strona": "https://jeffser.com/nocturne",
+   "kod": "https://github.com/Jeffser/Nocturne",
+   "screens": [
+    "https://dl.flathub.org/media/com/jeffser/Nocturne/371f509f772c5d75114e1e9531907152/screenshots/image-1_624x445@1.png",
+    "https://dl.flathub.org/media/com/jeffser/Nocturne/371f509f772c5d75114e1e9531907152/screenshots/image-2_624x445@1.png",
+    "https://dl.flathub.org/media/com/jeffser/Nocturne/371f509f772c5d75114e1e9531907152/screenshots/image-3_624x445@1.png",
+    "https://dl.flathub.org/media/com/jeffser/Nocturne/371f509f772c5d75114e1e9531907152/screenshots/image-4_624x445@1.png"
+   ]
+  },
+  "io.github.oneydef.eara": {
+   "strona": "https://oneydef.github.io/EarA-linux/",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/oneydef.eara/8c30e591c19e734597dd22484afcc678/screenshots/image-1_624x356@1.png",
+    "https://dl.flathub.org/media/io/github/oneydef.eara/8c30e591c19e734597dd22484afcc678/screenshots/image-2_624x370@1.png"
+   ]
   }
  },
  "opisy": {
@@ -12612,6 +12755,96 @@
    "opis": "Zapisuje muzykę w wybranej jakości przy pomocy gotowych presetów. Obsługuje wiele formatów audio dzięki GStreamer. Łatwy w obsłudze.",
    "kategoria": "Muzyka i wideo",
    "zamiennik": ""
+  },
+  "flathub:io.github.oneydef.eara": {
+   "haslo": "Steruj słuchawkami Nothing na Linuxie",
+   "opis": "EarA pozwala kontrolować baterię, ANC, EQ i gesty słuchawek Nothing oraz CMF. Umożliwia test dopasowania końcówek i wyszukiwanie urządzenia. Działa z GTK4 i wierszem poleceń.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.lavenderdotpet.LibreQuake": {
+   "haslo": "Wolny silnik do gier typu Quake",
+   "opis": "LibreQuake dostarcza darmowe zasoby i mapy do gier w stylu Quake. Sam w sobie nie jest grą, lecz potrzebny do uruchomienia silnika. Pozwala odtwarzać setki starych poziomów i modyfikacji.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:page.codeberg.grinka.Transition": {
+   "haslo": "Konwerter multimediów na dźwięk",
+   "opis": "Transition zamienia filmy i inne pliki multimedialne na formaty audio: OGG, MP3, FLAC, WAV. Obsługuje duże kolekcje plików i oferuje kilka opcji wyjścia.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:io.github.tobagin.keysmith": {
+   "haslo": "Zarządzanie kluczami SSH bez terminala",
+   "opis": "Keymaker pozwala tworzyć, przeglądać i wdrażać klucze SSH. Obsługuje typy Ed25519, RSA i ECDSA oraz zmianę haseł. Kopiuje klucz publiczny do schowka i usuwa niepotrzebne klucze bezpiecznie.",
+   "kategoria": "Prywatność i bezpieczeństwo",
+   "zamiennik": ""
+  },
+  "flathub:org.kde.qrca": {
+   "haslo": "Skanuj i twórz kody QR",
+   "opis": "Qrca umożliwia odczytywanie kodów QR za pomocą kamery oraz tworzenie własnych kodów do udostępniania danych między urządzeniami.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.shonebinu.Glyph": {
+   "haslo": "Instaluj czcionki z Google Fonts",
+   "opis": "Lipi pozwala przeglądać, podglądać i instalować tysiące czcionek bezpośrednio z repozytorium Google Fonts. Można testować czcionki z własnym tekstem i sprawdzić licencję.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "flathub:org.kde.kclock": {
+   "haslo": "Uniwersalny zegar z alarmami",
+   "opis": "Clock oferuje zegar, stoper, światowy zegar oraz alarmy i timery. Alarmy mogą wybudzić urządzenie z trybu uśpienia. Dostępny na komputerach i telefonach.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:org.kde.kwrite": {
+   "haslo": "Edytor tekstu z podświetleniem składni",
+   "opis": "KWrite to prosty edytor tekstu z funkcjami podświetlenia składni, automatycznego wcięcia i wtyczek. Obsługuje tryb Vi i uzupełnianie słów.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:io.github.teacond.Morse": {
+   "haslo": "Nauka kodu Morse'a",
+   "opis": "Aplikacja do nauki kodu Morse'a i szybkiego telegrafii. Umożliwia ćwiczenia i testy dla osób chcących poznać lub utrwalić ten system. Nie wymaga połączenia z internetem.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:io.github.shonebinu.Brief": {
+   "haslo": "Przeglądarka cheat sheetów",
+   "opis": "Pozwala przeglądać i wyszukiwać skróty poleceń wiersza poleceń. Działa offline, obsługuje wiele platform i języków. Ułatwia szybkie odnalezienie składni polecenia.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:org.kde.iconexplorer": {
+   "haslo": "Podgląd ikon",
+   "opis": "Aplikacja dla grafików i programistów, pozwalająca podglądać i wybierać ikony w ich naturalnym wyglądzie. Filtruje po nazwie i kategorii. Dostępny plugin do edytorów KDevelop i Kate.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.heidefinnischen.cuneo": {
+   "haslo": "Przenośny kalkulator i konwerter",
+   "opis": "Lekki kalkulator z funkcjami konwersji jednostek, działający w trybie widgetu. Idealny do użycia nad otwartym oknem, by nie blokować pracy. Nie wymaga instalacji dodatkowych bibliotek.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.lloura.DuelPy": {
+   "haslo": "Gra w Ruchy Ręczne",
+   "opis": "Wersja komputerowa klasycznych gier ręcznych, takich jak Kamień, Papier, Nożyce, z dodatkowymi wariantami. Gra w trybie pojedynczym, z wizualnymi wskazówkami i responsywnym interfejsem.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:org.kde.kcachegrind": {
+   "haslo": "Wizualizacja profili programów",
+   "opis": "Narzędzie do analizy wydajności programów. Pokazuje wykresy i drzewa wywołań, pomagając znaleźć najwolniejsze fragmenty kodu. Ładuje profile z narzędzi takich jak Valgrind.",
+   "kategoria": "Programowanie",
+   "zamiennik": ""
+  },
+  "flathub:nl.g4d.Girens": {
+   "haslo": "Odtwarzacz Plex na Linux",
+   "opis": "Klient do odtwarzania multimediów z serwera Plex. Obsługuje muzykę, filmy i seriale. Interfejs oparty na GTK, prosty w obsłudze.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": "Plex"
   }
  }
 }
