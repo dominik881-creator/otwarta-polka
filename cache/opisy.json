@@ -12845,6 +12845,12 @@
    "opis": "Klient do odtwarzania multimediów z serwera Plex. Obsługuje muzykę, filmy i seriale. Interfejs oparty na GTK, prosty w obsłudze.",
    "kategoria": "Muzyka i wideo",
    "zamiennik": "Plex"
+  },
+  "flathub:com.jeffser.Nocturne": {
+   "haslo": "Zarządzaj muzyką w jednym miejscu",
+   "opis": "Nocturne to klient muzyczny, który łączy lokalne pliki z serwisami takimi jak Jellyfin, OpenSubsonic, Bandcamp. Umożliwia przeglądanie utworów, artystów, albumów, radia i playlist oraz pobieranie tekstów piosenek. Wbudowany equalizer i wizualizator dźwięku ułatwiają słuchanie.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
   }
  }
 }
