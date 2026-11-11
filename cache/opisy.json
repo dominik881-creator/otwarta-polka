@@ -6717,6 +6717,91 @@
     "https://dl.flathub.org/media/io/github/oneydef.eara/8c30e591c19e734597dd22484afcc678/screenshots/image-1_624x356@1.png",
     "https://dl.flathub.org/media/io/github/oneydef.eara/8c30e591c19e734597dd22484afcc678/screenshots/image-2_624x370@1.png"
    ]
+  },
+  "io.github.zefr0x.hashes": {
+   "strona": "https://github.com/zefr0x/hashes",
+   "kod": "https://github.com/zefr0x/hashes",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/zefr0x.hashes/7c706fb8c329a4f8da02046ba471b2cc/screenshots/image-1_624x457@1.png",
+    "https://dl.flathub.org/media/io/github/zefr0x.hashes/7c706fb8c329a4f8da02046ba471b2cc/screenshots/image-2_624x457@1.png",
+    "https://dl.flathub.org/media/io/github/zefr0x.hashes/7c706fb8c329a4f8da02046ba471b2cc/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/io/github/zefr0x.hashes/7c706fb8c329a4f8da02046ba471b2cc/screenshots/image-4_orig.png"
+   ]
+  },
+  "page.codeberg.sesivany.Meshy": {
+   "strona": "https://codeberg.org/sesivany/meshy",
+   "kod": "https://codeberg.org/sesivany/meshy",
+   "screens": [
+    "https://dl.flathub.org/media/page/codeberg/sesivany.Meshy/8fc79ee5b4002ff7816827e241c62e82/screenshots/image-1_624x467@1.png",
+    "https://dl.flathub.org/media/page/codeberg/sesivany.Meshy/8fc79ee5b4002ff7816827e241c62e82/screenshots/image-2_624x467@1.png",
+    "https://dl.flathub.org/media/page/codeberg/sesivany.Meshy/8fc79ee5b4002ff7816827e241c62e82/screenshots/image-3_624x467@1.png",
+    "https://dl.flathub.org/media/page/codeberg/sesivany.Meshy/8fc79ee5b4002ff7816827e241c62e82/screenshots/image-4_624x467@1.png"
+   ]
+  },
+  "com.steamgriddb.steam-rom-manager": {
+   "strona": "https://steamgriddb.github.io/steam-rom-manager",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/com/steamgriddb/steam-rom-manager/0bcf386446a9818d7a09d7122d77cb83/screenshots/image-1_624x373@1.png"
+   ]
+  },
+  "de.hummdudel.Libellus": {
+   "strona": "https://libellus.hummdudel.de",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/de/hummdudel/Libellus/38a8baa4419b96c685a0c49574771cca/screenshots/image-1_624x570@1.png",
+    "https://dl.flathub.org/media/de/hummdudel/Libellus/38a8baa4419b96c685a0c49574771cca/screenshots/image-2_624x619@1.png",
+    "https://dl.flathub.org/media/de/hummdudel/Libellus/38a8baa4419b96c685a0c49574771cca/screenshots/image-3_624x667@1.png",
+    "https://dl.flathub.org/media/de/hummdudel/Libellus/38a8baa4419b96c685a0c49574771cca/screenshots/image-4_624x659@1.png"
+   ]
+  },
+  "jp.nonbili.meron": {
+   "strona": "https://meron.im",
+   "kod": "https://github.com/nonbili/meron",
+   "screens": [
+    "https://dl.flathub.org/media/jp/nonbili/meron/595932f3448add64ca328a9dc61016c6/screenshots/image-1_624x400@1.png",
+    "https://dl.flathub.org/media/jp/nonbili/meron/595932f3448add64ca328a9dc61016c6/screenshots/image-2_624x400@1.png",
+    "https://dl.flathub.org/media/jp/nonbili/meron/595932f3448add64ca328a9dc61016c6/screenshots/image-3_624x400@1.png",
+    "https://dl.flathub.org/media/jp/nonbili/meron/595932f3448add64ca328a9dc61016c6/screenshots/image-4_624x400@1.png"
+   ]
+  },
+  "com.github.jms55.Sandbox": {
+   "strona": "https://github.com/JMS55/sandbox",
+   "kod": "https://github.com/JMS55/sandbox",
+   "screens": [
+    "https://dl.flathub.org/media/com/github/jms55.Sandbox/c38d13cb36d7a48985924dfd6304ac55/screenshots/image-1_624x369@1.png"
+   ]
+  },
+  "com.gitlab.bitseater.meteo": {
+   "strona": "https://gitlab.com/bitseater/meteo",
+   "kod": "https://gitlab.com/bitseater/meteo",
+   "screens": [
+    "https://dl.flathub.org/media/com/gitlab/bitseater.meteo.desktop/d9293903b551f659e7b8bd2fa5ff91e6/screenshots/image-1_624x415@1.png",
+    "https://dl.flathub.org/media/com/gitlab/bitseater.meteo.desktop/d9293903b551f659e7b8bd2fa5ff91e6/screenshots/image-2_624x415@1.png",
+    "https://dl.flathub.org/media/com/gitlab/bitseater.meteo.desktop/d9293903b551f659e7b8bd2fa5ff91e6/screenshots/image-3_624x415@1.png",
+    "https://dl.flathub.org/media/com/gitlab/bitseater.meteo.desktop/d9293903b551f659e7b8bd2fa5ff91e6/screenshots/image-4_624x415@1.png"
+   ]
+  },
+  "com.helix_editor.Helix": {
+   "strona": "https://helix-editor.com/",
+   "kod": "https://github.com/helix-editor/helix",
+   "screens": [
+    "https://dl.flathub.org/media/com/helix_editor/Helix/1bf0f2310f614e9f1258364526c2d3ba/screenshots/image-1_624x471@1.png"
+   ]
+  },
+  "org.kde.kalk": {
+   "strona": "https://apps.kde.org/kalk/",
+   "kod": "https://invent.kde.org/utilities/kalk",
+   "screens": [
+    "https://dl.flathub.org/media/org/kde/kalk/7dddb5c93d7cc887f8fa84e8c7833dad/screenshots/image-1_orig.png"
+   ]
+  },
+  "com.gooseberrydevelopment.pinepods": {
+   "strona": "https://github.com/madeofpendletonwool/PinePods",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/com/gooseberrydevelopment/pinepods/293337d16591ee45e6da47693e96b34f/screenshots/image-1_624x610@1.png"
+   ]
   }
  },
  "opisy": {
@@ -12851,6 +12936,66 @@
    "opis": "Nocturne to klient muzyczny, który łączy lokalne pliki z serwisami takimi jak Jellyfin, OpenSubsonic, Bandcamp. Umożliwia przeglądanie utworów, artystów, albumów, radia i playlist oraz pobieranie tekstów piosenek. Wbudowany equalizer i wizualizator dźwięku ułatwiają słuchanie.",
    "kategoria": "Muzyka i wideo",
    "zamiennik": ""
+  },
+  "flathub:io.github.zefr0x.hashes": {
+   "haslo": "Rozpoznawanie algorytmów haszujących",
+   "opis": "Umożliwia sprawdzenie, jaki algorytm haszujący został użyty w danym ciągu znaków. Pomaga w analizie bezpieczeństwa i debugowaniu. Wyróżnia się aktualną bazą danych najpopularniejszych hashów.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:page.codeberg.sesivany.Meshy": {
+   "haslo": "Klient sieci MeshCore LoRa",
+   "opis": "Pozwala na łączność z urządzeniami MeshCore LoRa przez Bluetooth, USB lub TCP. Umożliwia szyfrowane wiadomości, zarządzanie kontaktami i monitorowanie sieci. Wyróżnia się interaktywną mapą i obsługą kanałów publicznych, prywatnych i hashtagowych.",
+   "kategoria": "Komunikacja",
+   "zamiennik": ""
+  },
+  "flathub:com.steamgriddb.steam-rom-manager": {
+   "haslo": "Importowanie i zarządzanie ROM-ami w Steamie",
+   "opis": "Dodaje gry z innych platform (np. Epic, GOG) do biblioteki Steam w partiach i pozwala na zarządzanie grafiką. Ułatwia organizację i wyświetlanie ikon oraz tła w Steamie.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:de.hummdudel.Libellus": {
+   "haslo": "Przeglądarka informacji D&D 5e",
+   "opis": "Pozwala na przeglądanie i czytanie danych z D&D 5e w stylu wiki. Obsługuje klasy, rasy, zaklęcia, przedmioty i potwory. Dane są przechowywane lokalnie, a obrazy pobierane automatycznie.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:jp.nonbili.meron": {
+   "haslo": "Klient poczty z widokiem kanban i czatu",
+   "opis": "Obsługuje IMAP/SMTP oraz kanały RSS/Atom. Posiada widoki kanban i czatu, szyfrowane przechowywanie danych oraz integrację z menedżerem kluczy systemowych. Umożliwia łatwe ustawienia i obsługę wielu języków.",
+   "kategoria": "Komunikacja",
+   "zamiennik": ""
+  },
+  "flathub:com.github.jms55.Sandbox": {
+   "haslo": "Symulacja piasku w grze",
+   "opis": "Gra symulacyjna, w której można manipulować piaskiem przy pomocy klawiatury. Dostępne są różne tryby i kontrolki. Wyróżnia się prostym interfejsem i możliwością eksperymentowania.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:com.gitlab.bitseater.meteo": {
+   "haslo": "Prognoza pogody z mapami",
+   "opis": "Pokazuje aktualną pogodę, prognozy na najbliższe godziny i dni oraz interaktywne mapy. Umożliwia wybór jednostek miary i wyświetlanie informacji w zasobniku systemowym.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:com.helix_editor.Helix": {
+   "haslo": "Edytor tekstu w terminalu",
+   "opis": "Terminalowy edytor inspirowany Vimem i Kakoune. Posiada tryb modalny, wielokrotne zaznaczenia i wbudowaną obsługę serwerów językowych. Umożliwia inteligentne podświetlanie składni.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:org.kde.kalk": {
+   "haslo": "Kalk to wielofunkcyjny kalkulator",
+   "opis": "Kalk jest kalkulatorem przeznaczonym dla środowiska Plasma. Umożliwia wykonywanie obliczeń matematycznych i naukowych. Działa na systemach Linux.",
+   "kategoria": "Narzędzia",
+   "zamiennik": "Windows Calculator"
+  },
+  "flathub:com.gooseberrydevelopment.pinepods": {
+   "haslo": "Pinepods to samodzielny system zarządzania podcastami",
+   "opis": "Pinepods pozwala na subskrypcję i odtwarzanie podcastów z centralnego serwera. Obsługuje wielu użytkowników i synchronizację między urządzeniami. Jest dostępny w przeglądarce i na urządzeniach mobilnych.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": "Pocket Casts"
   }
  }
 }
