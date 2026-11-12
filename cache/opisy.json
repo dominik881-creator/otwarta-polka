@@ -6802,6 +6802,132 @@
    "screens": [
     "https://dl.flathub.org/media/com/gooseberrydevelopment/pinepods/293337d16591ee45e6da47693e96b34f/screenshots/image-1_624x610@1.png"
    ]
+  },
+  "me.kozec.syncthingtk": {
+   "strona": "https://github.com/syncthing/syncthing-gtk/",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/me/kozec/syncthingtk/3f4e241590e75d0c505da533bc08725d/screenshots/image-1_624x305@1.png"
+   ]
+  },
+  "com.github.fabiocolacio.marker": {
+   "strona": "https://github.com/fabiocolacio/Marker",
+   "kod": "https://github.com/fabiocolacio/Marker",
+   "screens": [
+    "https://dl.flathub.org/media/com/github/fabiocolacio.marker.desktop/1d460bc66c7b4529fef841d7f29f688c/screenshots/image-1_624x390@1.png",
+    "https://dl.flathub.org/media/com/github/fabiocolacio.marker.desktop/1d460bc66c7b4529fef841d7f29f688c/screenshots/image-2_624x342@1.png",
+    "https://dl.flathub.org/media/com/github/fabiocolacio.marker.desktop/1d460bc66c7b4529fef841d7f29f688c/screenshots/image-3_624x448@1.png"
+   ]
+  },
+  "org.gnome.design.Lorem": {
+   "strona": "https://apps.gnome.org/Lorem/",
+   "kod": "https://gitlab.gnome.org/World/design/lorem",
+   "screens": [
+    "https://dl.flathub.org/media/org/gnome/design.Lorem/8ec3cbd99cce7e41b1983d59f8822b4f/screenshots/image-1_624x391@1.png"
+   ]
+  },
+  "com.jetbrains.PyCharm-Community": {
+   "strona": "https://www.jetbrains.com/pycharm/",
+   "kod": "https://github.com/JetBrains/intellij-community",
+   "screens": [
+    "https://dl.flathub.org/media/com/jetbrains/PyCharm-Community/55c514671eeb9aaf519ad6dfa5c5f89e/screenshots/image-1_624x364@1.png"
+   ]
+  },
+  "org.kde.kdevelop": {
+   "strona": "https://kdevelop.org",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/kde/kdevelop.desktop/465627c1893c25400561b47af5a37559/screenshots/image-1_624x464@1.png"
+   ]
+  },
+  "de.schmidhuberj.Flare": {
+   "strona": "https://mobile.schmidhuberj.de/flare",
+   "kod": "https://gitlab.com/schmiddi-on-mobile/flare",
+   "screens": [
+    "https://dl.flathub.org/media/de/schmidhuberj/Flare/d45bb61bdbad80aab01dc96cf9ec0f36/screenshots/image-1_624x445@1.png"
+   ]
+  },
+  "org.cubocore.CorePaint": {
+   "strona": "https://cubocore.cc/",
+   "kod": "https://gitlab.com/cubocore/coreapps/corepaint/",
+   "screens": [
+    "https://dl.flathub.org/media/org/cubocore/CorePaint/aab2e140dc0d98f56981a44cb9c79cf3/screenshots/image-1_624x419@1.png"
+   ]
+  },
+  "com.notepadqq.Notepadqq": {
+   "strona": "https://notepadqq.com",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/com/notepadqq/Notepadqq/1c97702069b310b57fc6927a8714195b/screenshots/image-1_624x380@1.png"
+   ]
+  },
+  "io.gitlab.metadatacleaner.metadatacleaner": {
+   "strona": "https://gitlab.com/metadatacleaner/metadatacleaner",
+   "kod": "https://gitlab.com/metadatacleaner/metadatacleaner/",
+   "screens": [
+    "https://dl.flathub.org/media/io/gitlab/metadatacleaner.metadatacleaner/6df6f54fad2c466279f19d12ba44808e/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/io/gitlab/metadatacleaner.metadatacleaner/6df6f54fad2c466279f19d12ba44808e/screenshots/image-2_624x395@1.png",
+    "https://dl.flathub.org/media/io/gitlab/metadatacleaner.metadatacleaner/6df6f54fad2c466279f19d12ba44808e/screenshots/image-3_624x364@1.png",
+    "https://dl.flathub.org/media/io/gitlab/metadatacleaner.metadatacleaner/6df6f54fad2c466279f19d12ba44808e/screenshots/image-4_orig.png"
+   ]
+  },
+  "dev.mufeed.Wordbook": {
+   "strona": "https://apps.gnome.org/Wordbook",
+   "kod": "https://github.com/mufeedali/Wordbook",
+   "screens": [
+    "https://dl.flathub.org/media/dev/mufeed/Wordbook/5035fedf3e470ef117705700918c0066/screenshots/image-1_624x477@1.png",
+    "https://dl.flathub.org/media/dev/mufeed/Wordbook/5035fedf3e470ef117705700918c0066/screenshots/image-2_624x477@1.png"
+   ]
+  },
+  "org.kde.lokalize": {
+   "strona": "https://userbase.kde.org/Lokalize",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/kde/lokalize/937365b420e7fb8ca35c0743e804b413/screenshots/image-1_624x457@1.png"
+   ]
+  },
+  "org.kde.ktrip": {
+   "strona": "https://apps.kde.org/ktrip",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/kde/ktrip/449802577dd8937735f3442caec89f65/screenshots/image-1_624x593@1.png"
+   ]
+  },
+  "page.codeberg.snensmens.Chapterize": {
+   "strona": "https://codeberg.org/snensmens/Chapterize",
+   "kod": "https://codeberg.org/snensmens/Chapterize",
+   "screens": [
+    "https://dl.flathub.org/media/page/codeberg/snensmens.Chapterize/fc35292d465a96ad8e1d0b05b0810ed0/screenshots/image-1_624x428@1.png",
+    "https://dl.flathub.org/media/page/codeberg/snensmens.Chapterize/fc35292d465a96ad8e1d0b05b0810ed0/screenshots/image-2_624x420@1.png",
+    "https://dl.flathub.org/media/page/codeberg/snensmens.Chapterize/fc35292d465a96ad8e1d0b05b0810ed0/screenshots/image-3_624x428@1.png",
+    "https://dl.flathub.org/media/page/codeberg/snensmens.Chapterize/fc35292d465a96ad8e1d0b05b0810ed0/screenshots/image-4_624x420@1.png"
+   ]
+  },
+  "io.github.comicalsoftwares.antimatter": {
+   "strona": "https://antimatter.codelyteam.com",
+   "kod": "https://github.com/ComicalSoftwares/Antimatter",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/comicalsoftwares.antimatter/d2aca7a2096252417a0c4b26b4332bea/screenshots/image-1_624x427@1.png",
+    "https://dl.flathub.org/media/io/github/comicalsoftwares.antimatter/d2aca7a2096252417a0c4b26b4332bea/screenshots/image-2_624x353@1.png"
+   ]
+  },
+  "io.github.PinedaMB.VarLens": {
+   "strona": "https://github.com/PinedaMB/VarLens",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/PinedaMB.VarLens/efec53ac79a8887883a6ef68c1d872de/screenshots/image-1_624x341@1.png",
+    "https://dl.flathub.org/media/io/github/PinedaMB.VarLens/efec53ac79a8887883a6ef68c1d872de/screenshots/image-2_624x341@1.png",
+    "https://dl.flathub.org/media/io/github/PinedaMB.VarLens/efec53ac79a8887883a6ef68c1d872de/screenshots/image-3_624x341@1.png"
+   ]
+  },
+  "io.github.phase1geo.outliner": {
+   "strona": "https://github.com/phase1geo/Outliner",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/phase1geo.outliner/de3b1cdd9fbebde6af099cb87309de9d/screenshots/image-1_624x568@1.png",
+    "https://dl.flathub.org/media/io/github/phase1geo.outliner/de3b1cdd9fbebde6af099cb87309de9d/screenshots/image-2_624x568@1.png",
+    "https://dl.flathub.org/media/io/github/phase1geo.outliner/de3b1cdd9fbebde6af099cb87309de9d/screenshots/image-3_624x568@1.png"
+   ]
   }
  },
  "opisy": {
@@ -12996,6 +13122,90 @@
    "opis": "Pinepods pozwala na subskrypcję i odtwarzanie podcastów z centralnego serwera. Obsługuje wielu użytkowników i synchronizację między urządzeniami. Jest dostępny w przeglądarce i na urządzeniach mobilnych.",
    "kategoria": "Muzyka i wideo",
    "zamiennik": "Pocket Casts"
+  },
+  "flathub:io.github.comicalsoftwares.antimatter": {
+   "haslo": "Lekki edytor Python bez zbędnych funkcji",
+   "opis": "Antimatter to prosty IDE do pisania i debugowania skryptów w Pythonie. Skupia się na czystym interfejsie, obsłudze plików Markdown i integracji z Discord Rich Presence. Idealny dla osób szukających lekkiego narzędzia.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.PinedaMB.VarLens": {
+   "haslo": "Przeglądarka i porównywacz danych JSON/XML",
+   "opis": "VarLens pozwala szybko formatować, przeglądać i porównywać strukturalne dane. Oferuje drzewo JSON z możliwością wyszukiwania oraz kopiowania ścieżek. Przydatny dla programistów i osób pracujących z danymi.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.phase1geo.outliner": {
+   "haslo": "Tworzenie i zarządzanie konspektami tekstowymi",
+   "opis": "Outliner umożliwia szybkie tworzenie, edycję i eksport konspektów w różnych formatach. Obsługuje formatowanie bogate oraz Markdown, a także tagi i pola wyboru. Dobrze sprawdza się przy planowaniu treści i notatkach.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:com.github.fabiocolacio.marker": {
+   "haslo": "Edytor Markdown z eksportem do wielu formatów",
+   "opis": "Marker pozwala pisać i podglądać dokumenty w Markdown, a także konwertować je do HTML, PDF, DOCx i LaTeX. Obsługuje diagramy Mermaid i wykresy, a także własne motywy CSS. Ułatwia tworzenie dokumentacji i notatek.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:org.gnome.design.Lorem": {
+   "haslo": "Generator tekstu zastępczego Lorem Ipsum",
+   "opis": "Lorem generuje standardowy tekst zastępczy, który można wykorzystać w projektach graficznych i stronach internetowych. Aplikacja jest prosta i szybka w użyciu.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:com.jetbrains.PyCharm-Community": {
+   "haslo": "Rozbudowane IDE do programowania w Pythonie",
+   "opis": "PyCharm OSS oferuje inteligentne podpowiedzi, analizę kodu i refaktoryzację. Obsługuje popularne frameworki webowe, a także integruje się z systemami kontroli wersji. Dla programistów, którzy potrzebują pełnego zestawu narzędzi.",
+   "kategoria": "Programowanie",
+   "zamiennik": "PyCharm"
+  },
+  "flathub:org.cubocore.CorePaint": {
+   "haslo": "A program do rysowania i malowania obrazów",
+   "opis": "CorePaint pozwala tworzyć i edytować obrazy przy pomocy pióra, pędzla, gumki i kształtów. Jest przeznaczony dla osób pracujących w środowisku C Suite. Umożliwia szybkie rysowanie i prostą edycję grafik.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": "GIMP"
+  },
+  "flathub:com.notepadqq.Notepadqq": {
+   "haslo": "Zaawansowany edytor tekstu dla programistów",
+   "opis": "Notepadqq oferuje podświetlanie składni dla ponad stu języków oraz wyszukiwanie wyrażeń regularnych. Pozwala na manipulację tekstem przy pomocy wielu kursora. Jest przeznaczony dla osób piszących kod i piszących długie dokumenty.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": "Notepad++"
+  },
+  "flathub:io.gitlab.metadatacleaner.metadatacleaner": {
+   "haslo": "Narzędzie do przeglądania i usuwania metadanych",
+   "opis": "Metadata Cleaner pokazuje informacje o pochodzeniu plików, np. kiedy i gdzie zdjęcie zostało zrobione. Pozwala usuwać wrażliwe dane, takie jak autor czy firma. Jest przydatny dla osób dbających o prywatność swoich plików.",
+   "kategoria": "Prywatność i bezpieczeństwo",
+   "zamiennik": ""
+  },
+  "flathub:dev.mufeed.Wordbook": {
+   "haslo": "Offline słownik angielsko-angielski",
+   "opis": "Wordbook to słownik, który działa bez połączenia z internetem. Dostarcza definicje, wymowę i losowe słowa. Umożliwia zapisywanie ulubionych i przeglądanie historii wyszukiwań.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:org.kde.lokalize": {
+   "haslo": "Program do tłumaczenia dokumentów",
+   "opis": "Lokalize pomaga tłumaczyć pliki OpenDocument (.odt) i inne teksty. Używa narzędzia Translate‑Toolkit do konwersji tekstu na format .xliff i z powrotem. Jest przydatny dla tłumaczy i twórców oprogramowania.",
+   "kategoria": "Programowanie",
+   "zamiennik": ""
+  },
+  "flathub:org.kde.ktrip": {
+   "haslo": "Nawigator transportu publicznego",
+   "opis": "KTrip pozwala znaleźć trasy między punktami, sprawdzić odjazdy i zobaczyć informacje o opóźnieniach. Działa na systemach Linux i ułatwia planowanie podróży komunikacją miejską.",
+   "kategoria": "Mapy i podróże",
+   "zamiennik": ""
+  },
+  "flathub:page.codeberg.snensmens.Chapterize": {
+   "haslo": "Tworzenie i edycja audiobooków w formacie m4b",
+   "opis": "Chapterize umożliwia dodawanie rozdziałów, edycję metadanych i podział audiobooków. Generuje rozdziały z nazw plików lub długości. Jest przydatny dla osób tworzących własne audiobooki.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:me.kozec.syncthingtk": {
+   "haslo": "GUI do synchronizacji plików Syncthing",
+   "opis": "Syncthing GTK to graficzny interfejs do zarządzania Syncthing, pozwala dodawać węzły, repozytoria i zmieniać ustawienia. Oferuje powiadomienia i integrację z menedżerami plików.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
   }
  }
 }
