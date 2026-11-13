@@ -13206,6 +13206,18 @@
    "opis": "Syncthing GTK to graficzny interfejs do zarządzania Syncthing, pozwala dodawać węzły, repozytoria i zmieniać ustawienia. Oferuje powiadomienia i integrację z menedżerami plików.",
    "kategoria": "Narzędzia",
    "zamiennik": ""
+  },
+  "flathub:org.kde.kdevelop": {
+   "haslo": "IDE dla programistów C/C++ i innych języków",
+   "opis": "KDevelop to otwarte środowisko programistyczne z edycją, nawigacją i debugowaniem. Obsługuje wiele języków i systemów budowania. Rozszerzenia pozwalają dodać wsparcie dla PHP, Python i innych.",
+   "kategoria": "Programowanie",
+   "zamiennik": "Eclipse"
+  },
+  "flathub:de.schmidhuberj.Flare": {
+   "haslo": "Nieoficjalna aplikacja do czatów Signal",
+   "opis": "Flare umożliwia rozmowy z przyjaciółmi na Signal, ale nie zawiera wszystkich funkcji oficjalnych aplikacji. Użytkownicy powinni być świadomi ryzyka bezpieczeństwa. Dostępne są plany rozwoju w repozytorium projektu.",
+   "kategoria": "Komunikacja",
+   "zamiennik": "Signal"
   }
  }
 }
