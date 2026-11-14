@@ -6928,6 +6928,299 @@
     "https://dl.flathub.org/media/io/github/phase1geo.outliner/de3b1cdd9fbebde6af099cb87309de9d/screenshots/image-2_624x568@1.png",
     "https://dl.flathub.org/media/io/github/phase1geo.outliner/de3b1cdd9fbebde6af099cb87309de9d/screenshots/image-3_624x568@1.png"
    ]
+  },
+  "io.github.phase1geo.minder": {
+   "strona": "https://github.com/phase1geo/minder/",
+   "kod": "https://github.com/phase1geo/minder/",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/phase1geo.minder/c906c697145150144421d5e0b424077c/screenshots/image-1_624x422@1.png",
+    "https://dl.flathub.org/media/io/github/phase1geo.minder/c906c697145150144421d5e0b424077c/screenshots/image-2_624x422@1.png",
+    "https://dl.flathub.org/media/io/github/phase1geo.minder/c906c697145150144421d5e0b424077c/screenshots/image-3_624x422@1.png",
+    "https://dl.flathub.org/media/io/github/phase1geo.minder/c906c697145150144421d5e0b424077c/screenshots/image-4_624x422@1.png"
+   ]
+  },
+  "io.github.nokse22.high-tide": {
+   "strona": "https://github.com/Nokse22/high-tide",
+   "kod": "https://github.com/Nokse22/high-tide",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/nokse22.high-tide/956971f0d2945286ce8ee44678799adc/screenshots/image-1_624x434@1.png",
+    "https://dl.flathub.org/media/io/github/nokse22.high-tide/956971f0d2945286ce8ee44678799adc/screenshots/image-2_624x434@1.png",
+    "https://dl.flathub.org/media/io/github/nokse22.high-tide/956971f0d2945286ce8ee44678799adc/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/io/github/nokse22.high-tide/956971f0d2945286ce8ee44678799adc/screenshots/image-4_orig.png"
+   ]
+  },
+  "org.kde.itinerary": {
+   "strona": "https://apps.kde.org/itinerary",
+   "kod": "https://invent.kde.org/pim/itinerary",
+   "screens": [
+    "https://dl.flathub.org/media/org/kde/itinerary/d02e6f89f0dbe0a1f7d0247ab885e907/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/org/kde/itinerary/d02e6f89f0dbe0a1f7d0247ab885e907/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/org/kde/itinerary/d02e6f89f0dbe0a1f7d0247ab885e907/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/org/kde/itinerary/d02e6f89f0dbe0a1f7d0247ab885e907/screenshots/image-4_orig.png"
+   ]
+  },
+  "io.qt.qdbusviewer": {
+   "strona": "https://www.qt.io/",
+   "kod": "https://code.qt.io/cgit/qt/qttools.git/tree/src/qdbus/qdbusviewer",
+   "screens": [
+    "https://dl.flathub.org/media/io/qt/qdbusviewer/9ca0099ab8819b39ee837187891493ec/screenshots/image-1_624x336@1.png"
+   ]
+  },
+  "io.github.smallbasic.SmallBASIC": {
+   "strona": "https://smallbasic.github.io",
+   "kod": "https://github.com/smallbasic/SmallBASIC",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/smallbasic.SmallBASIC/617b3997c4c6672e3976ebeb19f80bb9/screenshots/image-1_624x472@1.png"
+   ]
+  },
+  "com.github.weclaw1.ImageRoll": {
+   "strona": "https://github.com/weclaw1/image-roll",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/com/github/weclaw1.ImageRoll/c965f27744a52ac3fd891d442e5c79bf/screenshots/image-1_624x658@1.png"
+   ]
+  },
+  "io.gitlab.leesonwai.Sums": {
+   "strona": "https://gitlab.com/leesonwai/sums",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/io/gitlab/leesonwai.Sums/972543288fe38cf2774fdad8e326fb5f/screenshots/image-1_624x642@1.png"
+   ]
+  },
+  "io.gitlab.elescoute.password": {
+   "strona": "https://gitlab.com/elescoute/password",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/io/gitlab/elescoute.password/1fe3e838728a21c96f71e867fa70e60c/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/io/gitlab/elescoute.password/1fe3e838728a21c96f71e867fa70e60c/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/io/gitlab/elescoute.password/1fe3e838728a21c96f71e867fa70e60c/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/io/gitlab/elescoute.password/1fe3e838728a21c96f71e867fa70e60c/screenshots/image-4_orig.png"
+   ]
+  },
+  "io.github.nokse22.minitext": {
+   "strona": "https://github.com/Nokse22/mini-text",
+   "kod": "https://github.com/Nokse22/mini-text",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/nokse22.minitext/d5b52983f1374bb093167460e0be92f4/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/io/github/nokse22.minitext/d5b52983f1374bb093167460e0be92f4/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/io/github/nokse22.minitext/d5b52983f1374bb093167460e0be92f4/screenshots/image-3_orig.png"
+   ]
+  },
+  "io.github.tobagin.tempo": {
+   "strona": "https://github.com/tobagin/tempo",
+   "kod": "https://github.com/tobagin/tempo",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/tobagin.tempo/c54c4292ce22bb0cda5a384a445b0dc0/screenshots/image-1_624x429@1.png",
+    "https://dl.flathub.org/media/io/github/tobagin.tempo/c54c4292ce22bb0cda5a384a445b0dc0/screenshots/image-2_624x429@1.png",
+    "https://dl.flathub.org/media/io/github/tobagin.tempo/c54c4292ce22bb0cda5a384a445b0dc0/screenshots/image-3_624x429@1.png",
+    "https://dl.flathub.org/media/io/github/tobagin.tempo/c54c4292ce22bb0cda5a384a445b0dc0/screenshots/image-4_624x429@1.png"
+   ]
+  },
+  "org.kde.kolf": {
+   "strona": "https://apps.kde.org/kolf",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/kde/kolf/0ed8bdf96fdef3bdab39804e006e27a0/screenshots/image-1_orig.png"
+   ]
+  },
+  "io.gitlab.cyberphantom52.sudoku_solver": {
+   "strona": "https://gitlab.com/cyberphantom52/sudoku-solver",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/io/gitlab/cyberphantom52.sudoku_solver/155d2d277a33a5551bc0d4255a8bf51c/screenshots/image-1_624x453@1.png"
+   ]
+  },
+  "org.gnome.gitlab.YaLTeR.Identity": {
+   "strona": "https://gitlab.gnome.org/YaLTeR/identity",
+   "kod": "https://gitlab.gnome.org/YaLTeR/identity",
+   "screens": [
+    "https://dl.flathub.org/media/org/gnome/gitlab.YaLTeR.Identity/4ba862e25a993efcf2ef39d5498b0251/screenshots/image-1_624x471@1.png",
+    "https://dl.flathub.org/media/org/gnome/gitlab.YaLTeR.Identity/4ba862e25a993efcf2ef39d5498b0251/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/org/gnome/gitlab.YaLTeR.Identity/4ba862e25a993efcf2ef39d5498b0251/screenshots/image-3_624x474@1.png",
+    "https://dl.flathub.org/media/org/gnome/gitlab.YaLTeR.Identity/4ba862e25a993efcf2ef39d5498b0251/screenshots/image-4_624x517@1.png"
+   ]
+  },
+  "io.github.josephmawa.Bella": {
+   "strona": "https://github.com/josephmawa/Bella",
+   "kod": "https://github.com/josephmawa/Bella",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/josephmawa.Bella/3819c297d709bc7a57080d8c8c25511b/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/io/github/josephmawa.Bella/3819c297d709bc7a57080d8c8c25511b/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/io/github/josephmawa.Bella/3819c297d709bc7a57080d8c8c25511b/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/io/github/josephmawa.Bella/3819c297d709bc7a57080d8c8c25511b/screenshots/image-4_orig.png"
+   ]
+  },
+  "io.github.arijanj.Mimic": {
+   "strona": "https://github.com/ArijanJ/Mimic",
+   "kod": "https://github.com/ArijanJ/Mimic",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/arijanj.Mimic/ff11715deffcf29d3f8a08e0bd1df66b/screenshots/image-1_624x632@1.png",
+    "https://dl.flathub.org/media/io/github/arijanj.Mimic/ff11715deffcf29d3f8a08e0bd1df66b/screenshots/image-2_624x632@1.png",
+    "https://dl.flathub.org/media/io/github/arijanj.Mimic/ff11715deffcf29d3f8a08e0bd1df66b/screenshots/image-3_624x632@1.png"
+   ]
+  },
+  "org.kde.ktorrent": {
+   "strona": "https://kde.org/applications/internet/ktorrent/",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/kde/ktorrent.desktop/79d78189ef728df64d8a99056b4c88c0/screenshots/image-1_624x432@1.png"
+   ]
+  },
+  "org.gnome.Solanum": {
+   "strona": "https://apps.gnome.org/Solanum",
+   "kod": "https://gitlab.gnome.org/World/Solanum/",
+   "screens": [
+    "https://dl.flathub.org/media/org/gnome/Solanum/b3037afcd041be5783a235cbcf66528f/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/org/gnome/Solanum/b3037afcd041be5783a235cbcf66528f/screenshots/image-2_orig.png"
+   ]
+  },
+  "io.qt.Linguist": {
+   "strona": "https://www.qt.io/",
+   "kod": "https://code.qt.io/cgit/qt/qttools.git/tree/src/linguist/linguist",
+   "screens": [
+    "https://dl.flathub.org/media/io/qt/Linguist/1afd4d491a93cb81737d32792b3ea77d/screenshots/image-1_624x336@1.png"
+   ]
+  },
+  "com.ekonomikas.merkato": {
+   "strona": "https://github.com/sheep-farm/merkato",
+   "kod": "https://github.com/sheep-farm/merkato",
+   "screens": [
+    "https://dl.flathub.org/media/com/ekonomikas/merkato/12e2bad22fe28ffc5e94a8863d2b3d60/screenshots/image-1_624x479@1.png",
+    "https://dl.flathub.org/media/com/ekonomikas/merkato/12e2bad22fe28ffc5e94a8863d2b3d60/screenshots/image-2_624x479@1.png",
+    "https://dl.flathub.org/media/com/ekonomikas/merkato/12e2bad22fe28ffc5e94a8863d2b3d60/screenshots/image-3_624x479@1.png"
+   ]
+  },
+  "page.codeberg.ostfriese4.Untis": {
+   "strona": "https://codeberg.org/ostfriese4/untix",
+   "kod": "https://codeberg.org/ostfriese4/untix",
+   "screens": [
+    "https://dl.flathub.org/media/page/codeberg/ostfriese4.Untis/5af7330d0c51b823a6dd7438dc90d054/screenshots/image-1_624x440@1.png",
+    "https://dl.flathub.org/media/page/codeberg/ostfriese4.Untis/5af7330d0c51b823a6dd7438dc90d054/screenshots/image-2_624x440@1.png",
+    "https://dl.flathub.org/media/page/codeberg/ostfriese4.Untis/5af7330d0c51b823a6dd7438dc90d054/screenshots/image-3_624x440@1.png"
+   ]
+  },
+  "org.kde.kamoso": {
+   "strona": "https://userbase.kde.org/Kamoso",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/kde/kamoso/a3567f1ef970007cb59f5bf992fda292/screenshots/image-1_624x465@1.png"
+   ]
+  },
+  "org.gnome.gThumb": {
+   "strona": "https://gitlab.gnome.org/GNOME/gthumb/",
+   "kod": "https://gitlab.gnome.org/GNOME/gthumb/",
+   "screens": [
+    "https://dl.flathub.org/media/org/gnome/gThumb/a5f15aaa26804f3c40910208918082b1/screenshots/image-1_624x359@1.png",
+    "https://dl.flathub.org/media/org/gnome/gThumb/a5f15aaa26804f3c40910208918082b1/screenshots/image-2_624x359@1.png",
+    "https://dl.flathub.org/media/org/gnome/gThumb/a5f15aaa26804f3c40910208918082b1/screenshots/image-3_624x359@1.png"
+   ]
+  },
+  "com.ktechpit.pixelfx": {
+   "strona": "https://github.com/keshavbhatt/PixelFx",
+   "kod": "https://github.com/keshavbhatt/PixelFx",
+   "screens": [
+    "https://dl.flathub.org/media/com/ktechpit/pixelfx/b2f6793737cee73471cc02aaed575c16/screenshots/image-1_624x463@1.png",
+    "https://dl.flathub.org/media/com/ktechpit/pixelfx/b2f6793737cee73471cc02aaed575c16/screenshots/image-2_624x463@1.png",
+    "https://dl.flathub.org/media/com/ktechpit/pixelfx/b2f6793737cee73471cc02aaed575c16/screenshots/image-3_624x463@1.png",
+    "https://dl.flathub.org/media/com/ktechpit/pixelfx/b2f6793737cee73471cc02aaed575c16/screenshots/image-4_624x463@1.png"
+   ]
+  },
+  "io.github.bishop_333.omega-engine": {
+   "strona": "https://www.moddb.com/mods/openarena-omega/",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/bishop_333.omega-engine/fa42dc31f3d0740a947ffe0394059d53/screenshots/image-1_624x390@1.png",
+    "https://dl.flathub.org/media/io/github/bishop_333.omega-engine/fa42dc31f3d0740a947ffe0394059d53/screenshots/image-2_624x390@1.png",
+    "https://dl.flathub.org/media/io/github/bishop_333.omega-engine/fa42dc31f3d0740a947ffe0394059d53/screenshots/image-3_624x390@1.png"
+   ]
+  },
+  "io.github.bacmanni.jellytune": {
+   "strona": "https://github.com/bacmanni/jellytune",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/bacmanni.jellytune/26d85580ba343709112b9c50b272a564/screenshots/image-1_624x736@1.png",
+    "https://dl.flathub.org/media/io/github/bacmanni.jellytune/26d85580ba343709112b9c50b272a564/screenshots/image-2_624x1305@1.png",
+    "https://dl.flathub.org/media/io/github/bacmanni.jellytune/26d85580ba343709112b9c50b272a564/screenshots/image-3_624x1305@1.png",
+    "https://dl.flathub.org/media/io/github/bacmanni.jellytune/26d85580ba343709112b9c50b272a564/screenshots/image-4_624x1212@1.png"
+   ]
+  },
+  "org.dupot.littleescape": {
+   "strona": "https://www.dupot.org/games.html",
+   "kod": "https://github.com/imikado/dupotLittleEscape/",
+   "screens": [
+    "https://dl.flathub.org/media/org/dupot/littleescape/73a4b8e4a06ca7a01e34557cae0b9c0a/screenshots/image-1_624x365@1.png",
+    "https://dl.flathub.org/media/org/dupot/littleescape/73a4b8e4a06ca7a01e34557cae0b9c0a/screenshots/image-2_624x365@1.png",
+    "https://dl.flathub.org/media/org/dupot/littleescape/73a4b8e4a06ca7a01e34557cae0b9c0a/screenshots/image-3_624x365@1.png",
+    "https://dl.flathub.org/media/org/dupot/littleescape/73a4b8e4a06ca7a01e34557cae0b9c0a/screenshots/image-4_624x365@1.png"
+   ]
+  },
+  "io.github.rabbitgramdesktop.rabbitgramdesktop": {
+   "strona": "https://github.com/rabbitgramdesktop/rabbitgramdesktop",
+   "kod": "https://github.com/rabbitgramdesktop/rabbitgramdesktop",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/rabbitgramdesktop.rabbitgramdesktop/25cbf41d590d5ca795d1f30c89122307/screenshots/image-1_624x486@1.png"
+   ]
+  },
+  "org.quadrahq.Quadra": {
+   "strona": "https://quadrahq.org",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/quadrahq/Quadra/1bff8a0bec87494232eb2bc04605b06e/screenshots/image-1_624x351@1.png",
+    "https://dl.flathub.org/media/org/quadrahq/Quadra/1bff8a0bec87494232eb2bc04605b06e/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/org/quadrahq/Quadra/1bff8a0bec87494232eb2bc04605b06e/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/org/quadrahq/Quadra/1bff8a0bec87494232eb2bc04605b06e/screenshots/image-4_orig.png"
+   ]
+  },
+  "com.openamity.OpenAmity": {
+   "strona": "https://openamity.com",
+   "kod": "https://github.com/OpenTangent/OpenAmity",
+   "screens": [
+    "https://dl.flathub.org/media/com/openamity/OpenAmity/a402880123bdde5be8eb1c1e895da803/screenshots/image-1_624x351@1.png",
+    "https://dl.flathub.org/media/com/openamity/OpenAmity/a402880123bdde5be8eb1c1e895da803/screenshots/image-2_624x351@1.png",
+    "https://dl.flathub.org/media/com/openamity/OpenAmity/a402880123bdde5be8eb1c1e895da803/screenshots/image-3_624x351@1.png",
+    "https://dl.flathub.org/media/com/openamity/OpenAmity/a402880123bdde5be8eb1c1e895da803/screenshots/image-4_624x351@1.png"
+   ]
+  },
+  "com.openutau.OpenUtau": {
+   "strona": "https://www.openutau.com/",
+   "kod": "https://github.com/openutau/OpenUtau",
+   "screens": [
+    "https://dl.flathub.org/media/com/openutau/OpenUtau/5dc688ae41b76cdadcae7451e2afc2ba/screenshots/image-1_624x341@1.png"
+   ]
+  },
+  "io.github.kyuyrii.meganimus": {
+   "strona": "https://github.com/Kyuyrii/Meganimus",
+   "kod": "https://github.com/Kyuyrii/Meganimus",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/kyuyrii.meganimus/0e361a7b84a70d2a112e935794dce119/screenshots/image-1_624x358@1.png"
+   ]
+  },
+  "ch.threema.threema-work-desktop": {
+   "strona": "https://threema.ch/",
+   "kod": "https://github.com/threema-ch/threema-desktop",
+   "screens": [
+    "https://dl.flathub.org/media/ch/threema/threema-work-desktop/b5089a6ccfdc399171c564f9497298d5/screenshots/image-1_624x337@1.png",
+    "https://dl.flathub.org/media/ch/threema/threema-work-desktop/b5089a6ccfdc399171c564f9497298d5/screenshots/image-2_624x337@1.png",
+    "https://dl.flathub.org/media/ch/threema/threema-work-desktop/b5089a6ccfdc399171c564f9497298d5/screenshots/image-3_624x337@1.png",
+    "https://dl.flathub.org/media/ch/threema/threema-work-desktop/b5089a6ccfdc399171c564f9497298d5/screenshots/image-4_624x337@1.png"
+   ]
+  },
+  "ch.threema.threema-desktop": {
+   "strona": "https://threema.ch/",
+   "kod": "https://github.com/threema-ch/threema-desktop",
+   "screens": [
+    "https://dl.flathub.org/media/ch/threema/threema-desktop/d62b3c41cb32eca73992b2d730613398/screenshots/image-1_624x337@1.png",
+    "https://dl.flathub.org/media/ch/threema/threema-desktop/d62b3c41cb32eca73992b2d730613398/screenshots/image-2_624x337@1.png",
+    "https://dl.flathub.org/media/ch/threema/threema-desktop/d62b3c41cb32eca73992b2d730613398/screenshots/image-3_624x337@1.png",
+    "https://dl.flathub.org/media/ch/threema/threema-desktop/d62b3c41cb32eca73992b2d730613398/screenshots/image-4_624x337@1.png"
+   ]
+  },
+  "io.github.Micro856.KittiesGtk": {
+   "strona": "https://github.com/Micro856/KittiesGtk",
+   "kod": "https://github.com/Micro856/KittiesGtk",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/Micro856.KittiesGtk/6102fce2ef3b7ee6de9411a3c035827a/screenshots/image-1_624x513@1.png"
+   ]
   }
  },
  "opisy": {
@@ -13218,6 +13511,216 @@
    "opis": "Flare umożliwia rozmowy z przyjaciółmi na Signal, ale nie zawiera wszystkich funkcji oficjalnych aplikacji. Użytkownicy powinni być świadomi ryzyka bezpieczeństwa. Dostępne są plany rozwoju w repozytorium projektu.",
    "kategoria": "Komunikacja",
    "zamiennik": "Signal"
+  },
+  "flathub:com.ktechpit.pixelfx": {
+   "haslo": "Edytor zdjęć z filtrami i presetami",
+   "opis": "PixelFx pozwala szybko poprawiać zdjęcia na Linuxie. Umożliwia podgląd efektów w czasie rzeczywistym, stosowanie presetów oraz edycję wielu obrazów naraz. Wyróżnia się intuicyjnym interfejsem i wsparciem dla własnych LUTów.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": "Photoshop"
+  },
+  "flathub:io.github.bishop_333.omega-engine": {
+   "haslo": "Wolny strzelanek pierwszoosobowy",
+   "opis": "OpenArena OmegA to nowoczesna wersja klasycznego gry typu deathmatch w stylu Quake III. Gra oferuje różne bronie i szybkie tryby online. Dla graczy ceniących szybkie akcje i umiejętności.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:io.github.bacmanni.jellytune": {
+   "haslo": "Prosty odtwarzacz audio dla Jellyfin",
+   "opis": "JellyTune to natywny klient Gnome do odtwarzania muzyki z serwera Jellyfin. Skupia się wyłącznie na audio, bez edycji czy wideo. Idealny do słuchania na urządzeniach mobilnych.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:org.dupot.littleescape": {
+   "haslo": "Logiczna przygoda w pierwszej osobie",
+   "opis": "Little Escape to gra polegająca na rozwiązywaniu zagadek w małym mieszkaniu. Gracz eksploruje pokoje, szuka kluczy i kodów, aby uciec. Dostępna w dwóch językach i sterowana klawiaturą, gamepadem lub dotykiem.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:io.github.rabbitgramdesktop.rabbitgramdesktop": {
+   "haslo": "Klient wiadomości Telegram na Linux",
+   "opis": "rabbitGram to prosty i szybki klient do komunikacji w Telegramie. Synchronizuje wiadomości na wszystkich urządzeniach i zapewnia szybką wymianę tekstu oraz multimediów. Działa w trybie offline i online.",
+   "kategoria": "Komunikacja",
+   "zamiennik": "Telegram"
+  },
+  "flathub:org.quadrahq.Quadra": {
+   "haslo": "Rozgrywka Roblox na Linux z macOS clientem",
+   "opis": "Quadra uruchamia oficjalnego klienta Roblox dla macOS na Linuxie przy pomocy Darling. Zapewnia poprawki graficzne, dźwiękowe i wydajnościowe oraz automatyczne aktualizacje. Umożliwia granie w Roblox na systemie Linux.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:com.openamity.OpenAmity": {
+   "haslo": "Framework AI z wieloma agentami",
+   "opis": "Open Amity to platforma pozwalająca tworzyć niezależne agenty AI, które mogą korzystać z różnych modeli językowych. Agentów można programować do wykonywania zadań i komunikacji w czasie rzeczywistym. Obsługuje wiele dostawców modeli.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:com.openutau.OpenUtau": {
+   "haslo": "Edytor śpiewu z wieloma ścieżkami",
+   "opis": "OpenUtau to darmowy edytor do tworzenia ścieżek wokalnych w stylu UTAU. Umożliwia pracę z wieloma ścieżkami i współpracę z różnymi instrumentami MIDI. Zaprojektowany z myślą o społeczności UTAU.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:io.github.kyuyrii.meganimus": {
+   "haslo": "Tworzy skróty do gier",
+   "opis": "Umożliwia szybkie tworzenie skrótów do gier natywnych, uruchamianych przez emulator lub Wine. Działa na Linuxie i ułatwia organizację gier",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.phase1geo.minder": {
+   "haslo": "Tworzenie map myśli",
+   "opis": "Pozwala tworzyć i eksplorować mapy myśli z czystym interfejsem i animacjami. Obsługuje Markdown i szybkie układy drzew. Przydatne do planowania i notowania",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:ch.threema.threema-work-desktop": {
+   "haslo": "Messenger Threema na komputerze",
+   "opis": "Klient Threema dla desktopu, pozwalający na prywatną komunikację z szyfrowaniem end‑to‑end. Działa na Linuxie i synchronizuje wiadomości z telefonu",
+   "kategoria": "Komunikacja",
+   "zamiennik": "Threema"
+  },
+  "flathub:ch.threema.threema-desktop": {
+   "haslo": "Messenger Threema na komputerze",
+   "opis": "Klient Threema dla desktopu, pozwalający na prywatną komunikację z szyfrowaniem end‑to‑end. Działa na Linuxie i synchronizuje wiadomości z telefonu",
+   "kategoria": "Komunikacja",
+   "zamiennik": "Threema"
+  },
+  "flathub:io.github.Micro856.KittiesGtk": {
+   "haslo": "Pokazuje losowe zdjęcia kotów",
+   "opis": "Aplikacja wyświetlająca losowe zdjęcia kotów z różnych API. Obsługuje wiele źródeł i przechowywanie obrazów. Umożliwia nawigację klawiszami",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.nokse22.high-tide": {
+   "haslo": "Klient muzyczny TIDAL",
+   "opis": "Nieoficjalny klient TIDAL, pozwalający na odtwarzanie muzyki w wysokiej jakości na Linuxie. Obsługuje konta TIDAL i odtwarzanie offline",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": "TIDAL"
+  },
+  "flathub:org.kde.itinerary": {
+   "haslo": "Cyfrowy asystent podróży",
+   "opis": "Zarządza planem podróży, łączy bilety, rezerwacje i informacje o lotach. Chroni prywatność i automatycznie grupuje podróże",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.qt.qdbusviewer": {
+   "haslo": "Narzędzie debugowania D-Bus",
+   "opis": "Pozwala przeglądać obiekty i wiadomości D-Bus w systemie. Umożliwia wybór puli systemowej lub sesyjnej. Przydatne dla programistów",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.smallbasic.SmallBASIC": {
+   "haslo": "Szybki edytor BASIC",
+   "opis": "SmallBASIC to interpreter języka BASIC, idealny do prostych obliczeń i skryptów. Obsługuje moduły do grafiki i sieci. Używany przez początkujących programistów i hobbystów.",
+   "kategoria": "Programowanie",
+   "zamiennik": ""
+  },
+  "flathub:com.github.weclaw1.ImageRoll": {
+   "haslo": "Przeglądarka obrazów",
+   "opis": "Image Roll to szybki podgląd zdjęć z podstawowymi narzędziami edycji. Napisał w Rust, działa na Linuksie. Dla osób potrzebujących prostego przeglądarki obrazów.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "flathub:io.gitlab.leesonwai.Sums": {
+   "haslo": "Kalkulator postfixowy",
+   "opis": "Sums to kalkulator w notacji odwróconej (postfix). Pozwala szybko wykonywać obliczenia, przechowywać historię i kopiować wyniki jednym kliknięciem. Przydatny dla studentów i programistów.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.gitlab.elescoute.password": {
+   "haslo": "Generator silnych haseł",
+   "opis": "Password tworzy unikalne hasła i frazy na podstawie podanych aliasów. Używa algorytmów MD5, SHA1, SHA256 i SHA512. Nie wymaga pamiętania wielu haseł ani korzystania z menedżera.",
+   "kategoria": "Prywatność i bezpieczeństwo",
+   "zamiennik": ""
+  },
+  "fdroid:com.limelight": {
+   "haslo": "Streamowanie gier z PC",
+   "opis": "Moonlight Game Streaming pozwala odtwarzać gry z komputera na Androidzie. Sterowanie odbywa się przez mysz, klawiaturę lub kontroler. Aplikacja jest darmowa i open source.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:io.github.nokse22.minitext": {
+   "haslo": "Krótka notatka w pamięci podręcznej",
+   "opis": "Mini Text to minimalny notatnik, który przechowuje tylko zawartość schowka. Nie zapisuje plików, ale pozwala szybko notować i kopiować tekst. Idealny dla szybkich pomysłów.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.tobagin.tempo": {
+   "haslo": "Metronom dla muzyków",
+   "opis": "Tempo to nowoczesny metronom z dokładnym pomiarem czasu, dźwiękami beatów i wizualnym wskaźnikiem. Umożliwia ustawienie tempa, zmiany metrum i tap tempo. Dla muzyków na każdym poziomie.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:org.kde.kolf": {
+   "haslo": "Miniaturowy golf",
+   "opis": "Kolf to gra w miniaturowy golf z widokiem z góry. Oferuje tryb jedno- i wieloosobowy, dynamiczne trasy i edytor poziomów. Dla fanów prostych gier zręcznościowych.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:io.gitlab.cyberphantom52.sudoku_solver": {
+   "haslo": "Rozwiązuje łamigłówki Sudoku",
+   "opis": "Aplikacja, która automatycznie rozwiązuje plansze Sudoku. Działa na systemie Linux i wykorzystuje algorytm Wave Function Collapse. Przydatna dla osób chcących sprawdzić rozwiązania lub nauczyć się strategii.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:org.gnome.gitlab.YaLTeR.Identity": {
+   "haslo": "Porównuje obrazy i filmy",
+   "opis": "Program pozwala zobaczyć różnice między wersjami zdjęć lub klipów wideo. Umożliwia analizę zmian w grafice i wideo. Działa na Linuxie i jest przydatny dla grafików i montażystów.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.josephmawa.Bella": {
+   "haslo": "Wybiera kolor z ekranu",
+   "opis": "Aplikacja, która pozwala wybrać dowolny kolor z ekranu i zapisać go w popularnych formatach. Umożliwia edycję i przełączanie trybów jasnego/ciemnego. Działa na Linuxie i jest przydatna dla projektantów i grafików.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.arijanj.Mimic": {
+   "haslo": "Zarządza domyślnymi aplikacjami",
+   "opis": "Pozwala przeglądać wszystkie zainstalowane programy i przypisywać im typy plików. Umożliwia dodawanie nowych powiązań i wyszukiwanie aplikacji. Działa na Linuxie i ułatwia konfigurację systemu.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:org.kde.ktorrent": {
+   "haslo": "Klient BitTorrent",
+   "opis": "Program do pobierania plików przez protokół BitTorrent. Pozwala uruchamiać wiele torrentów jednocześnie, ustawiać limity prędkości i priorytety. Działa na Linuxie i jest alternatywą dla innych klientów torrent.",
+   "kategoria": "Internet i przeglądarki",
+   "zamiennik": ""
+  },
+  "flathub:org.gnome.Solanum": {
+   "haslo": "Śledzi czas pracy i przerw",
+   "opis": "Aplikacja wykorzystuje technikę Pomodoro do podziału pracy na sesje i przerwy. Umożliwia monitorowanie czasu pracy i odpoczynku. Działa na Linuxie i jest przydatna dla osób pracujących zdalnie lub w biurze.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:io.qt.Linguist": {
+   "haslo": "Tłumaczy aplikacje Qt",
+   "opis": "Narzędzie do dodawania tłumaczeń w aplikacjach opartych na Qt. Umożliwia tworzenie i edycję plików tłumaczeń. Działa na Linuxie i jest przydatne dla programistów tworzących wielojęzyczne aplikacje.",
+   "kategoria": "Programowanie",
+   "zamiennik": ""
+  },
+  "flathub:com.ekonomikas.merkato": {
+   "haslo": "Śledzi rynki finansowe",
+   "opis": "Aplikacja do monitorowania akcji, indeksów, walut i kryptowalut w czasie rzeczywistym. Dostarcza dane z Yahoo Finance i wyświetla je w listach oraz mapie cieplnej. Działa na Linuxie i jest przydatna dla inwestorów i traderów.",
+   "kategoria": "Finanse",
+   "zamiennik": ""
+  },
+  "flathub:page.codeberg.ostfriese4.Untis": {
+   "haslo": "Nieoficjalny klient WebUntis",
+   "opis": "Pozwala przeglądać rozkład zajęć, zadania i wiadomości z WebUntis. Skoncentrowany na funkcjach dla uczniów. Wspiera wyświetlanie grafik i wiadomości e‑mail.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:org.kde.kamoso": {
+   "haslo": "Aplikacja do zdjęć i filmów z kamery",
+   "opis": "Umożliwia robienie zdjęć i nagrywanie krótkich filmów przy pomocy kamery internetowej. Prosty interfejs i szybkie udostępnianie.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:org.gnome.gThumb": {
+   "haslo": "Przeglądarka i edytor zdjęć",
+   "opis": "Oglądanie, organizacja i podstawowa edycja zdjęć w wielu formatach. Obsługuje metadane i pozwala na kopiowanie, przenoszenie oraz usuwanie plików.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
   }
  }
 }
