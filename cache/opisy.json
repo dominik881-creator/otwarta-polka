@@ -7221,6 +7221,103 @@
    "screens": [
     "https://dl.flathub.org/media/io/github/Micro856.KittiesGtk/6102fce2ef3b7ee6de9411a3c035827a/screenshots/image-1_624x513@1.png"
    ]
+  },
+  "fr.natron.Natron": {
+   "strona": "https://natrongithub.github.io",
+   "kod": "https://github.com/NatronGitHub/Natron",
+   "screens": [
+    "https://dl.flathub.org/media/fr/natron/Natron/c26fe849580f8fe521a66b7adf83f9ad/screenshots/image-1_624x351@1.png"
+   ]
+  },
+  "org.gnome.Tali": {
+   "strona": "https://wiki.gnome.org/Apps/Tali",
+   "kod": "https://gitlab.gnome.org/GNOME/tali",
+   "screens": [
+    "https://dl.flathub.org/media/org/gnome/Tali/b57fca7e749fb865cedbdf07f3d63b8f/screenshots/image-1_624x447@1.png"
+   ]
+  },
+  "io.github.sepehr_rs.Sudoku": {
+   "strona": "https://github.com/sepehr-rs/Sudoku",
+   "kod": "https://github.com/sepehr-rs/Sudoku",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/sepehr_rs.Sudoku/3218378d02789db6ede8fa55ef76d83d/screenshots/image-1_624x706@1.png",
+    "https://dl.flathub.org/media/io/github/sepehr_rs.Sudoku/3218378d02789db6ede8fa55ef76d83d/screenshots/image-2_624x706@1.png",
+    "https://dl.flathub.org/media/io/github/sepehr_rs.Sudoku/3218378d02789db6ede8fa55ef76d83d/screenshots/image-3_624x706@1.png",
+    "https://dl.flathub.org/media/io/github/sepehr_rs.Sudoku/3218378d02789db6ede8fa55ef76d83d/screenshots/image-4_624x706@1.png"
+   ]
+  },
+  "app.drey.MultiplicationPuzzle": {
+   "strona": "https://gitlab.gnome.org/mterry/gmult",
+   "kod": "https://gitlab.gnome.org/mterry/gmult",
+   "screens": [
+    "https://dl.flathub.org/media/app/drey/MultiplicationPuzzle/47fe33412fafb128235a90a100468262/screenshots/image-1_624x521@1.png",
+    "https://dl.flathub.org/media/app/drey/MultiplicationPuzzle/47fe33412fafb128235a90a100468262/screenshots/image-2_624x521@1.png",
+    "https://dl.flathub.org/media/app/drey/MultiplicationPuzzle/47fe33412fafb128235a90a100468262/screenshots/image-3_624x521@1.png",
+    "https://dl.flathub.org/media/app/drey/MultiplicationPuzzle/47fe33412fafb128235a90a100468262/screenshots/image-4_624x521@1.png"
+   ]
+  },
+  "io.github.v81d.Wattage": {
+   "strona": "https://github.com/v81d/wattage",
+   "kod": "https://github.com/v81d/wattage",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/v81d.Wattage/39428f9f3d1833fa8364cf2c0b54c1c2/screenshots/image-1_624x445@1.png",
+    "https://dl.flathub.org/media/io/github/v81d.Wattage/39428f9f3d1833fa8364cf2c0b54c1c2/screenshots/image-2_624x445@1.png",
+    "https://dl.flathub.org/media/io/github/v81d.Wattage/39428f9f3d1833fa8364cf2c0b54c1c2/screenshots/image-3_624x445@1.png",
+    "https://dl.flathub.org/media/io/github/v81d.Wattage/39428f9f3d1833fa8364cf2c0b54c1c2/screenshots/image-4_624x445@1.png"
+   ]
+  },
+  "org.muttum.muttum": {
+   "strona": "https://muttum.org/",
+   "kod": "https://gitlab.adorsaz.ch/muttum/muttum",
+   "screens": [
+    "https://dl.flathub.org/media/org/muttum/muttum/57346bdd376421038620c1cd9cd29dde/screenshots/image-1_624x457@1.png",
+    "https://dl.flathub.org/media/org/muttum/muttum/57346bdd376421038620c1cd9cd29dde/screenshots/image-2_624x457@1.png"
+   ]
+  },
+  "org.radare.iaito": {
+   "strona": "https://radare.org/",
+   "kod": "https://github.com/radareorg/iaito",
+   "screens": [
+    "https://dl.flathub.org/media/org/radare/iaito/77facd50ecfadfbc7395c64edbfe32b2/screenshots/image-1_624x425@1.png",
+    "https://dl.flathub.org/media/org/radare/iaito/77facd50ecfadfbc7395c64edbfe32b2/screenshots/image-2_624x483@1.png",
+    "https://dl.flathub.org/media/org/radare/iaito/77facd50ecfadfbc7395c64edbfe32b2/screenshots/image-3_624x483@1.png",
+    "https://dl.flathub.org/media/org/radare/iaito/77facd50ecfadfbc7395c64edbfe32b2/screenshots/image-4_624x387@1.png"
+   ]
+  },
+  "io.github.lo2dev.Echo": {
+   "strona": "https://lo2dev.github.io/portal/echo",
+   "kod": "https://github.com/lo2dev/Echo",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/lo2dev.Echo/5781ef124011f931b2a386e77e37bdf0/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/io/github/lo2dev.Echo/5781ef124011f931b2a386e77e37bdf0/screenshots/image-2_orig.png"
+   ]
+  },
+  "io.github.dgsasha.Remembrance": {
+   "strona": "https://github.com/dgsasha/remembrance",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/dgsasha.Remembrance/287031b8efb95ed69101441c636d70f2/screenshots/image-1_624x468@1.png",
+    "https://dl.flathub.org/media/io/github/dgsasha.Remembrance/287031b8efb95ed69101441c636d70f2/screenshots/image-2_624x468@1.png"
+   ]
+  },
+  "net.vistava.vistava": {
+   "strona": "https://vistava.net",
+   "kod": "https://github.com/bauermaximilian/Vistava",
+   "screens": [
+    "https://dl.flathub.org/media/net/vistava/vistava/0ca6b5108da8afadf4800b7bd189d41a/screenshots/image-1_624x385@1.png",
+    "https://dl.flathub.org/media/net/vistava/vistava/0ca6b5108da8afadf4800b7bd189d41a/screenshots/image-2_624x390@1.png",
+    "https://dl.flathub.org/media/net/vistava/vistava/0ca6b5108da8afadf4800b7bd189d41a/screenshots/image-3_624x386@1.png"
+   ]
+  },
+  "io.itch.domestique_baston.errore_404_sprint_non_trovato": {
+   "strona": "https://domestique-baston.itch.io/errore-404-sprint-not-found",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/io/itch/domestique_baston.errore_404_sprint_non_trovato/07d74f27c7cb35c8c65f16d1cd39539d/screenshots/image-1_624x351@1.png",
+    "https://dl.flathub.org/media/io/itch/domestique_baston.errore_404_sprint_non_trovato/07d74f27c7cb35c8c65f16d1cd39539d/screenshots/image-2_624x351@1.png",
+    "https://dl.flathub.org/media/io/itch/domestique_baston.errore_404_sprint_non_trovato/07d74f27c7cb35c8c65f16d1cd39539d/screenshots/image-3_624x351@1.png",
+    "https://dl.flathub.org/media/io/itch/domestique_baston.errore_404_sprint_non_trovato/07d74f27c7cb35c8c65f16d1cd39539d/screenshots/image-4_624x351@1.png"
+   ]
   }
  },
  "opisy": {
@@ -13720,6 +13817,78 @@
    "haslo": "Przeglądarka i edytor zdjęć",
    "opis": "Oglądanie, organizacja i podstawowa edycja zdjęć w wielu formatach. Obsługuje metadane i pozwala na kopiowanie, przenoszenie oraz usuwanie plików.",
    "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "flathub:net.vistava.vistava": {
+   "haslo": "Przeglądarka multimediów bez zbędnych opcji",
+   "opis": "Vistava to minimalistyczny przeglądacz zdjęć i filmów. Umożliwia łatwe przeglądanie biblioteki na każdym urządzeniu i udostępnianie treści w sieci. Obsługuje także rozszerzenia do zewnętrznych źródeł.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "flathub:io.itch.domestique_baston.errore_404_sprint_non_trovato": {
+   "haslo": "Chaotyczna gra wyścigowa w zmieniającej się arenie",
+   "opis": "Czterech graczy biegnie po dynamicznie zmieniającym się torze. Nie ma zatrzymania ani cofania, trzeba szybko reagować. Celem jest dotarcie do wyjścia, zanim arena się zmieni.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "fdroid:com.leanbitlab.leantype": {
+   "haslo": "Klawiatura open-source z naciskiem na prywatność",
+   "opis": "LeanType to szybka i prywatna klawiatura dla Androida, nie śledzi danych i nie wyświetla reklam. Pozwala na pełną personalizację układu i funkcji, a wszystko działa offline.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:fr.natron.Natron": {
+   "haslo": "Oprogramowanie do kompozycji wideo i efektów",
+   "opis": "Natron to darmowy program do tworzenia efektów wizualnych i animacji, podobny do Adobe After Effects. Umożliwia pracę z warstwami i ścieżkami wideo.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "flathub:org.gnome.Tali": {
+   "haslo": "Gra w kości przypominająca poker",
+   "opis": "Tali to gra w kości, w której rzuca się trzema rzędami, trzymając wybrane kości. Celem jest uzyskanie najlepszej kombinacji. Można grać z 1‑5 przeciwnikami.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:io.github.sepehr_rs.Sudoku": {
+   "haslo": "Rozwiązywanie krzyżówek liczbowych",
+   "opis": "Sudoku to aplikacja do rozwiązywania klasycznych łamigłówek z liczbami. Posiada czysty interfejs i skróty klawiszowe, a gry można zapisywać i wczytywać.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:app.drey.MultiplicationPuzzle": {
+   "haslo": "Logiczna gra z alfabetycznymi mnożeniami",
+   "opis": "Multiplication Puzzle polega na odgadnięciu cyfr w zadaniu mnożenia, gdzie cyfry zastąpione są literami. Gra rozwija logiczne myślenie i umiejętność rozwiązywania równań.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:io.github.v81d.Wattage": {
+   "haslo": "Monitorowanie stanu urządzeń zasilających",
+   "opis": "Wattage śledzi zdrowie i status urządzeń zasilających, pokazując ich parametry i ewentualne problemy. Umożliwia szybkie reagowanie na awarie.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:org.muttum.muttum": {
+   "haslo": "Graj w zgadywanie słowa",
+   "opis": "Wybierz słownik i spróbuj odgadnąć słowo w kilku prób. Pierwsza litera jest stała, więc każde pole to nowe wyzwanie. Aplikacja nie filtruje słów, więc może zawierać treści wulgarnie.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:org.radare.iaito": {
+   "haslo": "Graficzny interfejs do radare2",
+   "opis": "Iaito to darmowy interfejs graficzny dla radare2, narzędzia do analizy binarnych plików. Umożliwia łatwe korzystanie z funkcji disassemblingu, debugowania i analizy sieciowej.",
+   "kategoria": "Programowanie",
+   "zamiennik": ""
+  },
+  "flathub:io.github.lo2dev.Echo": {
+   "haslo": "Pinguj strony internetowe",
+   "opis": "Echo pozwala wysyłać polecenia ping do wybranych witryn. Użytkownik może ustawić liczbę prób, czas oczekiwania i inne parametry.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.dgsasha.Remembrance": {
+   "haslo": "Ustaw przypomnienia",
+   "opis": "Reminders umożliwia tworzenie powtarzających się przypomnień, planowanie powiadomień, filtrowanie i organizowanie ich w listy. Opcjonalnie odtwarza dźwięk i synchronizuje z Microsoft To Do.",
+   "kategoria": "Biuro i notatki",
    "zamiennik": ""
   }
  }
