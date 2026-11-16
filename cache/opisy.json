@@ -7318,6 +7318,48 @@
     "https://dl.flathub.org/media/io/itch/domestique_baston.errore_404_sprint_non_trovato/07d74f27c7cb35c8c65f16d1cd39539d/screenshots/image-3_624x351@1.png",
     "https://dl.flathub.org/media/io/itch/domestique_baston.errore_404_sprint_non_trovato/07d74f27c7cb35c8c65f16d1cd39539d/screenshots/image-4_624x351@1.png"
    ]
+  },
+  "com.github.hugolabe.Wike": {
+   "strona": "https://hugolabe.github.io/Wike/",
+   "kod": "https://github.com/hugolabe/Wike",
+   "screens": [
+    "https://dl.flathub.org/media/com/github/hugolabe.Wike/f05ddcb43aee224d573525c21e1b2b16/screenshots/image-1_624x479@1.png",
+    "https://dl.flathub.org/media/com/github/hugolabe.Wike/f05ddcb43aee224d573525c21e1b2b16/screenshots/image-2_624x479@1.png",
+    "https://dl.flathub.org/media/com/github/hugolabe.Wike/f05ddcb43aee224d573525c21e1b2b16/screenshots/image-3_624x479@1.png",
+    "https://dl.flathub.org/media/com/github/hugolabe.Wike/f05ddcb43aee224d573525c21e1b2b16/screenshots/image-4_624x479@1.png"
+   ]
+  },
+  "com.adrienplazas.Metronome": {
+   "strona": "https://gitlab.gnome.org/World/metronome",
+   "kod": "https://gitlab.gnome.org/World/metronome",
+   "screens": [
+    "https://dl.flathub.org/media/com/adrienplazas/Metronome/3b057eb4e3a1e3e81356ebcbc1645385/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/com/adrienplazas/Metronome/3b057eb4e3a1e3e81356ebcbc1645385/screenshots/image-2_orig.png"
+   ]
+  },
+  "org.gnome.gitlab.bazylevnik0.Convolution": {
+   "strona": "https://gitlab.gnome.org/bazylevnik0/convolution/",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/gnome/gitlab.bazylevnik0.Convolution.desktop/7fe607e1c5f6443ec4f9a189858d690b/screenshots/image-1_624x488@1.png",
+    "https://dl.flathub.org/media/org/gnome/gitlab.bazylevnik0.Convolution.desktop/7fe607e1c5f6443ec4f9a189858d690b/screenshots/image-2_624x488@1.png",
+    "https://dl.flathub.org/media/org/gnome/gitlab.bazylevnik0.Convolution.desktop/7fe607e1c5f6443ec4f9a189858d690b/screenshots/image-3_624x488@1.png"
+   ]
+  },
+  "to.bnt.sendworm": {
+   "strona": "https://github.com/ubuntuegor/sendworm",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/to/bnt/sendworm/5a224a6a5054b9ee4ef759fad83ad9db/screenshots/image-1_624x483@1.png",
+    "https://dl.flathub.org/media/to/bnt/sendworm/5a224a6a5054b9ee4ef759fad83ad9db/screenshots/image-2_624x483@1.png"
+   ]
+  },
+  "io.gitlab.adhami3310.Footage": {
+   "strona": "https://gitlab.com/adhami3310/Footage",
+   "kod": "https://gitlab.com/adhami3310/Footage",
+   "screens": [
+    "https://dl.flathub.org/media/io/gitlab/adhami3310.Footage/2cbced639cdd96a79c664cce28bc1dca/screenshots/image-1_624x556@1.png"
+   ]
   }
  },
  "opisy": {
@@ -13889,6 +13931,42 @@
    "haslo": "Ustaw przypomnienia",
    "opis": "Reminders umożliwia tworzenie powtarzających się przypomnień, planowanie powiadomień, filtrowanie i organizowanie ich w listy. Opcjonalnie odtwarza dźwięk i synchronizuje z Microsoft To Do.",
    "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:com.github.hugolabe.Wike": {
+   "haslo": "Czytaj Wikipedię w prosty sposób",
+   "opis": "Aplikacja pozwala przeglądać artykuły Wikipedii bezpośrednio z pulpitu GNOME. Obsługuje ponad 300 języków, oferuje zakładki, historię i wyszukiwanie w artykułach. Umożliwia szybkie odnalezienie potrzebnych informacji.",
+   "kategoria": "Internet i przeglądarki",
+   "zamiennik": ""
+  },
+  "flathub:com.adrienplazas.Metronome": {
+   "haslo": "Ustal tempo muzyczne",
+   "opis": "Metronome generuje rytm w podanym metrum i BPM. Można także stuknąć, aby automatycznie ustalić tempo. Przydatne dla muzyków i osób ćwiczących rytm.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:org.gnome.gitlab.bazylevnik0.Convolution": {
+   "haslo": "Logiczna gra labiryntowa",
+   "opis": "Gra polega na ucieczce z generowanych labiryntów. W każdym uruchomieniu pojawiają się nowe ścieżki. Konkurenci AI próbują zjeść gracza, co zwiększa wyzwanie.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:io.github.lawstorant.boxflat": {
+   "haslo": "Konfiguruj sprzęt Moza Racing",
+   "opis": "Umożliwia łatwe ustawianie parametrów sprzętu Moza Racing, w tym pedałów i dźwigni. Działa z ustawieniami Pit House i wspiera dodatkowe urządzenia. Pozwala na szybkie dostosowanie sprzętu do potrzeb.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:to.bnt.sendworm": {
+   "haslo": "Bezpieczne przesyłanie plików",
+   "opis": "Aplikacja wykorzystuje protokół Magic Wormhole do szybkiego i bezpiecznego przesyłania plików między komputerami. Działa na wielu platformach i jest kompatybilna z innymi narzędziami tego protokołu.",
+   "kategoria": "Prywatność i bezpieczeństwo",
+   "zamiennik": ""
+  },
+  "flathub:io.gitlab.adhami3310.Footage": {
+   "haslo": "Szybka edycja krótkich filmów",
+   "opis": "Pozwala przycinać, obracać, odwracać i kadrować klipy wideo. Umożliwia eksport do wybranego formatu. Idealne narzędzie do krótkich filmów i screencastów.",
+   "kategoria": "Muzyka i wideo",
    "zamiennik": ""
   }
  }
