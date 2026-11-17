@@ -7360,6 +7360,53 @@
    "screens": [
     "https://dl.flathub.org/media/io/gitlab/adhami3310.Footage/2cbced639cdd96a79c664cce28bc1dca/screenshots/image-1_624x556@1.png"
    ]
+  },
+  "io.github.amit9838.mousam": {
+   "strona": "https://amit9838.github.io/mousam/",
+   "kod": "https://github.com/amit9838/mousam",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/amit9838.mousam.desktop/1f8fdb65224c691b12215779829ce3b9/screenshots/image-1_624x452@1.png",
+    "https://dl.flathub.org/media/io/github/amit9838.mousam.desktop/1f8fdb65224c691b12215779829ce3b9/screenshots/image-2_624x452@1.png",
+    "https://dl.flathub.org/media/io/github/amit9838.mousam.desktop/1f8fdb65224c691b12215779829ce3b9/screenshots/image-3_624x452@1.png"
+   ]
+  },
+  "io.github.C_Yassin.FlameGet": {
+   "strona": "https://github.com/C-Yassin/FlameGet",
+   "kod": "https://github.com/C-Yassin/FlameGet",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/C_Yassin.FlameGet/cbb6864317ea0946d3ab845f2f4bcea9/screenshots/image-1_624x402@1.png",
+    "https://dl.flathub.org/media/io/github/C_Yassin.FlameGet/cbb6864317ea0946d3ab845f2f4bcea9/screenshots/image-2_624x402@1.png",
+    "https://dl.flathub.org/media/io/github/C_Yassin.FlameGet/cbb6864317ea0946d3ab845f2f4bcea9/screenshots/image-3_624x402@1.png",
+    "https://dl.flathub.org/media/io/github/C_Yassin.FlameGet/cbb6864317ea0946d3ab845f2f4bcea9/screenshots/image-4_624x402@1.png"
+   ]
+  },
+  "io.github.nokse22.trivia-quiz": {
+   "strona": "https://github.com/Nokse22/trivia-quiz",
+   "kod": "https://github.com/Nokse22/trivia-quiz",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/nokse22.trivia-quiz/cdfa3deef7685cc9f3bdfba435988be0/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/io/github/nokse22.trivia-quiz/cdfa3deef7685cc9f3bdfba435988be0/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/io/github/nokse22.trivia-quiz/cdfa3deef7685cc9f3bdfba435988be0/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/io/github/nokse22.trivia-quiz/cdfa3deef7685cc9f3bdfba435988be0/screenshots/image-4_orig.png"
+   ]
+  },
+  "io.gitlab.daikhan.stable": {
+   "strona": "https://gitlab.com/daikhan/daikhan",
+   "kod": "https://gitlab.com/daikhan/daikhan",
+   "screens": [
+    "https://dl.flathub.org/media/io/gitlab/daikhan.stable/9f932c1a9e96c5f122165e1cad9b2a04/screenshots/image-1_624x362@1.png",
+    "https://dl.flathub.org/media/io/gitlab/daikhan.stable/9f932c1a9e96c5f122165e1cad9b2a04/screenshots/image-2_624x350@1.png",
+    "https://dl.flathub.org/media/io/gitlab/daikhan.stable/9f932c1a9e96c5f122165e1cad9b2a04/screenshots/image-3_624x362@1.png",
+    "https://dl.flathub.org/media/io/gitlab/daikhan.stable/9f932c1a9e96c5f122165e1cad9b2a04/screenshots/image-4_624x350@1.png"
+   ]
+  },
+  "io.github.sugarycandybar.Carabiner": {
+   "strona": "https://github.com/sugarycandybar/Carabiner",
+   "kod": "https://github.com/sugarycandybar/Carabiner",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/sugarycandybar.Carabiner/723b6053a1c255a2ceb3416e9cf16555/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/io/github/sugarycandybar.Carabiner/723b6053a1c255a2ceb3416e9cf16555/screenshots/image-2_orig.png"
+   ]
   }
  },
  "opisy": {
@@ -13967,6 +14014,42 @@
    "haslo": "Szybka edycja krótkich filmów",
    "opis": "Pozwala przycinać, obracać, odwracać i kadrować klipy wideo. Umożliwia eksport do wybranego formatu. Idealne narzędzie do krótkich filmów i screencastów.",
    "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "fdroid:com.streak.app": {
+   "haslo": "Śledź nawyki jednym stuknięciem",
+   "opis": "Aplikacja do rejestrowania nawyków bez konta i reklam. Logujesz czynność jednym kliknięciem, a widzisz postępy w formie siatki i statystyk. Działa offline i jest całkowicie otwartym oprogramowaniem.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:io.github.amit9838.mousam": {
+   "haslo": "Szybki widok pogody i prognozy",
+   "opis": "Pokazuje aktualną pogodę i prognozę na kolejne dni z grafikami godzinowymi. Dane pochodzą z Open‑Meteo, nie wymaga konta. Dostarcza także powiadomienia o zmianach pogody.",
+   "kategoria": "Internet i przeglądarki",
+   "zamiennik": ""
+  },
+  "flathub:io.github.C_Yassin.FlameGet": {
+   "haslo": "Zarządzaj i przyspiesz pobieranie",
+   "opis": "Program do pobierania plików i wideo z internetu. Obsługuje linki BitTorrent, Magnet i zwykłe linki wideo. Pozwala wybierać konkretne pliki z torrentów i automatycznie aktualizuje listę śledzonych plików.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.nokse22.trivia-quiz": {
+   "haslo": "Odpowiadaj na pytania z bazy Trivia",
+   "opis": "Gra quizowa, w której otrzymujesz niekończący się strumień pytań z otwartej bazy. Pytania są dostępne tylko w języku angielskim.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:io.gitlab.daikhan.stable": {
+   "haslo": "Odtwarzaj media z prostym interfejsem",
+   "opis": "Prosty odtwarzacz wideo i muzyki z przyjaznym UI. Ma skróty klawiszowe, przywracanie sesji i wiele innych funkcji. Aplikacja jest w fazie rozwoju i może się zmieniać.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:io.github.sugarycandybar.Carabiner": {
+   "haslo": "Twórz tunelowanie sieciowe bez komplikacji",
+   "opis": "Umożliwia łatwe tworzenie tuneli HTTP, UDP lub TCP, podobnych do Ngrok czy Cloudflare. Dostępny jest kreator konfiguracji i monitorowanie stanu tunelu w tle.",
+   "kategoria": "Narzędzia",
    "zamiennik": ""
   }
  }
