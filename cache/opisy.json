@@ -7407,6 +7407,79 @@
     "https://dl.flathub.org/media/io/github/sugarycandybar.Carabiner/723b6053a1c255a2ceb3416e9cf16555/screenshots/image-1_orig.png",
     "https://dl.flathub.org/media/io/github/sugarycandybar.Carabiner/723b6053a1c255a2ceb3416e9cf16555/screenshots/image-2_orig.png"
    ]
+  },
+  "net.hhoney.candy": {
+   "strona": "https://hhoney.net",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/net/hhoney/candy/9e55b8a0cfe27c752ef6188a07057b05/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/net/hhoney/candy/9e55b8a0cfe27c752ef6188a07057b05/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/net/hhoney/candy/9e55b8a0cfe27c752ef6188a07057b05/screenshots/image-3_orig.png"
+   ]
+  },
+  "io.github.najepaliya.kleaner": {
+   "strona": "https://github.com/najepaliya/kleaner",
+   "kod": "https://github.com/najepaliya/kleaner",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/najepaliya.kleaner/33854de2d750d11da7f30421028d9af8/screenshots/image-1_624x1026@1.png"
+   ]
+  },
+  "io.github.finefindus.Hieroglyphic": {
+   "strona": "https://apps.gnome.org/Hieroglyphic/",
+   "kod": "https://github.com/FineFindus/Hieroglyphic",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/finefindus.Hieroglyphic/bc4d97e4a8e223a55a85f043161b492e/screenshots/image-1_624x374@1.png",
+    "https://dl.flathub.org/media/io/github/finefindus.Hieroglyphic/bc4d97e4a8e223a55a85f043161b492e/screenshots/image-2_624x374@1.png",
+    "https://dl.flathub.org/media/io/github/finefindus.Hieroglyphic/bc4d97e4a8e223a55a85f043161b492e/screenshots/image-3_624x374@1.png"
+   ]
+  },
+  "io.github.vallabhvidy.CubeTimer": {
+   "strona": "https://github.com/vallabhvidy/CubeTimer",
+   "kod": "https://github.com/vallabhvidy/CubeTimer",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/vallabhvidy.CubeTimer/c31f8990d6a0909ab20f364efdf17319/screenshots/image-1_624x558@1.png",
+    "https://dl.flathub.org/media/io/github/vallabhvidy.CubeTimer/c31f8990d6a0909ab20f364efdf17319/screenshots/image-2_624x571@1.png",
+    "https://dl.flathub.org/media/io/github/vallabhvidy.CubeTimer/c31f8990d6a0909ab20f364efdf17319/screenshots/image-3_624x565@1.png",
+    "https://dl.flathub.org/media/io/github/vallabhvidy.CubeTimer/c31f8990d6a0909ab20f364efdf17319/screenshots/image-4_624x563@1.png"
+   ]
+  },
+  "systems.tranquil.Map": {
+   "strona": "https://map.tranquil.systems/map-for-linux",
+   "kod": "https://git.sr.ht/~rbdr/map-linux",
+   "screens": [
+    "https://dl.flathub.org/media/s/sy/systems.tranquil.map/cb8dd660f64e50a5a80b88bd47e3d2f0/screenshots/image-1_624x467@1.png",
+    "https://dl.flathub.org/media/s/sy/systems.tranquil.map/cb8dd660f64e50a5a80b88bd47e3d2f0/screenshots/image-2_624x450@1.png"
+   ]
+  },
+  "org.kde.kbreakout": {
+   "strona": "https://apps.kde.org/kbreakout",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/kde/kbreakout/3f0a14947d081a873ea257392fe8f36d/screenshots/image-1_624x466@1.png"
+   ]
+  },
+  "lv.martinsz.millionaire": {
+   "strona": "https://github.com/martinszeltins/who-wants-to-be-a-millionaire/",
+   "kod": "https://github.com/martinszeltins/who-wants-to-be-a-millionaire/",
+   "screens": [
+    "https://dl.flathub.org/media/lv/martinsz/millionaire/a6ddf529c1d9fddfd455587cb4c35ef6/screenshots/image-1_624x360@1.png",
+    "https://dl.flathub.org/media/lv/martinsz/millionaire/a6ddf529c1d9fddfd455587cb4c35ef6/screenshots/image-2_624x353@1.png",
+    "https://dl.flathub.org/media/lv/martinsz/millionaire/a6ddf529c1d9fddfd455587cb4c35ef6/screenshots/image-3_624x362@1.png"
+   ]
+  },
+  "org.leocad.LeoCAD": {
+   "strona": "https://www.leocad.org/",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/leocad/LeoCAD/3705b8fd80cd060de9e5ad3edf358779/screenshots/image-1_624x420@1.png"
+   ]
+  },
+  "org.kde.kdominate": {
+   "strona": "https://apps.kde.org/kdominate",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/kde/kdominate/fdfa04f42e3a140a3a64d2902cf8bb79/screenshots/image-1_624x672@1.png"
+   ]
   }
  },
  "opisy": {
@@ -14050,6 +14123,66 @@
    "haslo": "Twórz tunelowanie sieciowe bez komplikacji",
    "opis": "Umożliwia łatwe tworzenie tuneli HTTP, UDP lub TCP, podobnych do Ngrok czy Cloudflare. Dostępny jest kreator konfiguracji i monitorowanie stanu tunelu w tle.",
    "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:org.kde.kdominate": {
+   "haslo": "Gra taktyczna na planszy",
+   "opis": "KDominate to gra dla jednego lub dwóch graczy, w której przesuwasz i konwertujesz kafelki, by przejąć kontrolę nad planszą. Gra wymaga planowania i przewidywania ruchów przeciwnika. Idealna dla miłośników strategii.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:io.github.sitraorg.sitra": {
+   "haslo": "Zarządzanie czcionkami z internetu",
+   "opis": "Sitra pozwala pobierać, instalować i podglądać czcionki z Google Fonts oraz innych źródeł. Umożliwia filtrowanie według kategorii i pobieranie w formacie ttf. Działa na Linuksie i jest przyjazny dla użytkownika.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:net.hhoney.candy": {
+   "haslo": "Arcade z ekranem zwijającym",
+   "opis": "Candy Wrapper to gra w stylu Bubble Bobble, w której przesuwasz postać po 20 poziomach. Sterowanie odbywa się strzałkami lub klawiszami WASD. Gra jest szybka i wciągająca, idealna na krótkie sesje.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:io.github.najepaliya.kleaner": {
+   "haslo": "Czyszczenie metadanych obrazów",
+   "opis": "Kleaner usuwa informacje EXIF, IPTC, XMP i komentarze z plików graficznych. Dzięki temu zdjęcia są mniejsze i prywatniejsze. Narzędzie działa na Linuksie i jest proste w obsłudze.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.finefindus.Hieroglyphic": {
+   "haslo": "Wyszukiwanie symboli LaTeX i Typst",
+   "opis": "Hieroglyphic pozwala rysować symbol, a aplikacja znajdzie odpowiedni znak LaTeX lub Typst. Ułatwia pracę z dokumentami naukowymi, eliminując konieczność pamiętania nazw symboli.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.vallabhvidy.CubeTimer": {
+   "haslo": "Timer do Rubika",
+   "opis": "Cube Timer mierzy czas rozwiązywania kostek Rubika i innych puzzle. Wystarczy długie przytrzymanie spacji, by rozpocząć. Obsługuje wiele rozmiarów kostek i innych gier.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:systems.tranquil.Map": {
+   "haslo": "Edytor map Wardley'ego",
+   "opis": "Map umożliwia tworzenie i edycję map Wardley'ego, które wizualizują środowisko biznesowe. Można dodawać komponenty, linki i notatki, a mapa aktualizuje się w czasie rzeczywistym.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:org.kde.kbreakout": {
+   "haslo": "Klasyczna gra Breakout",
+   "opis": "KBreakOut to gra polegająca na niszczeniu cegieł za pomocą piłki i płyty. Gra wymaga precyzyjnego sterowania i szybkich reakcji. Działa na Linuksie i jest prostym wyzwaniem.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:lv.martinsz.millionaire": {
+   "haslo": "Zagraj w quiz i wygraj milion dolarów",
+   "opis": "Testuj wiedzę, odpowiadając na pytania. Gra polega na zdobyciu maksymalnej sumy nagród. Dla fanów quizów i osób lubiących wyzwania.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:org.leocad.LeoCAD": {
+   "haslo": "Twórz modele LEGO w wirtualnym środowisku",
+   "opis": "Program pozwala projektować modele z klocków LEGO i wyświetlać je w 3D. Otwarty i darmowy, działa na Windows, Linux i macOS. Idealny dla hobbystów i edukacji.",
+   "kategoria": "Grafika i zdjęcia",
    "zamiennik": ""
   }
  }
