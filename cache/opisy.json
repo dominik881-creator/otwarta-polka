@@ -7480,6 +7480,16 @@
    "screens": [
     "https://dl.flathub.org/media/org/kde/kdominate/fdfa04f42e3a140a3a64d2902cf8bb79/screenshots/image-1_624x672@1.png"
    ]
+  },
+  "app.devsuite.Ptyxis": {
+   "strona": "https://gitlab.gnome.org/chergert/ptyxis",
+   "kod": "https://gitlab.gnome.org/chergert/ptyxis",
+   "screens": [
+    "https://dl.flathub.org/media/app/devsuite/Ptyxis/5835289f8733bcfd73b072026eae793b/screenshots/image-1_624x488@1.png",
+    "https://dl.flathub.org/media/app/devsuite/Ptyxis/5835289f8733bcfd73b072026eae793b/screenshots/image-2_624x443@1.png",
+    "https://dl.flathub.org/media/app/devsuite/Ptyxis/5835289f8733bcfd73b072026eae793b/screenshots/image-3_624x852@1.png",
+    "https://dl.flathub.org/media/app/devsuite/Ptyxis/5835289f8733bcfd73b072026eae793b/screenshots/image-4_624x488@1.png"
+   ]
   }
  },
  "opisy": {
@@ -14184,6 +14194,12 @@
    "opis": "Program pozwala projektować modele z klocków LEGO i wyświetlać je w 3D. Otwarty i darmowy, działa na Windows, Linux i macOS. Idealny dla hobbystów i edukacji.",
    "kategoria": "Grafika i zdjęcia",
    "zamiennik": ""
+  },
+  "flathub:app.devsuite.Ptyxis": {
+   "haslo": "Terminal dla kontenerów w GNOME",
+   "opis": "Ptyxis to terminal, który pamięta aktualny kontener przy otwieraniu nowej karty. Obsługuje podman, toolbox, distrobox i inne. Umożliwia ustawienie skrótów, kolorów i profili preferencji.",
+   "kategoria": "System",
+   "zamiennik": "GNOME Terminal"
   }
  }
 }
