@@ -7490,6 +7490,171 @@
     "https://dl.flathub.org/media/app/devsuite/Ptyxis/5835289f8733bcfd73b072026eae793b/screenshots/image-3_624x852@1.png",
     "https://dl.flathub.org/media/app/devsuite/Ptyxis/5835289f8733bcfd73b072026eae793b/screenshots/image-4_624x488@1.png"
    ]
+  },
+  "codes.loers.Karlender": {
+   "strona": "https://www.gitlab.com/floers/karlender",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/c/co/codes.loers.karlender/5a5bb6bcd2a86e794948adf3c0fae1f1/screenshots/image-1_624x990@1.png",
+    "https://dl.flathub.org/media/c/co/codes.loers.karlender/5a5bb6bcd2a86e794948adf3c0fae1f1/screenshots/image-2_624x347@1.png",
+    "https://dl.flathub.org/media/c/co/codes.loers.karlender/5a5bb6bcd2a86e794948adf3c0fae1f1/screenshots/image-3_624x542@1.png",
+    "https://dl.flathub.org/media/c/co/codes.loers.karlender/5a5bb6bcd2a86e794948adf3c0fae1f1/screenshots/image-4_624x591@1.png"
+   ]
+  },
+  "io.webtorrent.WebTorrent": {
+   "strona": "https://webtorrent.io/desktop/",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/io/webtorrent/WebTorrent/8836501b9e037dd1250be15f950ea330/screenshots/image-1_624x300@1.png"
+   ]
+  },
+  "io.github.sss_says_snek.diurnals": {
+   "strona": "https://github.com/SSS-Says-Snek/diurnals",
+   "kod": "https://github.com/SSS-Says-Snek/diurnals",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/sss_says_snek.diurnals/909a17d6b5b872c2541564172cff486d/screenshots/image-1_624x476@1.png",
+    "https://dl.flathub.org/media/io/github/sss_says_snek.diurnals/909a17d6b5b872c2541564172cff486d/screenshots/image-2_624x476@1.png"
+   ]
+  },
+  "com.github.lachhebo.Gabtag": {
+   "strona": "https://github.com/lachhebo/gabtag",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/com/github/lachhebo.Gabtag/7e474a391b484d3a23058703cca11977/screenshots/image-1_624x468@1.png",
+    "https://dl.flathub.org/media/com/github/lachhebo.Gabtag/7e474a391b484d3a23058703cca11977/screenshots/image-2_624x468@1.png"
+   ]
+  },
+  "io.github.shonebinu.Exchange": {
+   "strona": "https://github.com/shonebinu/Exchange",
+   "kod": "https://github.com/shonebinu/Exchange",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/shonebinu.Exchange/e04fbbbf5386a076d7e2c77c44776cdd/screenshots/image-1_624x426@1.png",
+    "https://dl.flathub.org/media/io/github/shonebinu.Exchange/e04fbbbf5386a076d7e2c77c44776cdd/screenshots/image-2_624x426@1.png",
+    "https://dl.flathub.org/media/io/github/shonebinu.Exchange/e04fbbbf5386a076d7e2c77c44776cdd/screenshots/image-3_624x989@1.png"
+   ]
+  },
+  "fyi.zoey.TeX-Match": {
+   "strona": "https://tex-match.zoey.fyi/",
+   "kod": "https://github.com/zoeyfyi/TeX-Match",
+   "screens": [
+    "https://dl.flathub.org/media/fyi/zoey/TeX-Match/9c1aed0c31c3b81d4d9dbf1f4a4b0a1b/screenshots/image-1_624x449@1.png",
+    "https://dl.flathub.org/media/fyi/zoey/TeX-Match/9c1aed0c31c3b81d4d9dbf1f4a4b0a1b/screenshots/image-2_624x445@1.png"
+   ]
+  },
+  "org.kde.skanpage": {
+   "strona": "https://apps.kde.org/skanpage/",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/kde/skanpage.desktop/469176f63eba3b5cbd28a9da5b908c70/screenshots/image-1_624x401@1.png"
+   ]
+  },
+  "com.mardojai.DiccionarioLengua": {
+   "strona": "https://codeberg.org/rafaelmardojai/diccionario-lengua",
+   "kod": "https://codeberg.org/rafaelmardojai/diccionario-lengua",
+   "screens": [
+    "https://dl.flathub.org/media/com/mardojai/DiccionarioLengua/ce8b810dac321f5f83e6000de53af824/screenshots/image-1_624x420@1.png"
+   ]
+  },
+  "org.gnome.Evince": {
+   "strona": "https://apps.gnome.org/Evince",
+   "kod": "https://gitlab.gnome.org/GNOME/evince/",
+   "screens": [
+    "https://dl.flathub.org/media/org/gnome/Evince/804f810bbc2c10656dc91d59d4524510/screenshots/image-1_624x340@1.png",
+    "https://dl.flathub.org/media/org/gnome/Evince/804f810bbc2c10656dc91d59d4524510/screenshots/image-2_624x340@1.png"
+   ]
+  },
+  "me.proton.Lumo": {
+   "strona": "https://proton.me/lumo",
+   "kod": "https://github.com/ProtonLumo/lumo-desktop",
+   "screens": [
+    "https://dl.flathub.org/media/me/proton/Lumo/144c98c5414e9553643fd99e2c543774/screenshots/image-1_624x453@1.png",
+    "https://dl.flathub.org/media/me/proton/Lumo/144c98c5414e9553643fd99e2c543774/screenshots/image-2_624x453@1.png",
+    "https://dl.flathub.org/media/me/proton/Lumo/144c98c5414e9553643fd99e2c543774/screenshots/image-3_624x453@1.png",
+    "https://dl.flathub.org/media/me/proton/Lumo/144c98c5414e9553643fd99e2c543774/screenshots/image-4_624x453@1.png"
+   ]
+  },
+  "dev.manufloso.sim_65c02": {
+   "strona": "https://manufloso.dev/65c02-SIM/",
+   "kod": "https://github.com/ManuFlosoYT/65c02-SIM",
+   "screens": [
+    "https://dl.flathub.org/media/dev/manufloso/sim_65c02/3af6fe8a8dbe7114d11b3e779cb36ad9/screenshots/image-1_624x336@1.png",
+    "https://dl.flathub.org/media/dev/manufloso/sim_65c02/3af6fe8a8dbe7114d11b3e779cb36ad9/screenshots/image-2_624x370@1.png",
+    "https://dl.flathub.org/media/dev/manufloso/sim_65c02/3af6fe8a8dbe7114d11b3e779cb36ad9/screenshots/image-3_624x336@1.png",
+    "https://dl.flathub.org/media/dev/manufloso/sim_65c02/3af6fe8a8dbe7114d11b3e779cb36ad9/screenshots/image-4_624x325@1.png"
+   ]
+  },
+  "graphics.friction.Friction": {
+   "strona": "https://friction.graphics",
+   "kod": "https://github.com/friction2d/friction",
+   "screens": [
+    "https://dl.flathub.org/media/g/gr/graphics.friction.friction/6d2df42522853703a9c165d12b9b4f61/screenshots/image-1_624x350@1.png"
+   ]
+  },
+  "io.moonfin.moonfin": {
+   "strona": "https://moonfin.io/",
+   "kod": "https://github.com/Moonfin-Client/Moonfin-Core",
+   "screens": [
+    "https://dl.flathub.org/media/io/moonfin/moonfin/436da123cfdf984ba12fe9950859dc64/screenshots/image-1_624x351@1.png",
+    "https://dl.flathub.org/media/io/moonfin/moonfin/436da123cfdf984ba12fe9950859dc64/screenshots/image-2_624x351@1.png",
+    "https://dl.flathub.org/media/io/moonfin/moonfin/436da123cfdf984ba12fe9950859dc64/screenshots/image-3_624x351@1.png",
+    "https://dl.flathub.org/media/io/moonfin/moonfin/436da123cfdf984ba12fe9950859dc64/screenshots/image-4_624x351@1.png"
+   ]
+  },
+  "io.github.catpieleaf.Stud": {
+   "strona": "https://github.com/CatPieLeaf/Stud",
+   "kod": "https://github.com/CatPieLeaf/Stud",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/catpieleaf.Stud/e69e53e5a203eafe36d712fef84257cc/screenshots/image-1_624x295@1.png",
+    "https://dl.flathub.org/media/io/github/catpieleaf.Stud/e69e53e5a203eafe36d712fef84257cc/screenshots/image-2_624x482@1.png",
+    "https://dl.flathub.org/media/io/github/catpieleaf.Stud/e69e53e5a203eafe36d712fef84257cc/screenshots/image-3_624x482@1.png",
+    "https://dl.flathub.org/media/io/github/catpieleaf.Stud/e69e53e5a203eafe36d712fef84257cc/screenshots/image-4_624x482@1.png"
+   ]
+  },
+  "info.compassapp.COMPASS": {
+   "strona": "https://compassapp.info",
+   "kod": "https://github.com/DSPaul/COMPASS",
+   "screens": [
+    "https://dl.flathub.org/media/info/compassapp/COMPASS/c21bb0355dd6ee03e37bd4dcf50013f6/screenshots/image-1_624x430@1.png",
+    "https://dl.flathub.org/media/info/compassapp/COMPASS/c21bb0355dd6ee03e37bd4dcf50013f6/screenshots/image-2_624x430@1.png",
+    "https://dl.flathub.org/media/info/compassapp/COMPASS/c21bb0355dd6ee03e37bd4dcf50013f6/screenshots/image-3_624x430@1.png",
+    "https://dl.flathub.org/media/info/compassapp/COMPASS/c21bb0355dd6ee03e37bd4dcf50013f6/screenshots/image-4_624x430@1.png"
+   ]
+  },
+  "io.github.yshurik.ynotbit": {
+   "strona": "https://github.com/yshurik/ynotbit",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/yshurik.ynotbit/02a92e93631e27ff7d6436a52947f058/screenshots/image-1_624x419@1.png",
+    "https://dl.flathub.org/media/io/github/yshurik.ynotbit/02a92e93631e27ff7d6436a52947f058/screenshots/image-2_624x419@1.png",
+    "https://dl.flathub.org/media/io/github/yshurik.ynotbit/02a92e93631e27ff7d6436a52947f058/screenshots/image-3_orig.png"
+   ]
+  },
+  "net.mccompanion.MCCompanion": {
+   "strona": "https://github.com/MCCORG/MCCompanion",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/net/mccompanion/MCCompanion/9572edabec80ade1457735a8022f5f5e/screenshots/image-1_624x352@1.png",
+    "https://dl.flathub.org/media/net/mccompanion/MCCompanion/9572edabec80ade1457735a8022f5f5e/screenshots/image-2_624x352@1.png",
+    "https://dl.flathub.org/media/net/mccompanion/MCCompanion/9572edabec80ade1457735a8022f5f5e/screenshots/image-3_624x352@1.png",
+    "https://dl.flathub.org/media/net/mccompanion/MCCompanion/9572edabec80ade1457735a8022f5f5e/screenshots/image-4_624x352@1.png"
+   ]
+  },
+  "org.communitybig.ashyterm": {
+   "strona": "https://github.com/big-comm/ashyterm",
+   "kod": "https://github.com/big-comm/ashyterm",
+   "screens": [
+    "https://dl.flathub.org/media/org/communitybig/ashyterm/ec7981a4b113ac3e4a5310cd1e0f0a71/screenshots/image-1_624x370@1.png",
+    "https://dl.flathub.org/media/org/communitybig/ashyterm/ec7981a4b113ac3e4a5310cd1e0f0a71/screenshots/image-2_624x370@1.png"
+   ]
+  },
+  "io.github.bigbigmdm.imsprog": {
+   "strona": "https://github.com/bigbigmdm/IMSProg/tree/main",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/bigbigmdm.imsprog/c9626496cd877c75e769a6c1d73fdbfb/screenshots/image-1_624x447@1.png",
+    "https://dl.flathub.org/media/io/github/bigbigmdm.imsprog/c9626496cd877c75e769a6c1d73fdbfb/screenshots/image-2_624x448@1.png",
+    "https://dl.flathub.org/media/io/github/bigbigmdm.imsprog/c9626496cd877c75e769a6c1d73fdbfb/screenshots/image-3_624x431@1.png"
+   ]
   }
  },
  "opisy": {
@@ -14200,6 +14365,138 @@
    "opis": "Ptyxis to terminal, który pamięta aktualny kontener przy otwieraniu nowej karty. Obsługuje podman, toolbox, distrobox i inne. Umożliwia ustawienie skrótów, kolorów i profili preferencji.",
    "kategoria": "System",
    "zamiennik": "GNOME Terminal"
+  },
+  "flathub:me.proton.Lumo": {
+   "haslo": "AI‑asystent z szyfrowaniem konce‑do‑konce",
+   "opis": "Lumo to czat‑asystent AI, który zapisuje wszystkie rozmowy w zaszyfrowanej bazie, do której nie ma dostępu nawet twórcy. Umożliwia korzystanie z sztucznej inteligencji bez ryzyka wycieków danych. Dla osób ceniących prywatność w komunikacji z AI.",
+   "kategoria": "Prywatność i bezpieczeństwo",
+   "zamiennik": ""
+  },
+  "fdroid:dev.slint.viewer": {
+   "haslo": "Podgląd interfejsów Slint na urządzeniu mobilnym",
+   "opis": "Slint Viewer pozwala wyświetlać interfejsy tworzone w Slint na telefonie, gdy komputer z edytorem jest w tej samej sieci lokalnej. Dzięki temu można testować UI na prawdziwym sprzęcie w trakcie pracy. Dla programistów tworzących aplikacje w Slint.",
+   "kategoria": "Programowanie",
+   "zamiennik": ""
+  },
+  "flathub:dev.manufloso.sim_65c02": {
+   "haslo": "Emulator i IDE dla 65C02 z dokładnością cykli",
+   "opis": "65C02 SIM emuluje procesor 65C02 oraz podłączone do niego urządzenia, a także oferuje wbudowane środowisko programistyczne. Pozwala pisać i testować kod w asemblerze 6502 oraz C. Dla hobbystów retro‑komputingu i edukacji.",
+   "kategoria": "Programowanie",
+   "zamiennik": ""
+  },
+  "flathub:graphics.friction.Friction": {
+   "haslo": "Aplikacja do tworzenia animacji i grafiki ruchomej",
+   "opis": "Friction umożliwia tworzenie animacji wektorowych i rastrowych, które można wykorzystać w filmach i na stronach internetowych. Dostarcza narzędzia do rysowania i animacji w jednym miejscu. Dla twórców multimediów i projektantów.",
+   "kategoria": "Grafika i zdjęcia",
+   "zamiennik": ""
+  },
+  "flathub:io.moonfin.moonfin": {
+   "haslo": "Klient multimediów dla serwerów własnych",
+   "opis": "Moonfin to aplikacja, która łączy się z serwerami Jellyfin, Emby i Plex, oferując spójne i konfigurowalne interfejsy na różnych urządzeniach. Obsługuje pobieranie offline, e‑książki i gry retro. Dla osób korzystających z własnych bibliotek multimedialnych.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:io.github.catpieleaf.Stud": {
+   "haslo": "Uruchamianie Roblox na Linuksie",
+   "opis": "Stud pozwala na uruchomienie klienta i studia Roblox na systemie Linux, korzystając z macOS‑owego oprogramowania. Umożliwia aktualizacje, historię gier i integrację z Discordem. Dla graczy i twórców Roblox na Linuksie.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:info.compassapp.COMPASS": {
+   "haslo": "Biblioteka cyfrowa zasobów TTRPG",
+   "opis": "COMPASS pomaga zorganizować zasoby do gier fabularnych, takie jak podręczniki, mapy i przygody. Wykrywa metadane z PDF i stron internetowych oraz pozwala na hierarchiczne tagowanie. Dla graczy i prowadzących kampanie.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:io.github.yshurik.ynotbit": {
+   "haslo": "Klient Bitmessage z szyfrowaniem i magazynem haseł",
+   "opis": "ynotbit to lekki klient Bitmessage, który przechowuje klucze w zaszyfrowanym sejfie i wiadomości w oddzielnym, zaszyfrowanym skrzynce. Obsługuje czat, kanały i wiadomości z Markdownem. Dla osób szukających zdecentralizowanej komunikacji.",
+   "kategoria": "Komunikacja",
+   "zamiennik": ""
+  },
+  "flathub:net.mccompanion.MCCompanion": {
+   "haslo": "Pomocnik do Minecraft",
+   "opis": "Umożliwia monitorowanie serwerów, przeglądanie wiki i zarządzanie skórkami. Dla graczy i administratorów serwerów. Nie wymaga instalacji w grze.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:org.communitybig.ashyterm": {
+   "haslo": "Zaawansowany emulator terminala",
+   "opis": "Obsługuje zakładki, podziały ekranu i sesje SSH. Ułatwia zarządzanie połączeniami i plikami. Dla użytkowników systemów Linux.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.bigbigmdm.imsprog": {
+   "haslo": "Programator pamięci EEPROM",
+   "opis": "Czyta, zapisuje i kasuje chipy EEPROM przy użyciu urządzeń CH341A/CH347T. Dostarcza bazę danych chipów i edytor konfiguracji. Dla hobbystów elektroniki.",
+   "kategoria": "Programowanie",
+   "zamiennik": ""
+  },
+  "flathub:codes.loers.Karlender": {
+   "haslo": "Kalendarz z synchronizacją CalDAV",
+   "opis": "Wyświetla wydarzenia w widokach miesięcznym, tygodniowym i dziennym. Synchronizuje z kontami online. Dla osób potrzebujących prostego kalendarza.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:io.webtorrent.WebTorrent": {
+   "haslo": "Odtwarzacz torrentów w czasie rzeczywistym",
+   "opis": "Pozwala odtwarzać wideo i audio z torrentów bez czekania na pobranie. Dla fanów treści multimedialnych z internetu.",
+   "kategoria": "Internet i przeglądarki",
+   "zamiennik": ""
+  },
+  "flathub:io.github.sss_says_snek.diurnals": {
+   "haslo": "Powiadomienia z Todoist",
+   "opis": "Wyświetla powiadomienia o zadaniach Todoist w regularnych odstępach. Pomaga śledzić terminy i priorytety. Dla osób korzystających z Todoist.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:com.github.lachhebo.Gabtag": {
+   "haslo": "Edytor tagów audio",
+   "opis": "Zmienia metadane plików dźwiękowych i automatycznie pobiera tagi z MusicBrainz. Dla kolekcjonerów muzyki na Linux.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:io.github.shonebinu.Exchange": {
+   "haslo": "Konwerter formatów UI GTK",
+   "opis": "Konwertuje pliki XML i Blueprint używane w GTK. Ułatwia przenoszenie projektów interfejsów. Dla programistów GTK.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.tfuxu.floodit": {
+   "haslo": "Gra polegająca na zalewaniu planszy kolorem",
+   "opis": "Celem jest pokrycie całej planszy jednym kolorem w jak najmniej ruchów. Dla miłośników prostych strategii. Wyróżnia się minimalistycznym interfejsem i szybkim tempem gry.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:fyi.zoey.TeX-Match": {
+   "haslo": "Szukaj symboli LaTeX rysując",
+   "opis": "Aplikacja pozwala znaleźć ponad 1000 symboli LaTeX, rysując je. Przydatna dla osób piszących dokumenty w LaTeX. Nie wymaga znajomości nazw symboli.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:org.kde.skanpage": {
+   "haslo": "Skanuj dokumenty i obrazy w jednym miejscu",
+   "opis": "Proste narzędzie do skanowania wielostronicowych dokumentów i obrazów z skanerów płaskich i ADF. Umożliwia obracanie, usuwanie i zapisywanie jako PDF lub obrazy.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:com.mardojai.DiccionarioLengua": {
+   "haslo": "Wyszukuj słowa w hiszpańskim słowniku",
+   "opis": "Aplikacja do przeglądania hiszpańskiego słownika DLE. Umożliwia szybkie znajdowanie definicji słów w języku hiszpańskim.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:org.gnome.Evince": {
+   "haslo": "Przeglądaj dokumenty w wielu formatach",
+   "opis": "Otwórz, przeglądaj i zaznaczaj dokumenty PDF, PS, EPS, XPS, DjVu, TIFF, DVI oraz komiksy w formatach CBR, CBT, CBZ, CB7. Prosty interfejs i wsparcie dla wielu formatów.",
+   "kategoria": "Czytanie",
+   "zamiennik": ""
+  },
+  "fdroid:software.mdev.bookstracker": {
+   "haslo": "Zarządzaj listą książek i czytaniem",
+   "opis": "Aplikacja do śledzenia książek w czterech listach: przeczytane, czytane, do przeczytania i nieukończone. Można dodawać książki z Open Library i korzystać z tagów.",
+   "kategoria": "Czytanie",
+   "zamiennik": ""
   }
  }
 }
