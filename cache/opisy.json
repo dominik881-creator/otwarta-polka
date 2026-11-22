@@ -7655,6 +7655,21 @@
     "https://dl.flathub.org/media/io/github/bigbigmdm.imsprog/c9626496cd877c75e769a6c1d73fdbfb/screenshots/image-2_624x448@1.png",
     "https://dl.flathub.org/media/io/github/bigbigmdm.imsprog/c9626496cd877c75e769a6c1d73fdbfb/screenshots/image-3_624x431@1.png"
    ]
+  },
+  "io.github.unknownskl.greenlight": {
+   "strona": "https://github.com/unknownskl/greenlight",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/unknownskl.greenlight/3a01668dcdacb74c1134aa163f31391d/screenshots/image-1_624x354@1.png",
+    "https://dl.flathub.org/media/io/github/unknownskl.greenlight/3a01668dcdacb74c1134aa163f31391d/screenshots/image-2_624x356@1.png"
+   ]
+  },
+  "org.gnome.World.Citations": {
+   "strona": "https://apps.gnome.org/Citations/",
+   "kod": "https://gitlab.gnome.org/World/citations",
+   "screens": [
+    "https://dl.flathub.org/media/org/gnome/World.Citations/6c75456a5fedee730dff2117b249ed7b/screenshots/image-1_624x448@1.png"
+   ]
   }
  },
  "opisy": {
@@ -14496,6 +14511,24 @@
    "haslo": "Zarządzaj listą książek i czytaniem",
    "opis": "Aplikacja do śledzenia książek w czterech listach: przeczytane, czytane, do przeczytania i nieukończone. Można dodawać książki z Open Library i korzystać z tagów.",
    "kategoria": "Czytanie",
+   "zamiennik": ""
+  },
+  "flathub:it.mijorus.collector": {
+   "haslo": "Przenoś pliki jednym ruchem",
+   "opis": "Umożliwia przeciąganie wielu plików do jednego okna i upuszczanie ich w dowolnym miejscu. Może też automatycznie pobierać obrazy z linków.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:org.gnome.World.Citations": {
+   "haslo": "Zarządzaj bibliografią w BibTeX",
+   "opis": "Pozwala tworzyć i edytować bibliografie w formacie BibTeX. Przydatne dla studentów i naukowców.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:io.github.unknownskl.greenlight": {
+   "haslo": "Otwarty klient do streamingu Xbox",
+   "opis": "Klient umożliwiający odtwarzanie gier z xCloud i Xbox Home Streaming na Linuxie.",
+   "kategoria": "Gry",
    "zamiennik": ""
   }
  }
