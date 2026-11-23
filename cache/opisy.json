@@ -7670,6 +7670,148 @@
    "screens": [
     "https://dl.flathub.org/media/org/gnome/World.Citations/6c75456a5fedee730dff2117b249ed7b/screenshots/image-1_624x448@1.png"
    ]
+  },
+  "io.github.tanaybhomia.Whisp": {
+   "strona": "https://tanaybhomia.github.io/Whisp",
+   "kod": "https://github.com/tanaybhomia/Whisp",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/tanaybhomia.Whisp/e434e89f9b804a7f136c21ec3a28b9ec/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/io/github/tanaybhomia.Whisp/e434e89f9b804a7f136c21ec3a28b9ec/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/io/github/tanaybhomia.Whisp/e434e89f9b804a7f136c21ec3a28b9ec/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/io/github/tanaybhomia.Whisp/e434e89f9b804a7f136c21ec3a28b9ec/screenshots/image-4_orig.png"
+   ]
+  },
+  "io.otsaloma.nfoview": {
+   "strona": "https://otsaloma.io/nfoview/",
+   "kod": "https://github.com/otsaloma/nfoview",
+   "screens": [
+    "https://dl.flathub.org/media/io/otsaloma/nfoview.desktop/40af1c1b470378a8aa6f047f2b57bb67/screenshots/image-1_624x428@1.png"
+   ]
+  },
+  "org.gnome.design.Palette": {
+   "strona": "https://gitlab.gnome.org/World/design/palette",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/gnome/design.Palette/700914991d1564a4f7cf5ca13fa89a06/screenshots/image-1_orig.png"
+   ]
+  },
+  "com.github.johnfactotum.QuickLookup": {
+   "strona": "https://github.com/johnfactotum/quick-lookup",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/com/github/johnfactotum.QuickLookup/c638d45e7d6c65780add42ba024c3043/screenshots/image-1_624x686@1.png"
+   ]
+  },
+  "in.suyogtandel.picoforge": {
+   "strona": "https://github.com/librekeys/picoforge",
+   "kod": "https://github.com/librekeys/picoforge",
+   "screens": [
+    "https://dl.flathub.org/media/in/suyogtandel/picoforge/9559ef8f47ec9401568b99de8c11edb7/screenshots/image-1_624x357@1.png",
+    "https://dl.flathub.org/media/in/suyogtandel/picoforge/9559ef8f47ec9401568b99de8c11edb7/screenshots/image-2_624x357@1.png",
+    "https://dl.flathub.org/media/in/suyogtandel/picoforge/9559ef8f47ec9401568b99de8c11edb7/screenshots/image-3_624x357@1.png"
+   ]
+  },
+  "it.dottorblaster.cauldron": {
+   "strona": "https://github.com/dottorblaster/cauldron",
+   "kod": "https://github.com/dottorblaster/cauldron",
+   "screens": [
+    "https://dl.flathub.org/media/it/dottorblaster/cauldron/11ce1d8ba322f24b80cf520e92f82f86/screenshots/image-1_624x431@1.png",
+    "https://dl.flathub.org/media/it/dottorblaster/cauldron/11ce1d8ba322f24b80cf520e92f82f86/screenshots/image-2_624x431@1.png",
+    "https://dl.flathub.org/media/it/dottorblaster/cauldron/11ce1d8ba322f24b80cf520e92f82f86/screenshots/image-3_624x431@1.png",
+    "https://dl.flathub.org/media/it/dottorblaster/cauldron/11ce1d8ba322f24b80cf520e92f82f86/screenshots/image-4_624x431@1.png"
+   ]
+  },
+  "xyz.slothlife.Jogger": {
+   "strona": "https://codeberg.org/baarkerlounger/jogger",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/xyz/slothlife/Jogger.desktop/5d1e0280897a8bfff9514601a2f3520f/screenshots/image-1_624x539@1.png",
+    "https://dl.flathub.org/media/xyz/slothlife/Jogger.desktop/5d1e0280897a8bfff9514601a2f3520f/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/xyz/slothlife/Jogger.desktop/5d1e0280897a8bfff9514601a2f3520f/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/xyz/slothlife/Jogger.desktop/5d1e0280897a8bfff9514601a2f3520f/screenshots/image-4_orig.png"
+   ]
+  },
+  "io.github.tobagin.Draughts": {
+   "strona": "https://github.com/tobagin/Draughts",
+   "kod": "https://github.com/tobagin/Draughts",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/tobagin.Draughts/da3470fd79756ace711a479d663ff9be/screenshots/image-1_624x476@1.png",
+    "https://dl.flathub.org/media/io/github/tobagin.Draughts/da3470fd79756ace711a479d663ff9be/screenshots/image-2_624x476@1.png",
+    "https://dl.flathub.org/media/io/github/tobagin.Draughts/da3470fd79756ace711a479d663ff9be/screenshots/image-3_624x476@1.png",
+    "https://dl.flathub.org/media/io/github/tobagin.Draughts/da3470fd79756ace711a479d663ff9be/screenshots/image-4_624x476@1.png"
+   ]
+  },
+  "so.onekey.Wallet": {
+   "strona": "https://onekey.so",
+   "kod": "https://github.com/OneKeyHQ/app-monorepo",
+   "screens": [
+    "https://dl.flathub.org/media/so/onekey/Wallet/1b60b330ac7ee847aac32f727b7b7202/screenshots/image-1_624x390@1.png",
+    "https://dl.flathub.org/media/so/onekey/Wallet/1b60b330ac7ee847aac32f727b7b7202/screenshots/image-2_624x390@1.png",
+    "https://dl.flathub.org/media/so/onekey/Wallet/1b60b330ac7ee847aac32f727b7b7202/screenshots/image-3_624x390@1.png",
+    "https://dl.flathub.org/media/so/onekey/Wallet/1b60b330ac7ee847aac32f727b7b7202/screenshots/image-4_624x390@1.png"
+   ]
+  },
+  "io.github.wesenseged.Pagume": {
+   "strona": "https://github.com/wesenseged/Pagume",
+   "kod": "https://github.com/wesenseged/Pagume",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/wesenseged.Pagume/902eab66b57262fd36efb555cd882b4d/screenshots/image-1_624x486@1.png",
+    "https://dl.flathub.org/media/io/github/wesenseged.Pagume/902eab66b57262fd36efb555cd882b4d/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/io/github/wesenseged.Pagume/902eab66b57262fd36efb555cd882b4d/screenshots/image-3_624x486@1.png",
+    "https://dl.flathub.org/media/io/github/wesenseged.Pagume/902eab66b57262fd36efb555cd882b4d/screenshots/image-4_orig.png"
+   ]
+  },
+  "io.github.luandevcodes.Crimson": {
+   "strona": "https://github.com/LuanDevCodes/Crimson",
+   "kod": "https://github.com/LuanDevCodes/Crimson",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/luandevcodes.Crimson/2f929c521eeb64c527125d413267c0ae/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/io/github/luandevcodes.Crimson/2f929c521eeb64c527125d413267c0ae/screenshots/image-2_orig.png",
+    "https://dl.flathub.org/media/io/github/luandevcodes.Crimson/2f929c521eeb64c527125d413267c0ae/screenshots/image-3_orig.png",
+    "https://dl.flathub.org/media/io/github/luandevcodes.Crimson/2f929c521eeb64c527125d413267c0ae/screenshots/image-4_orig.png"
+   ]
+  },
+  "dev.eltonarodrigues.panapidas": {
+   "strona": "https://panapidas.eltonarodrigues.dev",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/dev/eltonarodrigues/panapidas/04cd4b7ccd6d59c4c05346746869b168/screenshots/image-1_624x386@1.png",
+    "https://dl.flathub.org/media/dev/eltonarodrigues/panapidas/04cd4b7ccd6d59c4c05346746869b168/screenshots/image-2_624x386@1.png",
+    "https://dl.flathub.org/media/dev/eltonarodrigues/panapidas/04cd4b7ccd6d59c4c05346746869b168/screenshots/image-3_624x386@1.png"
+   ]
+  },
+  "fr.morfredus.AntRenamerQt": {
+   "strona": "https://github.com/morfredus/ant-renamer-qt",
+   "kod": "https://github.com/morfredus/ant-renamer-qt",
+   "screens": [
+    "https://dl.flathub.org/media/fr/morfredus/AntRenamerQt/655f116174fb7b474a8ef43eb54ed423/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/fr/morfredus/AntRenamerQt/655f116174fb7b474a8ef43eb54ed423/screenshots/image-2_orig.png"
+   ]
+  },
+  "app.rufin.rufin": {
+   "strona": "https://github.com/rufin-app/rufin",
+   "kod": "https://github.com/rufin-app/rufin",
+   "screens": [
+    "https://dl.flathub.org/media/app/rufin/rufin/2f340482d4f57d1a179134f9c5feafab/screenshots/image-1_624x445@1.png",
+    "https://dl.flathub.org/media/app/rufin/rufin/2f340482d4f57d1a179134f9c5feafab/screenshots/image-2_624x445@1.png",
+    "https://dl.flathub.org/media/app/rufin/rufin/2f340482d4f57d1a179134f9c5feafab/screenshots/image-3_624x445@1.png",
+    "https://dl.flathub.org/media/app/rufin/rufin/2f340482d4f57d1a179134f9c5feafab/screenshots/image-4_624x445@1.png"
+   ]
+  },
+  "io.github.heathcliff26.turbo-clicker": {
+   "strona": "https://github.com/heathcliff26/turbo-clicker",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/heathcliff26.turbo-clicker/068d8b808ef1b2250e6890779f1d0a03/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/io/github/heathcliff26.turbo-clicker/068d8b808ef1b2250e6890779f1d0a03/screenshots/image-2_orig.png"
+   ]
+  },
+  "me.proton.Authenticator": {
+   "strona": "https://proton.me/authenticator",
+   "kod": "https://github.com/ProtonMail/WebClients",
+   "screens": [
+    "https://dl.flathub.org/media/me/proton/Authenticator/10eed6851cabee9315ccebcd40f49f94/screenshots/image-1_624x512@1.png"
+   ]
   }
  },
  "opisy": {
@@ -14529,6 +14671,102 @@
    "haslo": "Otwarty klient do streamingu Xbox",
    "opis": "Klient umożliwiający odtwarzanie gier z xCloud i Xbox Home Streaming na Linuxie.",
    "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:io.github.luandevcodes.Crimson": {
+   "haslo": "Pobieraj i konwertuj filmy i dźwięki z internetu",
+   "opis": "Crimson pozwala ściągać i zmieniać formaty wideo oraz audio z serwisów online. Używa narzędzi yt-dlp i FFmpeg, więc obsługuje wiele jakości i kontenerów. Idealny dla osób chcących archiwizować treści offline.",
+   "kategoria": "Internet i przeglądarki",
+   "zamiennik": ""
+  },
+  "flathub:dev.eltonarodrigues.panapidas": {
+   "haslo": "Klient HTTP do testowania API",
+   "opis": "Panapidas to prosty program do wysyłania żądań HTTP i sprawdzania odpowiedzi. Umożliwia szybkie testowanie interfejsów API bez skomplikowanego kodu. Dobrze sprawdza się dla programistów i testerów.",
+   "kategoria": "Nauka i edukacja",
+   "zamiennik": ""
+  },
+  "flathub:fr.morfredus.AntRenamerQt": {
+   "haslo": "Zmieniaj nazwy wielu plików naraz",
+   "opis": "Ant Renamer Qt pozwala na masowe zmiany nazw plików i folderów: dodawanie, usuwanie, zamiana tekstu, numeracja, zmiana wielkości liter oraz wykorzystanie tagów z MP3 i obrazów. Ułatwia organizację bibliotek multimedialnych.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:app.rufin.rufin": {
+   "haslo": "Odtwarzacz muzyki z obsługą serwerów",
+   "opis": "Rufin to odtwarzacz, który łączy lokalne i zdalne kolekcje muzyczne (Jellyfin, Plex, Emby itp.). Ma wbudowane filtry dźwięku, normalizację głośności i możliwość kontynuacji odtwarzania na innym urządzeniu.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:io.github.heathcliff26.turbo-clicker": {
+   "haslo": "Automatyczny kliker na Linuxie",
+   "opis": "Turbo Clicker symuluje kliknięcia myszy w systemie Wayland. Umożliwia automatyzację powtarzalnych czynności w grach i aplikacjach. Wymaga zgody na zdalny dostęp do interfejsu użytkownika.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:me.proton.Authenticator": {
+   "haslo": "Menadżer kodów 2FA z szyfrowaniem",
+   "opis": "Proton Authenticator przechowuje kody dwuskładnikowe w zaszyfrowanej bazie i synchronizuje je między urządzeniami. Obsługuje TOTP i działa offline. Umożliwia import kodów z innych aplikacji.",
+   "kategoria": "Prywatność i bezpieczeństwo",
+   "zamiennik": "Google Authenticator"
+  },
+  "flathub:io.github.tanaybhomia.Whisp": {
+   "haslo": "Notatnik z gestami i Markdownem",
+   "opis": "Whisp to aplikacja do szybkiego zapisywania notatek w GNOME. Obsługuje formatowanie Markdown, OCR z obrazów oraz wyszukiwanie w notatkach. Umożliwia nawigację gestami i ekspansję tekstu.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:io.otsaloma.nfoview": {
+   "haslo": "Przeglądarka plików NFO",
+   "opis": "NFO Viewer wyświetla pliki NFO z ASCII‑artem w kodowaniu CP437. Ma ustawione czcionki i kodowanie oraz automatyczne dopasowanie okna. Ułatwia czytanie specjalnych plików tekstowych.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:org.gnome.design.Palette": {
+   "haslo": "Przeglądaj kolory GNOME",
+   "opis": "Aplikacja pokazuje paletę kolorów zgodną z wytycznymi projektowymi GNOME. Umożliwia szybkie sprawdzenie wartości kolorów i ich nazw. Przydatna dla projektantów i programistów tworzących interfejsy GNOME.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:com.github.johnfactotum.QuickLookup": {
+   "haslo": "Szybkie wyszukiwanie słów",
+   "opis": "Służy do przeglądania definicji słów i fraz z Wiktionary. Można wybrać język i przeglądać wyniki w aplikacji. Działa także z wybranym tekstem w innych programach.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:in.suyogtandel.picoforge": {
+   "haslo": "Konfiguracja kluczy bezpieczeństwa",
+   "opis": "Pozwala na ustawianie i zarządzanie kluczami pico-fido i LibreKeys. Umożliwia podgląd informacji o urządzeniu, zmianę identyfikatorów USB, ustawianie LED i monitorowanie zapisanych danych.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:it.dottorblaster.cauldron": {
+   "haslo": "Zbieraj treści z internetu",
+   "opis": "Umożliwia zapisywanie artykułów i stron internetowych do późniejszego odczytu. Działa jak Instapaper, pozwalając przechowywać interesujące treści i przeglądać je offline.",
+   "kategoria": "Internet i przeglądarki",
+   "zamiennik": ""
+  },
+  "flathub:xyz.slothlife.Jogger": {
+   "haslo": "Śledź aktywność fizyczną",
+   "opis": "Rejestruje biegi, spacery, jazdę na rowerze i pływanie. Pokazuje statystyki i historię treningów na urządzeniach z Linuxem mobilnym.",
+   "kategoria": "Zdrowie i sport",
+   "zamiennik": ""
+  },
+  "flathub:io.github.tobagin.Draughts": {
+   "haslo": "Gra w warcaby online",
+   "opis": "Oferuje 16 wariantów warcabów, poziomy AI i tryb multiplayer. Gra ma nowoczesny interfejs i pozwala na rozgrywki lokalne oraz online.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:so.onekey.Wallet": {
+   "haslo": "Portfel kryptowalutowy",
+   "opis": "Zarządza różnymi aktywami cyfrowymi i NFT w jednym miejscu. Umożliwia przechowywanie, wymianę i śledzenie salda. Zaprojektowany z myślą o prostocie użytkowania.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:io.github.wesenseged.Pagume": {
+   "haslo": "Kalendarz etiopski offline",
+   "opis": "Pokazuje kalendarz etiopski, święta, dni postu oraz konwertery między kalendarzem etiopskim a gregoriańskim. Obsługuje cyfry Geez i arabski.",
+   "kategoria": "Narzędzia",
    "zamiennik": ""
   }
  }
