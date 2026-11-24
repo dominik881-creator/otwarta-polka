@@ -7812,6 +7812,58 @@
    "screens": [
     "https://dl.flathub.org/media/me/proton/Authenticator/10eed6851cabee9315ccebcd40f49f94/screenshots/image-1_624x512@1.png"
    ]
+  },
+  "com.gitlab.azymohliad.Qwertone": {
+   "strona": "https://gitlab.com/azymohliad/qwertone",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/com/gitlab/azymohliad.Qwertone/7b3c4ceb35ebe9b24c04e7cb06eb2076/screenshots/image-1_624x426@1.png"
+   ]
+  },
+  "io.github.fkinoshita.Telegraph": {
+   "strona": "https://github.com/fkinoshita/Telegraph",
+   "kod": "https://github.com/fkinoshita/Telegraph/",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/fkinoshita.Telegraph/e95da2d9cecabdfbaf74d8638ef0c550/screenshots/image-1_orig.png",
+    "https://dl.flathub.org/media/io/github/fkinoshita.Telegraph/e95da2d9cecabdfbaf74d8638ef0c550/screenshots/image-2_orig.png"
+   ]
+  },
+  "org.munadi.Munadi": {
+   "strona": "https://munadi.org/",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/munadi/Munadi/13ed90f308d9faf9e09f004c15e17e19/screenshots/image-1_624x1083@1.png",
+    "https://dl.flathub.org/media/org/munadi/Munadi/13ed90f308d9faf9e09f004c15e17e19/screenshots/image-2_624x1083@1.png",
+    "https://dl.flathub.org/media/org/munadi/Munadi/13ed90f308d9faf9e09f004c15e17e19/screenshots/image-3_624x449@1.png",
+    "https://dl.flathub.org/media/org/munadi/Munadi/13ed90f308d9faf9e09f004c15e17e19/screenshots/image-4_624x1069@1.png"
+   ]
+  },
+  "pm.mirko.Atoms": {
+   "strona": "https://github.com/AtomsDevs/Atoms",
+   "kod": "https://github.com/AtomsDevs/Atoms",
+   "screens": [
+    "https://dl.flathub.org/media/pm/mirko/Atoms/2b9b103449773bb61e3665302b6b5a87/screenshots/image-1_624x408@1.png",
+    "https://dl.flathub.org/media/pm/mirko/Atoms/2b9b103449773bb61e3665302b6b5a87/screenshots/image-2_624x474@1.png",
+    "https://dl.flathub.org/media/pm/mirko/Atoms/2b9b103449773bb61e3665302b6b5a87/screenshots/image-3_624x474@1.png",
+    "https://dl.flathub.org/media/pm/mirko/Atoms/2b9b103449773bb61e3665302b6b5a87/screenshots/image-4_624x474@1.png"
+   ]
+  },
+  "org.exbin.BinEd": {
+   "strona": "https://bined.exbin.org/editor",
+   "kod": "https://github.com/exbin/bined",
+   "screens": [
+    "https://dl.flathub.org/media/org/exbin/BinEd/4c741824945f10f754944701a73f08fd/screenshots/image-1_624x568@1.png"
+   ]
+  },
+  "de.wagnermartin.Plattenalbum": {
+   "strona": "https://github.com/SoongNoonien/plattenalbum",
+   "kod": "https://github.com/SoongNoonien/plattenalbum",
+   "screens": [
+    "https://dl.flathub.org/media/de/wagnermartin/Plattenalbum/4bc1f4468a4aff18c18483713684edca/screenshots/image-1_624x474@1.png",
+    "https://dl.flathub.org/media/de/wagnermartin/Plattenalbum/4bc1f4468a4aff18c18483713684edca/screenshots/image-2_624x474@1.png",
+    "https://dl.flathub.org/media/de/wagnermartin/Plattenalbum/4bc1f4468a4aff18c18483713684edca/screenshots/image-3_624x474@1.png",
+    "https://dl.flathub.org/media/de/wagnermartin/Plattenalbum/4bc1f4468a4aff18c18483713684edca/screenshots/image-4_orig.png"
+   ]
   }
  },
  "opisy": {
@@ -14767,6 +14819,48 @@
    "haslo": "Kalendarz etiopski offline",
    "opis": "Pokazuje kalendarz etiopski, święta, dni postu oraz konwertery między kalendarzem etiopskim a gregoriańskim. Obsługuje cyfry Geez i arabski.",
    "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:com.gitlab.azymohliad.Qwertone": {
+   "haslo": "Instrument z klawiatury",
+   "opis": "Qwertone zamienia klawiaturę QWERTY w prosty syntezator dźwięku. Umożliwia tworzenie muzyki bez dodatkowych kontrolerów. Idealny dla osób chcących szybko eksperymentować z dźwiękiem.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:io.github.fkinoshita.Telegraph": {
+   "haslo": "Tłumacz kodu Morse'a",
+   "opis": "Telegraph pozwala pisać wiadomości i natychmiast przekształca je w kod Morse'a oraz odwrotnie. Przydatny dla osób uczących się lub potrzebujących szybkiego przekazu w formie dźwiękowej lub świetlnej.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:com.ranfdev.Lobjur": {
+   "haslo": "Klient GNOME do Lobsters i Hacker News",
+   "opis": "Lobjur to natywny klient dla GNOME, który umożliwia przeglądanie wielu kanałów, rozwijanie komentarzy i wbudowaną przeglądarkę internetową. Dla użytkowników ceniących się prostym interfejsem w środowisku GNOME.",
+   "kategoria": "Internet i przeglądarki",
+   "zamiennik": ""
+  },
+  "flathub:org.munadi.Munadi": {
+   "haslo": "Aplikacja z modlitwami",
+   "opis": "Munadi wyświetla czasy modlitw dla większości miast oraz pozwala na wybór i regulację dźwięków modlitwy. Nie zawiera reklam i jest przeznaczona dla osób praktykujących islam.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:pm.mirko.Atoms": {
+   "haslo": "Wielorazowe środowiska w terminalu",
+   "opis": "Atoms pozwala otwierać trwałe środowiska Linux w terminalu, zarządzając uprawnieniami i procesami. Umożliwia pracę z wieloma środowiskami jednocześnie, zachowując izolację.",
+   "kategoria": "System",
+   "zamiennik": ""
+  },
+  "flathub:org.exbin.BinEd": {
+   "haslo": "Edytor binarny i szesnastkowy",
+   "opis": "BinEd to otwarty edytor, który wyświetla dane w formie szesnastkowej, binarnej, ósemkowej i dziesiętnej oraz tekstowej. Obsługuje duże pliki i pozwala na edycję oraz wyszukiwanie kodów.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:de.wagnermartin.Plattenalbum": {
+   "haslo": "Klient MPD z dużymi okładkami",
+   "opis": "Plattenalbum łączy się z Music Player Daemon, pozwala przeglądać kolekcję i odtwarzać muzykę bez konieczności tworzenia playlist. Wyświetla duże okładki albumów dla lepszej wizualizacji.",
+   "kategoria": "Muzyka i wideo",
    "zamiennik": ""
   }
  }
