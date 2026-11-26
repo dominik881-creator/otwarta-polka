@@ -7864,6 +7864,95 @@
     "https://dl.flathub.org/media/de/wagnermartin/Plattenalbum/4bc1f4468a4aff18c18483713684edca/screenshots/image-3_624x474@1.png",
     "https://dl.flathub.org/media/de/wagnermartin/Plattenalbum/4bc1f4468a4aff18c18483713684edca/screenshots/image-4_orig.png"
    ]
+  },
+  "io.github.ans_ibrahim.Memento": {
+   "strona": "https://github.com/ans-ibrahim/Memento",
+   "kod": "https://github.com/ans-ibrahim/Memento",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/ans_ibrahim.Memento/7a0c5a8e9e7c5ef815b2089e31adfa85/screenshots/image-1_624x469@1.png",
+    "https://dl.flathub.org/media/io/github/ans_ibrahim.Memento/7a0c5a8e9e7c5ef815b2089e31adfa85/screenshots/image-2_624x469@1.png",
+    "https://dl.flathub.org/media/io/github/ans_ibrahim.Memento/7a0c5a8e9e7c5ef815b2089e31adfa85/screenshots/image-3_624x469@1.png",
+    "https://dl.flathub.org/media/io/github/ans_ibrahim.Memento/7a0c5a8e9e7c5ef815b2089e31adfa85/screenshots/image-4_624x471@1.png"
+   ]
+  },
+  "com.kavilgroup.gestimator": {
+   "strona": "https://manuvarkey.github.io/GEstimator",
+   "kod": "https://github.com/manuvarkey/GEstimator",
+   "screens": [
+    "https://dl.flathub.org/media/com/kavilgroup/gestimator/5f8dfe9d446b07a5e63b258b2ac1edd5/screenshots/image-1_624x404@1.png",
+    "https://dl.flathub.org/media/com/kavilgroup/gestimator/5f8dfe9d446b07a5e63b258b2ac1edd5/screenshots/image-2_624x404@1.png",
+    "https://dl.flathub.org/media/com/kavilgroup/gestimator/5f8dfe9d446b07a5e63b258b2ac1edd5/screenshots/image-3_624x404@1.png",
+    "https://dl.flathub.org/media/com/kavilgroup/gestimator/5f8dfe9d446b07a5e63b258b2ac1edd5/screenshots/image-4_624x404@1.png"
+   ]
+  },
+  "io.github.zaedus.spider": {
+   "strona": "https://github.com/Zaedus/spider",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/zaedus.spider/155e7adf78a18240d3a1e7396be1906a/screenshots/image-1_624x418@1.png",
+    "https://dl.flathub.org/media/io/github/zaedus.spider/155e7adf78a18240d3a1e7396be1906a/screenshots/image-2_624x376@1.png"
+   ]
+  },
+  "org.gnu.emacs": {
+   "strona": "https://www.gnu.org/software/emacs",
+   "kod": "https://git.savannah.gnu.org/cgit/emacs.git",
+   "screens": [
+    "https://dl.flathub.org/media/org/gnu/emacs/79f1308b0e57813710dafafdc7ce9a4f/screenshots/image-1_624x351@1.png"
+   ]
+  },
+  "com.bespokesynth.BespokeSynth": {
+   "strona": "https://www.bespokesynth.com/",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/com/bespokesynth/BespokeSynth/18c5688bbec29eab333d201e05d7c1f5/screenshots/image-1_624x403@1.png"
+   ]
+  },
+  "org.twinery.Twine": {
+   "strona": "https://twinery.org/",
+   "kod": "https://github.com/klembot/twinejs",
+   "screens": [
+    "https://dl.flathub.org/media/org/twinery/Twine/2d5bab87bc7b5090fe8776d6af5035eb/screenshots/image-1_624x351@1.png",
+    "https://dl.flathub.org/media/org/twinery/Twine/2d5bab87bc7b5090fe8776d6af5035eb/screenshots/image-2_624x351@1.png"
+   ]
+  },
+  "io.github.cgueret.Scriptorium": {
+   "strona": "https://github.com/cgueret/Scriptorium",
+   "kod": "https://github.com/cgueret/Scriptorium",
+   "screens": [
+    "https://dl.flathub.org/media/io/github/cgueret.Scriptorium/bd86165f06c1b3e0505589008c0b2f29/screenshots/image-1_624x461@1.png",
+    "https://dl.flathub.org/media/io/github/cgueret.Scriptorium/bd86165f06c1b3e0505589008c0b2f29/screenshots/image-2_624x461@1.png",
+    "https://dl.flathub.org/media/io/github/cgueret.Scriptorium/bd86165f06c1b3e0505589008c0b2f29/screenshots/image-3_624x461@1.png",
+    "https://dl.flathub.org/media/io/github/cgueret.Scriptorium/bd86165f06c1b3e0505589008c0b2f29/screenshots/image-4_624x461@1.png"
+   ]
+  },
+  "org.endlessos.Key": {
+   "strona": "https://www.endlessos.org/key",
+   "kod": "",
+   "screens": [
+    "https://dl.flathub.org/media/org/endlessos/Key/b7351554794b37bdba2c7ed933309cc2/screenshots/image-1_624x351@1.png",
+    "https://dl.flathub.org/media/org/endlessos/Key/b7351554794b37bdba2c7ed933309cc2/screenshots/image-2_624x351@1.png",
+    "https://dl.flathub.org/media/org/endlessos/Key/b7351554794b37bdba2c7ed933309cc2/screenshots/image-3_624x351@1.png",
+    "https://dl.flathub.org/media/org/endlessos/Key/b7351554794b37bdba2c7ed933309cc2/screenshots/image-4_624x351@1.png"
+   ]
+  },
+  "app.chunker.chunker": {
+   "strona": "https://chunker.app",
+   "kod": "https://github.com/HiveGamesOSS/Chunker",
+   "screens": [
+    "https://dl.flathub.org/media/app/chunker/chunker/6b72aa04d5f5a122e3d6cccc8aca30c3/screenshots/image-1_624x327@1.png",
+    "https://dl.flathub.org/media/app/chunker/chunker/6b72aa04d5f5a122e3d6cccc8aca30c3/screenshots/image-2_624x351@1.png",
+    "https://dl.flathub.org/media/app/chunker/chunker/6b72aa04d5f5a122e3d6cccc8aca30c3/screenshots/image-3_624x351@1.png"
+   ]
+  },
+  "net.ptilouk.nokta": {
+   "strona": "https://nokta.ptilouk.net",
+   "kod": "https://framagit.org/Gee/nokta",
+   "screens": [
+    "https://dl.flathub.org/media/net/ptilouk/nokta/ae1abc141574b82862ae139821623704/screenshots/image-1_624x351@1.png",
+    "https://dl.flathub.org/media/net/ptilouk/nokta/ae1abc141574b82862ae139821623704/screenshots/image-2_624x351@1.png",
+    "https://dl.flathub.org/media/net/ptilouk/nokta/ae1abc141574b82862ae139821623704/screenshots/image-3_624x351@1.png",
+    "https://dl.flathub.org/media/net/ptilouk/nokta/ae1abc141574b82862ae139821623704/screenshots/image-4_624x351@1.png"
+   ]
   }
  },
  "opisy": {
@@ -14861,6 +14950,72 @@
    "haslo": "Klient MPD z dużymi okładkami",
    "opis": "Plattenalbum łączy się z Music Player Daemon, pozwala przeglądać kolekcję i odtwarzać muzykę bez konieczności tworzenia playlist. Wyświetla duże okładki albumów dla lepszej wizualizacji.",
    "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:app.chunker.chunker": {
+   "haslo": "Konwertuje światy Minecraft między wersjami",
+   "opis": "Chunker pozwala przenieść mapy z wersji Java do Bedrock i odwrotnie. Użytkownik wybiera plik, a program automatycznie zmienia format. Przydatne dla graczy, którzy chcą grać na różnych platformach.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:net.ptilouk.nokta": {
+   "haslo": "Gra przygodowa o małym nietoperzu",
+   "opis": "Nokta to interaktywna gra w języku francuskim, w której nietoperz uczy się latać, spotykając różne zwierzęta. Gra jest prosta i edukacyjna, ale dostępna tylko po francusku.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:io.github.ans_ibrahim.Memento": {
+   "haslo": "Rejestruj oglądane filmy i seriale",
+   "opis": "Memento umożliwia tworzenie listy filmów i seriali, dodawanie ich do obserwacji oraz zapisywanie historii odtwarzania. Aplikacja korzysta z bazy TMDB do wyszukiwania tytułów i wyświetla statystyki oglądania.",
+   "kategoria": "Narzędzia",
+   "zamiennik": ""
+  },
+  "flathub:com.kavilgroup.gestimator": {
+   "haslo": "Szacowanie kosztów prac budowlanych",
+   "opis": "GEstimator przygotowuje wyceny i ilościowe zestawienia prac budowlanych i elektrycznych. Umożliwia analizę stawek, edycję danych i otwieranie wielu projektów w zakładkach.",
+   "kategoria": "Finanse",
+   "zamiennik": ""
+  },
+  "flathub:io.github.zaedus.spider": {
+   "haslo": "Instaluj aplikacje webowe w GNOME",
+   "opis": "Spider pozwala łatwo instalować i uruchamiać aplikacje webowe jako oddzielne programy. Każda aplikacja jest izolowana, ma własny pasek tytułowy i wysokiej jakości ikony.",
+   "kategoria": "Internet i przeglądarki",
+   "zamiennik": ""
+  },
+  "flathub:org.gnu.emacs": {
+   "haslo": "Rozszerzalny edytor tekstu",
+   "opis": "GNU Emacs to edytor, który można rozbudować o własne funkcje przy pomocy Emacs Lisp. Obsługuje wiele formatów, posiada wbudowaną dokumentację i pełne wsparcie Unicode.",
+   "kategoria": "Programowanie",
+   "zamiennik": ""
+  },
+  "flathub:com.bespokesynth.BespokeSynth": {
+   "haslo": "Modularny syntezator dźwięku",
+   "opis": "BespokeSynth to program do tworzenia dźwięków, w którym moduły można łączyć w dowolny sposób. Nie ma tradycyjnej osi czasu, a zamiast tego skupia się na improwizacji i eksploracji.",
+   "kategoria": "Muzyka i wideo",
+   "zamiennik": ""
+  },
+  "flathub:org.twinery.Twine": {
+   "haslo": "Twórz interaktywne historie bez kodu",
+   "opis": "Twine umożliwia tworzenie opowieści z rozgałęzieniami i warunkami logicznymi. Publikowane są jako pliki HTML, które można umieścić na dowolnej stronie.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:io.sourceforge.pentobi": {
+   "haslo": "Sztuczny przeciwnik do gry Blokus",
+   "opis": "Pentobi pozwala grać w Blokus przeciwko komputerowi. Dostępne są różne poziomy trudności i warianty gry. Można zapisywać partie i analizować ruchy.",
+   "kategoria": "Gry",
+   "zamiennik": ""
+  },
+  "flathub:io.github.cgueret.Scriptorium": {
+   "haslo": "Edytor i planer tekstów",
+   "opis": "Scriptorium to prosty edytor tekstu z narzędziem do planowania i publikowania e-booków. Umożliwia tworzenie scen, pisanie treści i eksport do formatu epub.",
+   "kategoria": "Biuro i notatki",
+   "zamiennik": ""
+  },
+  "flathub:org.endlessos.Key": {
+   "haslo": "Zbiór edukacyjnych zasobów",
+   "opis": "Endless Key oferuje bezpieczny dostęp do materiałów edukacyjnych z różnych dziedzin. Zawiera filmy, e-booki i zadania dla uczniów 5–9 klasy.",
+   "kategoria": "Nauka i edukacja",
    "zamiennik": ""
   }
  }
